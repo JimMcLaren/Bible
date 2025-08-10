@@ -1,0 +1,367 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ncx version="2005-1" xmlns="http://www.daisy.org/z3986/2005/ncx/">
+  <head>
+    <meta name="dtb:uid" content="jedisaber.com06282007214712"/>
+    <meta name="dtb:depth" content="3"/>
+    <meta name="dtb:totalPageCount" content="0"/>
+    <meta name="dtb:maxPageNumber" content="0"/>
+  </head>
+  <docTitle>
+    <text>World English Bible New Testament Updated - in chronological order</text>
+  </docTitle>
+  <navMap>
+    <navPoint playorder="1" id="copyright">
+      <navLabel>
+        <text>©?</text>
+      </navLabel>
+      <content src="copyright.htm"/>
+    </navPoint>
+    <navPoint playorder="2" id="glossary">
+      <navLabel>
+          <text>Glossary</text>
+      </navLabel>
+      <content src="glossary.htm"/>
+    </navPoint>
+    <navPoint playorder="3" id="preface">
+      <navLabel>
+          <text>Preface</text>
+      </navLabel>
+      <content src="Preface.xhtml"/>
+    </navPoint>
+    <navPoint playorder="3" id="toca55"><navLabel><text>Birth and childhood of Jesus</text></navLabel><content src="Luke-1.htm"/>
+      <navPoint playorder="4" id="toc967"><navLabel><text>Luke 1</text></navLabel><content src="Luke-1.htm"/></navPoint>
+      <navPoint playorder="5" id="toc968"><navLabel><text>John 1:1-18</text></navLabel><content src="John-1-1-18.htm"/></navPoint>
+      <navPoint playorder="6" id="toc969"><navLabel><text>Matthew 1</text></navLabel><content src="Matthew-1.htm"/></navPoint>
+      <navPoint playorder="7" id="toc970"><navLabel><text>Luke 2:1-40</text></navLabel><content src="Luke-2-1-40.htm"/></navPoint>
+      <navPoint playorder="8" id="toc971"><navLabel><text>Matthew 2</text></navLabel><content src="Matthew-2.htm"/></navPoint>
+      <navPoint playorder="9" id="toc972"><navLabel><text>Luke 2:41-52</text></navLabel><content src="Luke-2-41-52.htm"/></navPoint>
+    </navPoint>
+    <navPoint playorder="10" id="toca56"><navLabel><text>Preparation for the beginning of Jesus' ministry</text></navLabel><content src="Matthew-3.htm"/>
+      <navPoint playorder="11" id="toc973"><navLabel><text>Matthew 3</text></navLabel><content src="Matthew-3.htm"/></navPoint>
+      <navPoint playorder="12" id="toc974"><navLabel><text>Mark 1</text></navLabel><content src="Mark-1.htm"/></navPoint>
+      <navPoint playorder="13" id="toc975"><navLabel><text>Luke 3</text></navLabel><content src="Luke-3.htm"/></navPoint>
+    </navPoint>
+    <navPoint playorder="14" id="toca57"><navLabel><text>The ministry of Jesus is Galilee</text></navLabel><content src="Matthew-4.htm"/>
+      <navPoint playorder="15" id="toc976"><navLabel><text>Matthew 4</text></navLabel><content src="Matthew-4.htm"/></navPoint>
+      <navPoint playorder="16" id="toc977"><navLabel><text>Luke 4</text></navLabel><content src="Luke-4.htm"/></navPoint>
+      <navPoint playorder="17" id="toc978"><navLabel><text>Luke 5</text></navLabel><content src="Luke-5.htm"/></navPoint>
+      <navPoint playorder="18" id="toc979"><navLabel><text>John 1:19-51</text></navLabel><content src="John-1-19-51.htm"/></navPoint>
+      <navPoint playorder="19" id="toc980"><navLabel><text>John 2</text></navLabel><content src="John-2.htm"/></navPoint>
+      <navPoint playorder="20" id="toc981"><navLabel><text>John 3</text></navLabel><content src="John-3.htm"/></navPoint>
+      <navPoint playorder="21" id="toc982"><navLabel><text>John 4</text></navLabel><content src="John-4.htm"/></navPoint>
+      <navPoint playorder="22" id="toc983"><navLabel><text>Mark 2</text></navLabel><content src="Mark-2.htm"/></navPoint>
+      <navPoint playorder="23" id="toc984"><navLabel><text>John 5</text></navLabel><content src="John-5.htm"/></navPoint>
+      <navPoint playorder="24" id="toc985"><navLabel><text>Matthew 12:1-21</text></navLabel><content src="Matthew-12-1-21.htm"/></navPoint>
+      <navPoint playorder="25" id="toc986"><navLabel><text>Mark 3</text></navLabel><content src="Mark-3.htm"/></navPoint>
+      <navPoint playorder="26" id="toc987"><navLabel><text>Luke 6</text></navLabel><content src="Luke-6.htm"/></navPoint>
+      <navPoint playorder="27" id="toc988"><navLabel><text>Matthew 5</text></navLabel><content src="Matthew-5.htm"/></navPoint>
+      <navPoint playorder="28" id="toc989"><navLabel><text>Matthew 6</text></navLabel><content src="Matthew-6.htm"/></navPoint>
+      <navPoint playorder="29" id="toc990"><navLabel><text>Matthew 7</text></navLabel><content src="Matthew-7.htm"/></navPoint>
+      <navPoint playorder="30" id="toc991"><navLabel><text>Matthew 8:1-13</text></navLabel><content src="Matthew-8-1-13.htm"/></navPoint>
+      <navPoint playorder="31" id="toc992"><navLabel><text>Luke 7</text></navLabel><content src="Luke-7.htm"/></navPoint>
+      <navPoint playorder="32" id="toc993"><navLabel><text>Matthew 11</text></navLabel><content src="Matthew-11.htm"/></navPoint>
+      <navPoint playorder="33" id="toc994"><navLabel><text>Matthew 12:22-50</text></navLabel><content src="Matthew-12-22-50.htm"/></navPoint>
+      <navPoint playorder="34" id="toc995"><navLabel><text>Matthew 13</text></navLabel><content src="Matthew-13.htm"/></navPoint>
+      <navPoint playorder="35" id="toc996"><navLabel><text>Luke 8</text></navLabel><content src="Luke-8.htm"/></navPoint>
+      <navPoint playorder="36" id="toc997"><navLabel><text>Matthew 8:14-34</text></navLabel><content src="Matthew-8-14-34.htm"/></navPoint>
+      <navPoint playorder="37" id="toc998"><navLabel><text>Mark 4</text></navLabel><content src="Mark-4.htm"/></navPoint>
+      <navPoint playorder="38" id="toc999"><navLabel><text>Mark 5</text></navLabel><content src="Mark-5.htm"/></navPoint>
+      <navPoint playorder="39" id="toc1000"><navLabel><text>Matthew 9</text></navLabel><content src="Matthew-9.htm"/></navPoint>
+      <navPoint playorder="40" id="toc1001"><navLabel><text>Matthew 10</text></navLabel><content src="Matthew-10.htm"/></navPoint>
+    </navPoint>
+    <navPoint playorder="41" id="toca58"><navLabel><text>The Final Year: Jesus' ministry in Judea and Perea</text></navLabel><content src="Matthew-14.htm"/>
+      <navPoint playorder="42" id="toc1002"><navLabel><text>Matthew 14</text></navLabel><content src="Matthew-14.htm"/></navPoint>
+      <navPoint playorder="43" id="toc1003"><navLabel><text>Mark 6</text></navLabel><content src="Mark-6.htm"/></navPoint>
+      <navPoint playorder="44" id="toc1004"><navLabel><text>Luke 9:1-17</text></navLabel><content src="Luke-9-1-17.htm"/></navPoint>
+      <navPoint playorder="45" id="toc1005"><navLabel><text>John 6</text></navLabel><content src="John-6.htm"/></navPoint>
+      <navPoint playorder="46" id="toc1006"><navLabel><text>Matthew 15</text></navLabel><content src="Matthew-15.htm"/></navPoint>
+      <navPoint playorder="47" id="toc1007"><navLabel><text>Mark 7</text></navLabel><content src="Mark-7.htm"/></navPoint>
+      <navPoint playorder="48" id="toc1008"><navLabel><text>Matthew 16</text></navLabel><content src="Matthew-16.htm"/></navPoint>
+      <navPoint playorder="49" id="toc1009"><navLabel><text>Mark 8</text></navLabel><content src="Mark-8.htm"/></navPoint>
+      <navPoint playorder="50" id="toc1010"><navLabel><text>Luke 9:18-27</text></navLabel><content src="Luke-9-18-27.htm"/></navPoint>
+      <navPoint playorder="51" id="toc1011"><navLabel><text>Matthew 17</text></navLabel><content src="Matthew-17.htm"/></navPoint>
+      <navPoint playorder="52" id="toc1012"><navLabel><text>Mark 9</text></navLabel><content src="Mark-9.htm"/></navPoint>
+      <navPoint playorder="53" id="toc1013"><navLabel><text>Luke 9:28-62</text></navLabel><content src="Luke-9-28-62.htm"/></navPoint>
+      <navPoint playorder="54" id="toc1014"><navLabel><text>Matthew 18</text></navLabel><content src="Matthew-18.htm"/></navPoint>
+      <navPoint playorder="55" id="toc1015"><navLabel><text>John 7</text></navLabel><content src="John-7.htm"/></navPoint>
+      <navPoint playorder="56" id="toc1016"><navLabel><text>John 8</text></navLabel><content src="John-8.htm"/></navPoint>
+      <navPoint playorder="57" id="toc1017"><navLabel><text>John 9</text></navLabel><content src="John-9.htm"/></navPoint>
+      <navPoint playorder="58" id="toc1018"><navLabel><text>John 10:1-21</text></navLabel><content src="John-10-1-21.htm"/></navPoint>
+      <navPoint playorder="59" id="toc1019"><navLabel><text>Luke 10</text></navLabel><content src="Luke-10.htm"/></navPoint>
+      <navPoint playorder="60" id="toc1020"><navLabel><text>Luke 11</text></navLabel><content src="Luke-11.htm"/></navPoint>
+      <navPoint playorder="61" id="toc1021"><navLabel><text>John 10:22-42</text></navLabel><content src="John-10-22-42.htm"/></navPoint>
+      <navPoint playorder="62" id="toc1022"><navLabel><text>Luke 12</text></navLabel><content src="Luke-12.htm"/></navPoint>
+      <navPoint playorder="63" id="toc1023"><navLabel><text>Luke 13</text></navLabel><content src="Luke-13.htm"/></navPoint>
+      <navPoint playorder="64" id="toc1024"><navLabel><text>Luke 14</text></navLabel><content src="Luke-14.htm"/></navPoint>
+      <navPoint playorder="65" id="toc1025"><navLabel><text>Luke 15</text></navLabel><content src="Luke-15.htm"/></navPoint>
+      <navPoint playorder="66" id="toc1026"><navLabel><text>Luke 16</text></navLabel><content src="Luke-16.htm"/></navPoint>
+      <navPoint playorder="67" id="toc1027"><navLabel><text>Luke 17:1-10</text></navLabel><content src="Luke-17-1-10.htm"/></navPoint>
+      <navPoint playorder="68" id="toc1028"><navLabel><text>John 11</text></navLabel><content src="John-11.htm"/></navPoint>
+      <navPoint playorder="69" id="toc1029"><navLabel><text>Luke 17:11-36</text></navLabel><content src="Luke-17-11-36.htm"/></navPoint>
+      <navPoint playorder="70" id="toc1030"><navLabel><text>Luke 18:1-14</text></navLabel><content src="Luke-18-1-14.htm"/></navPoint>
+      <navPoint playorder="71" id="toc1031"><navLabel><text>Matthew 19</text></navLabel><content src="Matthew-19.htm"/></navPoint>
+      <navPoint playorder="72" id="toc1032"><navLabel><text>Mark 10</text></navLabel><content src="Mark-10.htm"/></navPoint>
+      <navPoint playorder="73" id="toc1033"><navLabel><text>Matthew 20</text></navLabel><content src="Matthew-20.htm"/></navPoint>
+    </navPoint>
+    <navPoint playorder="74" id="toca59"><navLabel><text>Jesus' final days in Jerusalem </text></navLabel><content src="Matthew-21.htm"/>
+      <navPoint playorder="75" id="toc1034"><navLabel><text>Matthew 21</text></navLabel><content src="Matthew-21.htm"/></navPoint>
+      <navPoint playorder="76" id="toc1035"><navLabel><text>Luke 18:15-43</text></navLabel><content src="Luke-18-15-43.htm"/></navPoint>
+      <navPoint playorder="77" id="toc1036"><navLabel><text>Luke 19</text></navLabel><content src="Luke-19.htm"/></navPoint>
+      <navPoint playorder="78" id="toc1037"><navLabel><text>Mark 11</text></navLabel><content src="Mark-11.htm"/></navPoint>
+      <navPoint playorder="79" id="toc1038"><navLabel><text>John 12</text></navLabel><content src="John-12.htm"/></navPoint>
+      <navPoint playorder="80" id="toc1039"><navLabel><text>Matthew 22</text></navLabel><content src="Matthew-22.htm"/></navPoint>
+      <navPoint playorder="81" id="toc1040"><navLabel><text>Mark 12</text></navLabel><content src="Mark-12.htm"/></navPoint>
+      <navPoint playorder="82" id="toc1041"><navLabel><text>Matthew 23</text></navLabel><content src="Matthew-23.htm"/></navPoint>
+      <navPoint playorder="83" id="toc1042"><navLabel><text>Luke 20</text></navLabel><content src="Luke-20.htm"/></navPoint>
+      <navPoint playorder="84" id="toc1043"><navLabel><text>Luke 21</text></navLabel><content src="Luke-21.htm"/></navPoint>
+      <navPoint playorder="85" id="toc1044"><navLabel><text>Mark 13</text></navLabel><content src="Mark-13.htm"/></navPoint>
+      <navPoint playorder="86" id="toc1045"><navLabel><text>Matthew 24</text></navLabel><content src="Matthew-24.htm"/></navPoint>
+      <navPoint playorder="87" id="toc1046"><navLabel><text>Matthew 25</text></navLabel><content src="Matthew-25.htm"/></navPoint>
+    </navPoint>
+    <navPoint playorder="88" id="toca60"><navLabel><text>Trial and crucifixion</text></navLabel><content src="Matthew-23.htm"/>
+      <navPoint playorder="89" id="toc1047"><navLabel><text>Matthew 26</text></navLabel><content src="Matthew-26.htm"/></navPoint>
+      <navPoint playorder="90" id="toc1048"><navLabel><text>Mark 14</text></navLabel><content src="Mark-14.htm"/></navPoint>
+      <navPoint playorder="91" id="toc1049"><navLabel><text>Luke 22</text></navLabel><content src="Luke-22.htm"/></navPoint>
+      <navPoint playorder="92" id="toc1050"><navLabel><text>John 13</text></navLabel><content src="John-13.htm"/></navPoint>
+      <navPoint playorder="93" id="toc1051"><navLabel><text>John 14</text></navLabel><content src="John-14.htm"/></navPoint>
+      <navPoint playorder="94" id="toc1052"><navLabel><text>John 15</text></navLabel><content src="John-15.htm"/></navPoint>
+      <navPoint playorder="95" id="toc1053"><navLabel><text>John 16</text></navLabel><content src="John-16.htm"/></navPoint>
+      <navPoint playorder="96" id="toc1054"><navLabel><text>John 17</text></navLabel><content src="John-17.htm"/></navPoint>
+      <navPoint playorder="97" id="toc1055"><navLabel><text>Matthew 27</text></navLabel><content src="Matthew-27.htm"/></navPoint>
+      <navPoint playorder="98" id="toc1056"><navLabel><text>Mark 15</text></navLabel><content src="Mark-15.htm"/></navPoint>
+      <navPoint playorder="99" id="toc1057"><navLabel><text>Luke 23</text></navLabel><content src="Luke-23.htm"/></navPoint>
+      <navPoint playorder="100" id="toc1058"><navLabel><text>John 18</text></navLabel><content src="John-18.htm"/></navPoint>
+      <navPoint playorder="101" id="toc1059"><navLabel><text>John 19</text></navLabel><content src="John-19.htm"/></navPoint>
+    </navPoint>
+    <navPoint playorder="102" id="toca61"><navLabel><text>Resurrection, Post-Resurrection appearances and ascension</text></navLabel><content src="Matthew-28.htm"/>
+      <navPoint playorder="103" id="toc1060"><navLabel><text>Matthew 28</text></navLabel><content src="Matthew-28.htm"/></navPoint>
+      <navPoint playorder="104" id="toc1061"><navLabel><text>Mark 16</text></navLabel><content src="Mark-16.htm"/></navPoint>
+      <navPoint playorder="105" id="toc1062"><navLabel><text>Luke 24</text></navLabel><content src="Luke-24.htm"/></navPoint>
+      <navPoint playorder="106" id="toc1063"><navLabel><text>John 20</text></navLabel><content src="John-20.htm"/></navPoint>
+      <navPoint playorder="107" id="toc1064"><navLabel><text>John 21</text></navLabel><content src="John-21.htm"/></navPoint>
+    </navPoint>
+    <navPoint playorder="108" id="toca62"><navLabel><text>The church's prepartion and witness in Jerusalem</text></navLabel><content src="Acts-1.htm"/>
+      <navPoint playorder="109" id="toc1065"><navLabel><text>Acts 1</text></navLabel><content src="Acts-1.htm"/></navPoint>
+      <navPoint playorder="110" id="toc1066"><navLabel><text>Acts 2</text></navLabel><content src="Acts-2.htm"/></navPoint>
+      <navPoint playorder="111" id="toc1067"><navLabel><text>Acts 3</text></navLabel><content src="Acts-3.htm"/></navPoint>
+      <navPoint playorder="112" id="toc1068"><navLabel><text>Acts 4</text></navLabel><content src="Acts-4.htm"/></navPoint>
+      <navPoint playorder="113" id="toc1069"><navLabel><text>Acts 5</text></navLabel><content src="Acts-5.htm"/></navPoint>
+    </navPoint>
+    <navPoint playorder="114" id="toca63"><navLabel><text>Witness begins beyond Jerusalem</text></navLabel><content src="Acts-6.htm"/>
+      <navPoint playorder="115" id="toc1070"><navLabel><text>Acts 6</text></navLabel><content src="Acts-6.htm"/></navPoint>
+      <navPoint playorder="116" id="toc1071"><navLabel><text>Acts 7</text></navLabel><content src="Acts-7.htm"/></navPoint>
+      <navPoint playorder="117" id="toc1072"><navLabel><text>Acts 8</text></navLabel><content src="Acts-8.htm"/></navPoint>
+      <navPoint playorder="118" id="toc1073"><navLabel><text>Acts 9</text></navLabel><content src="Acts-9.htm"/></navPoint>
+      <navPoint playorder="119" id="toc1074"><navLabel><text>Acts 10</text></navLabel><content src="Acts-10.htm"/></navPoint>
+      <navPoint playorder="120" id="toc1075"><navLabel><text>Acts 11</text></navLabel><content src="Acts-11.htm"/></navPoint>
+      <navPoint playorder="121" id="toc1076"><navLabel><text>Acts 12</text></navLabel><content src="Acts-12.htm"/></navPoint>
+    </navPoint>
+    <navPoint playorder="122" id="toca64"><navLabel><text>Witness in Cyprus and Galatia</text></navLabel><content src="Acts-13.htm"/>
+      <navPoint playorder="123" id="toc1077"><navLabel><text>Acts 13</text></navLabel><content src="Acts-13.htm"/></navPoint>
+      <navPoint playorder="124" id="toc1078"><navLabel><text>Acts 14</text></navLabel><content src="Acts-14.htm"/></navPoint>
+      <navPoint playorder="125" id="toca65"><navLabel><text>The Book of James</text></navLabel><content src="James-1.htm"/>
+        <navPoint playorder="126" id="toc1079"><navLabel><text>James 1</text></navLabel><content src="James-1.htm"/></navPoint>
+        <navPoint playorder="127" id="toc1080"><navLabel><text>James 2</text></navLabel><content src="James-2.htm"/></navPoint>
+        <navPoint playorder="128" id="toc1081"><navLabel><text>James 3</text></navLabel><content src="James-3.htm"/></navPoint>
+        <navPoint playorder="129" id="toc1082"><navLabel><text>James 4</text></navLabel><content src="James-4.htm"/></navPoint>
+        <navPoint playorder="130" id="toc1083"><navLabel><text>James 5</text></navLabel><content src="James-5.htm"/></navPoint>
+      </navPoint>
+    </navPoint>
+    <navPoint playorder="131" id="toc1084"><navLabel><text>Acts 15</text></navLabel><content src="Acts-15.htm"/></navPoint>
+    <navPoint playorder="132" id="toca66"><navLabel><text>Witness in Greece</text></navLabel><content src="Acts-16.htm"/>
+      <navPoint playorder="133" id="toc1085"><navLabel><text>Acts 16</text></navLabel><content src="Acts-16.htm"/></navPoint>
+      <navPoint playorder="134" id="toca67"><navLabel><text>The book of Galatians</text></navLabel><content src="Galatians-1.htm"/>
+        <navPoint playorder="135" id="toc1086"><navLabel><text>Galatians 1</text></navLabel><content src="Galatians-1.htm"/></navPoint>
+        <navPoint playorder="136" id="toc1087"><navLabel><text>Galatians 2</text></navLabel><content src="Galatians-2.htm"/></navPoint>
+        <navPoint playorder="137" id="toc1088"><navLabel><text>Galatians 3</text></navLabel><content src="Galatians-3.htm"/></navPoint>
+        <navPoint playorder="138" id="toc1089"><navLabel><text>Galatians 4</text></navLabel><content src="Galatians-4.htm"/></navPoint>
+        <navPoint playorder="139" id="toc1090"><navLabel><text>Galatians 5</text></navLabel><content src="Galatians-5.htm"/></navPoint>
+        <navPoint playorder="140" id="toc1091"><navLabel><text>Galatians 6</text></navLabel><content src="Galatians-6.htm"/></navPoint>
+      </navPoint>
+      <navPoint playorder="141" id="toc1092"><navLabel><text>Acts 17</text></navLabel><content src="Acts-17.htm"/></navPoint>
+      <navPoint playorder="142" id="toc1093"><navLabel><text>Acts 18:1-17</text></navLabel><content src="Acts-18-1-17.htm"/></navPoint>
+      <navPoint playorder="143" id="toca68"><navLabel><text>1 Thessalonians</text></navLabel><content src="1Thessalonians-1.htm"/>
+        <navPoint playorder="144" id="toc1094"><navLabel><text>1 Thessalonians 1</text></navLabel><content src="1Thessalonians-1.htm"/></navPoint>
+        <navPoint playorder="145" id="toc1095"><navLabel><text>1 Thessalonians 2</text></navLabel><content src="1Thessalonians-2.htm"/></navPoint>
+        <navPoint playorder="146" id="toc1096"><navLabel><text>1 Thessalonians 3</text></navLabel><content src="1Thessalonians-3.htm"/></navPoint>
+        <navPoint playorder="147" id="toc1097"><navLabel><text>1 Thessalonians 4</text></navLabel><content src="1Thessalonians-4.htm"/></navPoint>
+        <navPoint playorder="148" id="toc1098"><navLabel><text>1 Thessalonians 5</text></navLabel><content src="1Thessalonians-5.htm"/></navPoint>
+        <navPoint playorder="149" id="toc1099"><navLabel><text>2 Thessalonians 1</text></navLabel><content src="2Thessalonians-1.htm"/></navPoint>
+        <navPoint playorder="150" id="toc1100"><navLabel><text>2 Thessalonians 2</text></navLabel><content src="2Thessalonians-2.htm"/></navPoint>
+        <navPoint playorder="151" id="toc1101"><navLabel><text>2 Thessalonians 3</text></navLabel><content src="2Thessalonians-3.htm"/></navPoint>
+      </navPoint>
+    </navPoint>
+    <navPoint playorder="152" id="toca69"><navLabel><text>Witness in Ephesus</text></navLabel><content src="Acts-18-18-28.htm"/>
+      <navPoint playorder="153" id="toc1102"><navLabel><text>Acts 18:18-28</text></navLabel><content src="Acts-18-18-28.htm"/></navPoint>
+      <navPoint playorder="154" id="toc1103"><navLabel><text>Acts 19</text></navLabel><content src="Acts-19.htm"/></navPoint>
+      <navPoint playorder="155" id="toca70"><navLabel><text>1 Corinthians</text></navLabel><content src="1Corinthians.htm"/>
+        <navPoint playorder="156" id="toc1104"><navLabel><text>1 Corinthians 1</text></navLabel><content src="1Corinthians-1.htm"/></navPoint>
+        <navPoint playorder="157" id="toc1105"><navLabel><text>1 Corinthians 2</text></navLabel><content src="1Corinthians-2.htm"/></navPoint>
+        <navPoint playorder="158" id="toc1106"><navLabel><text>1 Corinthians 3</text></navLabel><content src="1Corinthians-3.htm"/></navPoint>
+        <navPoint playorder="159" id="toc1107"><navLabel><text>1 Corinthians 4</text></navLabel><content src="1Corinthians-4.htm"/></navPoint>
+        <navPoint playorder="160" id="toc1108"><navLabel><text>1 Corinthians 5</text></navLabel><content src="1Corinthians-5.htm"/></navPoint>
+        <navPoint playorder="161" id="toc1109"><navLabel><text>1 Corinthians 6</text></navLabel><content src="1Corinthians-6.htm"/></navPoint>
+        <navPoint playorder="162" id="toc1110"><navLabel><text>1 Corinthians 7</text></navLabel><content src="1Corinthians-7.htm"/></navPoint>
+        <navPoint playorder="163" id="toc1111"><navLabel><text>1 Corinthians 8</text></navLabel><content src="1Corinthians-8.htm"/></navPoint>
+        <navPoint playorder="164" id="toc1112"><navLabel><text>1 Corinthians 9</text></navLabel><content src="1Corinthians-9.htm"/></navPoint>
+        <navPoint playorder="165" id="toc1113"><navLabel><text>1 Corinthians 10</text></navLabel><content src="1Corinthians-10.htm"/></navPoint>
+        <navPoint playorder="166" id="toc1114"><navLabel><text>1 Corinthians 11</text></navLabel><content src="1Corinthians-11.htm"/></navPoint>
+        <navPoint playorder="167" id="toc1115"><navLabel><text>1 Corinthians 12</text></navLabel><content src="1Corinthians-12.htm"/></navPoint>
+        <navPoint playorder="168" id="toc1116"><navLabel><text>1 Corinthians 13</text></navLabel><content src="1Corinthians-13.htm"/></navPoint>
+        <navPoint playorder="169" id="toc1117"><navLabel><text>1 Corinthians 14</text></navLabel><content src="1Corinthians-14.htm"/></navPoint>
+        <navPoint playorder="170" id="toc1118"><navLabel><text>1 Corinthians 15</text></navLabel><content src="1Corinthians-15.htm"/></navPoint>
+        <navPoint playorder="171" id="toc1119"><navLabel><text>1 Corinthians 16</text></navLabel><content src="1Corinthians-16.htm"/></navPoint>
+      </navPoint>
+      <navPoint playorder="172" id="toca71"><navLabel><text>2 Corinthians</text></navLabel><content src="2Corinthians.htm"/>
+        <navPoint playorder="173" id="toc1120"><navLabel><text>2 Corinthians 1</text></navLabel><content src="2Corinthians-1.htm"/></navPoint>
+        <navPoint playorder="174" id="toc1121"><navLabel><text>2 Corinthians 2</text></navLabel><content src="2Corinthians-2.htm"/></navPoint>
+        <navPoint playorder="175" id="toc1122"><navLabel><text>2 Corinthians 3</text></navLabel><content src="2Corinthians-3.htm"/></navPoint>
+        <navPoint playorder="176" id="toc1123"><navLabel><text>2 Corinthians 4</text></navLabel><content src="2Corinthians-4.htm"/></navPoint>
+        <navPoint playorder="177" id="toc1124"><navLabel><text>2 Corinthians 5</text></navLabel><content src="2Corinthians-5.htm"/></navPoint>
+        <navPoint playorder="178" id="toc1125"><navLabel><text>2 Corinthians 6</text></navLabel><content src="2Corinthians-6.htm"/></navPoint>
+        <navPoint playorder="179" id="toc1126"><navLabel><text>2 Corinthians 7</text></navLabel><content src="2Corinthians-7.htm"/></navPoint>
+        <navPoint playorder="180" id="toc1127"><navLabel><text>2 Corinthians 8</text></navLabel><content src="2Corinthians-8.htm"/></navPoint>
+        <navPoint playorder="181" id="toc1128"><navLabel><text>2 Corinthians 9</text></navLabel><content src="2Corinthians-9.htm"/></navPoint>
+        <navPoint playorder="182" id="toc1129"><navLabel><text>2 Corinthians 10</text></navLabel><content src="2Corinthians-10.htm"/></navPoint>
+        <navPoint playorder="183" id="toc1130"><navLabel><text>2 Corinthians 11</text></navLabel><content src="2Corinthians-11.htm"/></navPoint>
+        <navPoint playorder="184" id="toc1131"><navLabel><text>2 Corinthians 12</text></navLabel><content src="2Corinthians-12.htm"/></navPoint>
+        <navPoint playorder="185" id="toc1132"><navLabel><text>2 Corinthians 13</text></navLabel><content src="2Corinthians-13.htm"/></navPoint>
+      </navPoint>
+      <navPoint playorder="186" id="toc1133"><navLabel><text>Acts 20:1-3</text></navLabel><content src="Acts-20-1-3.htm"/></navPoint>
+      <navPoint playorder="187" id="toca72"><navLabel><text>The book of Romans</text></navLabel><content src="Romans-1.htm"/>
+        <navPoint playorder="188" id="toc1134"><navLabel><text>Romans 1</text></navLabel><content src="Romans-1.htm"/></navPoint>
+        <navPoint playorder="189" id="toc1135"><navLabel><text>Romans 2</text></navLabel><content src="Romans-2.htm"/></navPoint>
+        <navPoint playorder="190" id="toc1136"><navLabel><text>Romans 3</text></navLabel><content src="Romans-3.htm"/></navPoint>
+        <navPoint playorder="191" id="toc1137"><navLabel><text>Romans 4</text></navLabel><content src="Romans-4.htm"/></navPoint>
+        <navPoint playorder="192" id="toc1138"><navLabel><text>Romans 5</text></navLabel><content src="Romans-5.htm"/></navPoint>
+        <navPoint playorder="193" id="toc1139"><navLabel><text>Romans 6</text></navLabel><content src="Romans-6.htm"/></navPoint>
+        <navPoint playorder="194" id="toc1140"><navLabel><text>Romans 7</text></navLabel><content src="Romans-7.htm"/></navPoint>
+        <navPoint playorder="195" id="toc1141"><navLabel><text>Romans 8</text></navLabel><content src="Romans-8.htm"/></navPoint>
+        <navPoint playorder="196" id="toc1142"><navLabel><text>Romans 9</text></navLabel><content src="Romans-9.htm"/></navPoint>
+        <navPoint playorder="197" id="toc1143"><navLabel><text>Romans 10</text></navLabel><content src="Romans-10.htm"/></navPoint>
+        <navPoint playorder="198" id="toc1144"><navLabel><text>Romans 11</text></navLabel><content src="Romans-11.htm"/></navPoint>
+        <navPoint playorder="199" id="toc1145"><navLabel><text>Romans 12</text></navLabel><content src="Romans-12.htm"/></navPoint>
+        <navPoint playorder="200" id="toc1146"><navLabel><text>Romans 13</text></navLabel><content src="Romans-13.htm"/></navPoint>
+        <navPoint playorder="201" id="toc1147"><navLabel><text>Romans 14</text></navLabel><content src="Romans-14.htm"/></navPoint>
+        <navPoint playorder="202" id="toc1148"><navLabel><text>Romans 15</text></navLabel><content src="Romans-15.htm"/></navPoint>
+        <navPoint playorder="203" id="toc1149"><navLabel><text>Romans 16</text></navLabel><content src="Romans-16.htm"/></navPoint>
+      </navPoint>
+      <navPoint playorder="204" id="toc1150"><navLabel><text>Acts 20:3-38</text></navLabel><content src="Acts-20-3-38.htm"/></navPoint>
+      <navPoint playorder="205" id="toc1151"><navLabel><text>Acts 21</text></navLabel><content src="Acts-21.htm"/></navPoint>
+    </navPoint>
+    <navPoint playorder="206" id="toca73"><navLabel><text>Arrest in Jerusalem</text></navLabel><content src="Acts-22.htm"/>
+      <navPoint playorder="207" id="toc1152"><navLabel><text>Acts 22</text></navLabel><content src="Acts-22.htm"/></navPoint>
+      <navPoint playorder="208" id="toc1153"><navLabel><text>Acts 23</text></navLabel><content src="Acts-23.htm"/></navPoint>
+    </navPoint>
+    <navPoint playorder="209" id="toca74"><navLabel><text>Witness in Caesarea</text></navLabel><content src="Acts-24.htm"/>
+      <navPoint playorder="210" id="toc1154"><navLabel><text>Acts 24</text></navLabel><content src="Acts-24.htm"/></navPoint>
+      <navPoint playorder="211" id="toc1155"><navLabel><text>Acts 25</text></navLabel><content src="Acts-25.htm"/></navPoint>
+      <navPoint playorder="212" id="toc1156"><navLabel><text>Acts 26</text></navLabel><content src="Acts-26.htm"/></navPoint>
+    </navPoint>
+    <navPoint playorder="213" id="toca75"><navLabel><text>Witness in Rome</text></navLabel><content src="Acts-27.htm"/>
+      <navPoint playorder="214" id="toc1157"><navLabel><text>Acts 27</text></navLabel><content src="Acts-27.htm"/></navPoint>
+      <navPoint playorder="215" id="toc1158"><navLabel><text>Acts 28</text></navLabel><content src="Acts-28.htm"/></navPoint>
+    </navPoint>
+    <navPoint playorder="216" id="toca76"><navLabel><text>The book of Colossians</text></navLabel><content src="Colossians-1.htm"/>
+        <navPoint playorder="217" id="toc1159"><navLabel><text>Colossians 1</text></navLabel><content src="Colossians-1.htm"/></navPoint>
+        <navPoint playorder="218" id="toc1160"><navLabel><text>Colossians 2</text></navLabel><content src="Colossians-2.htm"/></navPoint>
+        <navPoint playorder="219" id="toc1161"><navLabel><text>Colossians 3</text></navLabel><content src="Colossians-3.htm"/></navPoint>
+        <navPoint playorder="220" id="toc1162"><navLabel><text>Colossians 4</text></navLabel><content src="Colossians-4.htm"/></navPoint>
+      </navPoint>
+    <navPoint playorder="221" id="toc1163"><navLabel><text>The book of Philemon</text></navLabel><content src="Philemon-1.htm"/></navPoint>
+    <navPoint playorder="222" id="toca77"><navLabel><text>The book of Ephesians</text></navLabel><content src="Ephesians-1.htm"/>
+      <navPoint playorder="223" id="toc1164"><navLabel><text>Ephesians 1</text></navLabel><content src="Ephesians-1.htm"/></navPoint>
+      <navPoint playorder="224" id="toc1165"><navLabel><text>Ephesians 2</text></navLabel><content src="Ephesians-2.htm"/></navPoint>
+      <navPoint playorder="225" id="toc1166"><navLabel><text>Ephesians 3</text></navLabel><content src="Ephesians-3.htm"/></navPoint>
+      <navPoint playorder="226" id="toc1167"><navLabel><text>Ephesians 4</text></navLabel><content src="Ephesians-4.htm"/></navPoint>
+      <navPoint playorder="227" id="toc1168"><navLabel><text>Ephesians 5</text></navLabel><content src="Ephesians-5.htm"/></navPoint>
+      <navPoint playorder="228" id="toc1169"><navLabel><text>Ephesians 6</text></navLabel><content src="Ephesians-6.htm"/></navPoint>
+    </navPoint>
+    <navPoint playorder="229" id="toca78"><navLabel><text>The book of Philippians</text></navLabel><content src="Philippians-1.htm"/>
+      <navPoint playorder="230" id="toc1170"><navLabel><text>Philippians 1</text></navLabel><content src="Philippians-1.htm"/></navPoint>
+      <navPoint playorder="231" id="toc1171"><navLabel><text>Philippians 2</text></navLabel><content src="Philippians-2.htm"/></navPoint>
+      <navPoint playorder="232" id="toc1172"><navLabel><text>Philippians 3</text></navLabel><content src="Philippians-3.htm"/></navPoint>
+      <navPoint playorder="233" id="toc1173"><navLabel><text>Philippians 4</text></navLabel><content src="Philippians-4.htm"/></navPoint>
+    </navPoint>
+    <navPoint playorder="234" id="toca79"><navLabel><text>1 Timothy</text></navLabel><content src="1Timothy-1.htm"/>
+      <navPoint playorder="235" id="toc1174"><navLabel><text>1 Timothy 1</text></navLabel><content src="1Timothy-1.htm"/></navPoint>
+      <navPoint playorder="236" id="toc1175"><navLabel><text>1 Timothy 2</text></navLabel><content src="1Timothy-2.htm"/></navPoint>
+      <navPoint playorder="237" id="toc1176"><navLabel><text>1 Timothy 3</text></navLabel><content src="1Timothy-3.htm"/></navPoint>
+      <navPoint playorder="238" id="toc1177"><navLabel><text>1 Timothy 4</text></navLabel><content src="1Timothy-4.htm"/></navPoint>
+      <navPoint playorder="239" id="toc1178"><navLabel><text>1 Timothy 5</text></navLabel><content src="1Timothy-5.htm"/></navPoint>
+      <navPoint playorder="240" id="toc1179"><navLabel><text>1 Timothy 6</text></navLabel><content src="1Timothy-6.htm"/></navPoint>
+    </navPoint>
+    <navPoint playorder="241" id="toca80"><navLabel><text>Titus</text></navLabel><content src="Titus-1.htm"/>
+      <navPoint playorder="242" id="toc1180"><navLabel><text>Titus 1</text></navLabel><content src="Titus-1.htm"/></navPoint>
+      <navPoint playorder="243" id="toc1181"><navLabel><text>Titus 2</text></navLabel><content src="Titus-2.htm"/></navPoint>
+      <navPoint playorder="244" id="toc1182"><navLabel><text>Titus 3</text></navLabel><content src="Titus-3.htm"/></navPoint>
+      </navPoint>
+    <navPoint playorder="245" id="toca81"><navLabel><text>1 Peter</text></navLabel><content src="1Peter-1.htm"/>
+      <navPoint playorder="246" id="toc1183"><navLabel><text>1 Peter 1</text></navLabel><content src="1Peter-1.htm"/></navPoint>
+      <navPoint playorder="247" id="toc1184"><navLabel><text>1 Peter 2</text></navLabel><content src="1Peter-2.htm"/></navPoint>
+      <navPoint playorder="248" id="toc1185"><navLabel><text>1 Peter 3</text></navLabel><content src="1Peter-3.htm"/></navPoint>
+      <navPoint playorder="249" id="toc1186"><navLabel><text>1 Peter 4</text></navLabel><content src="1Peter-4.htm"/></navPoint>
+      <navPoint playorder="250" id="toc1187"><navLabel><text>1 Peter 5</text></navLabel><content src="1Peter-5.htm"/></navPoint>
+    </navPoint>
+    <navPoint playorder="251" id="toca82"><navLabel><text>Hebrews</text></navLabel><content src="Hebrews-1.htm"/>
+      <navPoint playorder="252" id="toc1188"><navLabel><text>Hebrews 1</text></navLabel><content src="Hebrews-1.htm"/></navPoint>
+      <navPoint playorder="253" id="toc1189"><navLabel><text>Hebrews 2</text></navLabel><content src="Hebrews-2.htm"/></navPoint>
+      <navPoint playorder="254" id="toc1190"><navLabel><text>Hebrews 3</text></navLabel><content src="Hebrews-3.htm"/></navPoint>
+      <navPoint playorder="255" id="toc1191"><navLabel><text>Hebrews 4</text></navLabel><content src="Hebrews-4.htm"/></navPoint>
+      <navPoint playorder="256" id="toc1192"><navLabel><text>Hebrews 5</text></navLabel><content src="Hebrews-5.htm"/></navPoint>
+      <navPoint playorder="257" id="toc1193"><navLabel><text>Hebrews 6</text></navLabel><content src="Hebrews-6.htm"/></navPoint>
+      <navPoint playorder="258" id="toc1194"><navLabel><text>Hebrews 7</text></navLabel><content src="Hebrews-7.htm"/></navPoint>
+      <navPoint playorder="259" id="toc1195"><navLabel><text>Hebrews 8</text></navLabel><content src="Hebrews-8.htm"/></navPoint>
+      <navPoint playorder="260" id="toc1196"><navLabel><text>Hebrews 9</text></navLabel><content src="Hebrews-9.htm"/></navPoint>
+      <navPoint playorder="261" id="toc1197"><navLabel><text>Hebrews 10</text></navLabel><content src="Hebrews-10.htm"/></navPoint>
+      <navPoint playorder="262" id="toc1198"><navLabel><text>Hebrews 11</text></navLabel><content src="Hebrews-11.htm"/></navPoint>
+      <navPoint playorder="263" id="toc1199"><navLabel><text>Hebrews 12</text></navLabel><content src="Hebrews-12.htm"/></navPoint>
+      <navPoint playorder="264" id="toc1200"><navLabel><text>Hebrews 13</text></navLabel><content src="Hebrews-13.htm"/></navPoint>
+    </navPoint>
+    <navPoint playorder="265" id="toca83"><navLabel><text>2 Timothy</text></navLabel><content src="2Timothy-1.htm"/>
+      <navPoint playorder="266" id="toc1201"><navLabel><text>2 Timothy 1</text></navLabel><content src="2Timothy-1.htm"/></navPoint>
+      <navPoint playorder="267" id="toc1202"><navLabel><text>2 Timothy 2</text></navLabel><content src="2Timothy-2.htm"/></navPoint>
+      <navPoint playorder="268" id="toc1203"><navLabel><text>2 Timothy 3</text></navLabel><content src="2Timothy-3.htm"/></navPoint>
+      <navPoint playorder="269" id="toc1204"><navLabel><text>2 Timothy 4</text></navLabel><content src="2Timothy-4.htm"/></navPoint>
+    </navPoint>
+    <navPoint playorder="270" id="toca84"><navLabel><text>2 Peter</text></navLabel><content src="2Peter-1.htm"/>
+      <navPoint playorder="271" id="toc1205"><navLabel><text>2 Peter 1</text></navLabel><content src="2Peter-1.htm"/></navPoint>
+      <navPoint playorder="272" id="toc1206"><navLabel><text>2 Peter 2</text></navLabel><content src="2Peter-2.htm"/></navPoint>
+      <navPoint playorder="273" id="toc1207"><navLabel><text>2 Peter 3</text></navLabel><content src="2Peter-3.htm"/></navPoint>
+    </navPoint>
+    <navPoint playorder="274" id="toc1208"><navLabel><text>Jude</text></navLabel><content src="Jude-1.htm"/></navPoint>
+    <navPoint playorder="275" id="toca85"><navLabel><text>1 John</text></navLabel><content src="1John-1.htm"/>
+      <navPoint playorder="276" id="toc1209"><navLabel><text>1 John 1</text></navLabel><content src="1John-1.htm"/></navPoint>
+      <navPoint playorder="277" id="toc1210"><navLabel><text>1 John 2</text></navLabel><content src="1John-2.htm"/></navPoint>
+      <navPoint playorder="278" id="toc1211"><navLabel><text>1 John 3</text></navLabel><content src="1John-3.htm"/></navPoint>
+      <navPoint playorder="279" id="toc1212"><navLabel><text>1 John 4</text></navLabel><content src="1John-4.htm"/></navPoint>
+      <navPoint playorder="280" id="toc1213"><navLabel><text>1 John 5</text></navLabel><content src="1John-5.htm"/></navPoint>
+    </navPoint>
+    <navPoint playorder="281" id="toc1214"><navLabel><text>2 John</text></navLabel><content src="2John-1.htm"/></navPoint>
+    <navPoint playorder="282" id="toc1215"><navLabel><text>3 John</text></navLabel><content src="3John-1.htm"/></navPoint>
+    <navPoint playorder="283" id="toca86"><navLabel><text>Revelation</text></navLabel><content src="Revelation-1.htm"/>
+      <navPoint playorder="284" id="toc1216"><navLabel><text>Revelation 1</text></navLabel><content src="Revelation-1.htm"/></navPoint>
+      <navPoint playorder="285" id="toc1217"><navLabel><text>Revelation 2</text></navLabel><content src="Revelation-2.htm"/></navPoint>
+      <navPoint playorder="286" id="toc1218"><navLabel><text>Revelation 3</text></navLabel><content src="Revelation-3.htm"/></navPoint>
+      <navPoint playorder="287" id="toc1219"><navLabel><text>Revelation 4</text></navLabel><content src="Revelation-4.htm"/></navPoint>
+      <navPoint playorder="288" id="toc1220"><navLabel><text>Revelation 5</text></navLabel><content src="Revelation-5.htm"/></navPoint>
+      <navPoint playorder="289" id="toc1221"><navLabel><text>Revelation 6</text></navLabel><content src="Revelation-6.htm"/></navPoint>
+      <navPoint playorder="290" id="toc1222"><navLabel><text>Revelation 7</text></navLabel><content src="Revelation-7.htm"/></navPoint>
+      <navPoint playorder="291" id="toc1223"><navLabel><text>Revelation 8</text></navLabel><content src="Revelation-8.htm"/></navPoint>
+      <navPoint playorder="292" id="toc1224"><navLabel><text>Revelation 9</text></navLabel><content src="Revelation-9.htm"/></navPoint>
+      <navPoint playorder="293" id="toc1225"><navLabel><text>Revelation 10</text></navLabel><content src="Revelation-10.htm"/></navPoint>
+      <navPoint playorder="294" id="toc1226"><navLabel><text>Revelation 11</text></navLabel><content src="Revelation-11.htm"/></navPoint>
+      <navPoint playorder="295" id="toc1227"><navLabel><text>Revelation 12</text></navLabel><content src="Revelation-12.htm"/></navPoint>
+      <navPoint playorder="296" id="toc1228"><navLabel><text>Revelation 13</text></navLabel><content src="Revelation-13.htm"/></navPoint>
+      <navPoint playorder="297" id="toc1229"><navLabel><text>Revelation 14</text></navLabel><content src="Revelation-14.htm"/></navPoint>
+      <navPoint playorder="298" id="toc1230"><navLabel><text>Revelation 15</text></navLabel><content src="Revelation-15.htm"/></navPoint>
+      <navPoint playorder="299" id="toc1231"><navLabel><text>Revelation 16</text></navLabel><content src="Revelation-16.htm"/></navPoint>
+      <navPoint playorder="300" id="toc1232"><navLabel><text>Revelation 17</text></navLabel><content src="Revelation-17.htm"/></navPoint>
+      <navPoint playorder="301" id="toc1233"><navLabel><text>Revelation 18</text></navLabel><content src="Revelation-18.htm"/></navPoint>
+      <navPoint playorder="302" id="toc1234"><navLabel><text>Revelation 19</text></navLabel><content src="Revelation-19.htm"/></navPoint>
+      <navPoint playorder="303" id="toc1235"><navLabel><text>Revelation 20</text></navLabel><content src="Revelation-20.htm"/></navPoint>
+      <navPoint playorder="304" id="toc1236"><navLabel><text>Revelation 21</text></navLabel><content src="Revelation-21.htm"/></navPoint>
+      <navPoint playorder="305" id="toc1237"><navLabel><text>Revelation 22</text></navLabel><content src="Revelation-22.htm"/></navPoint>
+    </navPoint>
+  </navMap>
+</ncx>

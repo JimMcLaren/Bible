@@ -1,0 +1,590 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package version="2.0" unique-identifier="BookId" xmlns="http://www.idpf.org/2007/opf">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+   <dc:title>World English Bible New Testament (updated) in chronological order</dc:title>
+   <dc:language>en-US</dc:language> 
+   <dc:date>2025-07-17</dc:date>
+   <dc:subject>Christian.Bibles</dc:subject>
+   <meta name="cover" content="cover-image" />
+   <meta name="calibre:title_sort" content="World English Bible New Testament (updated) in chronological order" />
+  </metadata>
+  <manifest>
+    <item id="cover" href="cover.htm" media-type="application/xhtml+xml"/>
+    <item id="copyright" href="copyright.htm" media-type="application/xhtml+xml"/>
+    <item id="glossary" href="glossary.htm" media-type="application/xhtml+xml"/>
+    <item id="preface" href="Preface.xhtml" media-type="application/xhtml+xml"/>
+    <item id="item934" href="Luke-1.htm" media-type="application/xhtml+xml"/>
+    <item id="item935" href="John-1-1-18.htm" media-type="application/xhtml+xml"/>
+    <item id="item936" href="Matthew-1.htm" media-type="application/xhtml+xml"/>
+    <item id="item937" href="Luke-2-1-40.htm" media-type="application/xhtml+xml"/>
+    <item id="item938" href="Matthew-2.htm" media-type="application/xhtml+xml"/>
+    <item id="item939" href="Luke-2-41-52.htm" media-type="application/xhtml+xml"/>
+    <item id="item940" href="Matthew-3.htm" media-type="application/xhtml+xml"/>
+    <item id="item941" href="Mark-1.htm" media-type="application/xhtml+xml"/>
+    <item id="item942" href="Luke-3.htm" media-type="application/xhtml+xml"/>
+    <item id="item943" href="Matthew-4.htm" media-type="application/xhtml+xml"/>
+    <item id="item944" href="Luke-4.htm" media-type="application/xhtml+xml"/>
+    <item id="item945" href="Luke-5.htm" media-type="application/xhtml+xml"/>
+    <item id="item946" href="John-1-19-51.htm" media-type="application/xhtml+xml"/>
+    <item id="item947" href="John-2.htm" media-type="application/xhtml+xml"/>
+    <item id="item948" href="John-3.htm" media-type="application/xhtml+xml"/>
+    <item id="item949" href="John-4.htm" media-type="application/xhtml+xml"/>
+    <item id="item950" href="Mark-2.htm" media-type="application/xhtml+xml"/>
+    <item id="item951" href="John-5.htm" media-type="application/xhtml+xml"/>
+    <item id="item952" href="Matthew-12-1-21.htm" media-type="application/xhtml+xml"/>
+    <item id="item953" href="Mark-3.htm" media-type="application/xhtml+xml"/>
+    <item id="item954" href="Luke-6.htm" media-type="application/xhtml+xml"/>
+    <item id="item955" href="Matthew-5.htm" media-type="application/xhtml+xml"/>
+    <item id="item956" href="Matthew-6.htm" media-type="application/xhtml+xml"/>
+    <item id="item957" href="Matthew-7.htm" media-type="application/xhtml+xml"/>
+    <item id="item958" href="Matthew-8-1-13.htm" media-type="application/xhtml+xml"/>
+    <item id="item959" href="Luke-7.htm" media-type="application/xhtml+xml"/>
+    <item id="item960" href="Matthew-11.htm" media-type="application/xhtml+xml"/>
+    <item id="item961" href="Matthew-12-22-50.htm" media-type="application/xhtml+xml"/>
+    <item id="item962" href="Matthew-13.htm" media-type="application/xhtml+xml"/>
+    <item id="item963" href="Luke-8.htm" media-type="application/xhtml+xml"/>
+    <item id="item964" href="Matthew-8-14-34.htm" media-type="application/xhtml+xml"/>
+    <item id="item965" href="Mark-4.htm" media-type="application/xhtml+xml"/>
+    <item id="item966" href="Mark-5.htm" media-type="application/xhtml+xml"/>
+    <item id="item967" href="Matthew-9.htm" media-type="application/xhtml+xml"/>
+    <item id="item968" href="Matthew-10.htm" media-type="application/xhtml+xml"/>
+    <item id="item969" href="Matthew-14.htm" media-type="application/xhtml+xml"/>
+    <item id="item970" href="Mark-6.htm" media-type="application/xhtml+xml"/>
+    <item id="item971" href="Luke-9-1-17.htm" media-type="application/xhtml+xml"/>
+    <item id="item972" href="John-6.htm" media-type="application/xhtml+xml"/>
+    <item id="item973" href="Matthew-15.htm" media-type="application/xhtml+xml"/>
+    <item id="item974" href="Mark-7.htm" media-type="application/xhtml+xml"/>
+    <item id="item975" href="Matthew-16.htm" media-type="application/xhtml+xml"/>
+    <item id="item976" href="Mark-8.htm" media-type="application/xhtml+xml"/>
+    <item id="item977" href="Luke-9-18-27.htm" media-type="application/xhtml+xml"/>
+    <item id="item978" href="Matthew-17.htm" media-type="application/xhtml+xml"/>
+    <item id="item979" href="Mark-9.htm" media-type="application/xhtml+xml"/>
+    <item id="item980" href="Luke-9-28-62.htm" media-type="application/xhtml+xml"/>
+    <item id="item981" href="Matthew-18.htm" media-type="application/xhtml+xml"/>
+    <item id="item982" href="John-7.htm" media-type="application/xhtml+xml"/>
+    <item id="item983" href="John-8.htm" media-type="application/xhtml+xml"/>
+    <item id="item984" href="John-9.htm" media-type="application/xhtml+xml"/>
+    <item id="item985" href="John-10-1-21.htm" media-type="application/xhtml+xml"/>
+    <item id="item986" href="Luke-10.htm" media-type="application/xhtml+xml"/>
+    <item id="item987" href="Luke-11.htm" media-type="application/xhtml+xml"/>
+    <item id="item988" href="John-10-22-42.htm" media-type="application/xhtml+xml"/>
+    <item id="item989" href="Luke-12.htm" media-type="application/xhtml+xml"/>
+    <item id="item990" href="Luke-13.htm" media-type="application/xhtml+xml"/>
+    <item id="item991" href="Luke-14.htm" media-type="application/xhtml+xml"/>
+    <item id="item992" href="Luke-15.htm" media-type="application/xhtml+xml"/>
+    <item id="item993" href="Luke-16.htm" media-type="application/xhtml+xml"/>
+    <item id="item994" href="Luke-17-1-10.htm" media-type="application/xhtml+xml"/>
+    <item id="item995" href="John-11.htm" media-type="application/xhtml+xml"/>
+    <item id="item996" href="Luke-17-11-36.htm" media-type="application/xhtml+xml"/>
+    <item id="item997" href="Luke-18-1-14.htm" media-type="application/xhtml+xml"/>
+    <item id="item998" href="Matthew-19.htm" media-type="application/xhtml+xml"/>
+    <item id="item999" href="Mark-10.htm" media-type="application/xhtml+xml"/>
+    <item id="item1000" href="Matthew-20.htm" media-type="application/xhtml+xml"/>
+    <item id="item1001" href="Matthew-21.htm" media-type="application/xhtml+xml"/>
+    <item id="item1002" href="Luke-18-15-43.htm" media-type="application/xhtml+xml"/>
+    <item id="item1003" href="Luke-19.htm" media-type="application/xhtml+xml"/>
+    <item id="item1004" href="Mark-11.htm" media-type="application/xhtml+xml"/>
+    <item id="item1005" href="John-12.htm" media-type="application/xhtml+xml"/>
+    <item id="item1006" href="Matthew-22.htm" media-type="application/xhtml+xml"/>
+    <item id="item1007" href="Mark-12.htm" media-type="application/xhtml+xml"/>
+    <item id="item1008" href="Matthew-23.htm" media-type="application/xhtml+xml"/>
+    <item id="item1009" href="Luke-20.htm" media-type="application/xhtml+xml"/>
+    <item id="item1010" href="Luke-21.htm" media-type="application/xhtml+xml"/>
+    <item id="item1011" href="Mark-13.htm" media-type="application/xhtml+xml"/>
+    <item id="item1012" href="Matthew-24.htm" media-type="application/xhtml+xml"/>
+    <item id="item1013" href="Matthew-25.htm" media-type="application/xhtml+xml"/>
+    <item id="item1014" href="Matthew-26.htm" media-type="application/xhtml+xml"/>
+    <item id="item1015" href="Mark-14.htm" media-type="application/xhtml+xml"/>
+    <item id="item1016" href="Luke-22.htm" media-type="application/xhtml+xml"/>
+    <item id="item1017" href="John-13.htm" media-type="application/xhtml+xml"/>
+    <item id="item1018" href="John-14.htm" media-type="application/xhtml+xml"/>
+    <item id="item1019" href="John-15.htm" media-type="application/xhtml+xml"/>
+    <item id="item1020" href="John-16.htm" media-type="application/xhtml+xml"/>
+    <item id="item1021" href="John-17.htm" media-type="application/xhtml+xml"/>
+    <item id="item1022" href="Matthew-27.htm" media-type="application/xhtml+xml"/>
+    <item id="item1023" href="Mark-15.htm" media-type="application/xhtml+xml"/>
+    <item id="item1024" href="Luke-23.htm" media-type="application/xhtml+xml"/>
+    <item id="item1025" href="John-18.htm" media-type="application/xhtml+xml"/>
+    <item id="item1026" href="John-19.htm" media-type="application/xhtml+xml"/>
+    <item id="item1027" href="Matthew-28.htm" media-type="application/xhtml+xml"/>
+    <item id="item1028" href="Mark-16.htm" media-type="application/xhtml+xml"/>
+    <item id="item1029" href="Luke-24.htm" media-type="application/xhtml+xml"/>
+    <item id="item1030" href="John-20.htm" media-type="application/xhtml+xml"/>
+    <item id="item1031" href="John-21.htm" media-type="application/xhtml+xml"/>
+    <item id="item1032" href="Acts-1.htm" media-type="application/xhtml+xml"/>
+    <item id="item1033" href="Acts-2.htm" media-type="application/xhtml+xml"/>
+    <item id="item1034" href="Acts-3.htm" media-type="application/xhtml+xml"/>
+    <item id="item1035" href="Acts-4.htm" media-type="application/xhtml+xml"/>
+    <item id="item1036" href="Acts-5.htm" media-type="application/xhtml+xml"/>
+    <item id="item1037" href="Acts-6.htm" media-type="application/xhtml+xml"/>
+    <item id="item1038" href="Acts-7.htm" media-type="application/xhtml+xml"/>
+    <item id="item1039" href="Acts-8.htm" media-type="application/xhtml+xml"/>
+    <item id="item1040" href="Acts-9.htm" media-type="application/xhtml+xml"/>
+    <item id="item1041" href="Acts-10.htm" media-type="application/xhtml+xml"/>
+    <item id="item1042" href="Acts-11.htm" media-type="application/xhtml+xml"/>
+    <item id="item1043" href="Acts-12.htm" media-type="application/xhtml+xml"/>
+    <item id="item1044" href="Acts-13.htm" media-type="application/xhtml+xml"/>
+    <item id="item1045" href="Acts-14.htm" media-type="application/xhtml+xml"/>
+    <item id="item1046" href="James-1.htm" media-type="application/xhtml+xml"/>
+    <item id="item1047" href="James-2.htm" media-type="application/xhtml+xml"/>
+    <item id="item1048" href="James-3.htm" media-type="application/xhtml+xml"/>
+    <item id="item1049" href="James-4.htm" media-type="application/xhtml+xml"/>
+    <item id="item1050" href="James-5.htm" media-type="application/xhtml+xml"/>
+    <item id="item1051" href="Acts-15.htm" media-type="application/xhtml+xml"/>
+    <item id="item1052" href="Acts-16.htm" media-type="application/xhtml+xml"/>
+    <item id="item1053" href="Galatians-1.htm" media-type="application/xhtml+xml"/>
+    <item id="item1054" href="Galatians-2.htm" media-type="application/xhtml+xml"/>
+    <item id="item1055" href="Galatians-3.htm" media-type="application/xhtml+xml"/>
+    <item id="item1056" href="Galatians-4.htm" media-type="application/xhtml+xml"/>
+    <item id="item1057" href="Galatians-5.htm" media-type="application/xhtml+xml"/>
+    <item id="item1058" href="Galatians-6.htm" media-type="application/xhtml+xml"/>
+    <item id="item1059" href="Acts-17.htm" media-type="application/xhtml+xml"/>
+    <item id="item1060" href="Acts-18-1-17.htm" media-type="application/xhtml+xml"/>
+    <item id="item1061" href="1Thessalonians-1.htm" media-type="application/xhtml+xml"/>
+    <item id="item1062" href="1Thessalonians-2.htm" media-type="application/xhtml+xml"/>
+    <item id="item1063" href="1Thessalonians-3.htm" media-type="application/xhtml+xml"/>
+    <item id="item1064" href="1Thessalonians-4.htm" media-type="application/xhtml+xml"/>
+    <item id="item1065" href="1Thessalonians-5.htm" media-type="application/xhtml+xml"/>
+    <item id="item1066" href="2Thessalonians-1.htm" media-type="application/xhtml+xml"/>
+    <item id="item1067" href="2Thessalonians-2.htm" media-type="application/xhtml+xml"/>
+    <item id="item1068" href="2Thessalonians-3.htm" media-type="application/xhtml+xml"/>
+    <item id="item1069" href="Acts-18-18-28.htm" media-type="application/xhtml+xml"/>
+    <item id="item1070" href="Acts-19.htm" media-type="application/xhtml+xml"/>
+    <item id="item1071" href="1Corinthians-1.htm" media-type="application/xhtml+xml"/>
+    <item id="item1072" href="1Corinthians-2.htm" media-type="application/xhtml+xml"/>
+    <item id="item1073" href="1Corinthians-3.htm" media-type="application/xhtml+xml"/>
+    <item id="item1074" href="1Corinthians-4.htm" media-type="application/xhtml+xml"/>
+    <item id="item1075" href="1Corinthians-5.htm" media-type="application/xhtml+xml"/>
+    <item id="item1076" href="1Corinthians-6.htm" media-type="application/xhtml+xml"/>
+    <item id="item1077" href="1Corinthians-7.htm" media-type="application/xhtml+xml"/>
+    <item id="item1078" href="1Corinthians-8.htm" media-type="application/xhtml+xml"/>
+    <item id="item1079" href="1Corinthians-9.htm" media-type="application/xhtml+xml"/>
+    <item id="item1080" href="1Corinthians-10.htm" media-type="application/xhtml+xml"/>
+    <item id="item1081" href="1Corinthians-11.htm" media-type="application/xhtml+xml"/>
+    <item id="item1082" href="1Corinthians-12.htm" media-type="application/xhtml+xml"/>
+    <item id="item1083" href="1Corinthians-13.htm" media-type="application/xhtml+xml"/>
+    <item id="item1084" href="1Corinthians-14.htm" media-type="application/xhtml+xml"/>
+    <item id="item1085" href="1Corinthians-15.htm" media-type="application/xhtml+xml"/>
+    <item id="item1086" href="1Corinthians-16.htm" media-type="application/xhtml+xml"/>
+    <item id="item1087" href="2Corinthians-1.htm" media-type="application/xhtml+xml"/>
+    <item id="item1088" href="2Corinthians-2.htm" media-type="application/xhtml+xml"/>
+    <item id="item1089" href="2Corinthians-3.htm" media-type="application/xhtml+xml"/>
+    <item id="item1090" href="2Corinthians-4.htm" media-type="application/xhtml+xml"/>
+    <item id="item1091" href="2Corinthians-5.htm" media-type="application/xhtml+xml"/>
+    <item id="item1092" href="2Corinthians-6.htm" media-type="application/xhtml+xml"/>
+    <item id="item1093" href="2Corinthians-7.htm" media-type="application/xhtml+xml"/>
+    <item id="item1094" href="2Corinthians-8.htm" media-type="application/xhtml+xml"/>
+    <item id="item1095" href="2Corinthians-9.htm" media-type="application/xhtml+xml"/>
+    <item id="item1096" href="2Corinthians-10.htm" media-type="application/xhtml+xml"/>
+    <item id="item1097" href="2Corinthians-11.htm" media-type="application/xhtml+xml"/>
+    <item id="item1098" href="2Corinthians-12.htm" media-type="application/xhtml+xml"/>
+    <item id="item1099" href="2Corinthians-13.htm" media-type="application/xhtml+xml"/>
+    <item id="item1100" href="Acts-20-1-3.htm" media-type="application/xhtml+xml"/>
+    <item id="item1101" href="Romans-1.htm" media-type="application/xhtml+xml"/>
+    <item id="item1102" href="Romans-2.htm" media-type="application/xhtml+xml"/>
+    <item id="item1103" href="Romans-3.htm" media-type="application/xhtml+xml"/>
+    <item id="item1104" href="Romans-4.htm" media-type="application/xhtml+xml"/>
+    <item id="item1105" href="Romans-5.htm" media-type="application/xhtml+xml"/>
+    <item id="item1106" href="Romans-6.htm" media-type="application/xhtml+xml"/>
+    <item id="item1107" href="Romans-7.htm" media-type="application/xhtml+xml"/>
+    <item id="item1108" href="Romans-8.htm" media-type="application/xhtml+xml"/>
+    <item id="item1109" href="Romans-9.htm" media-type="application/xhtml+xml"/>
+    <item id="item1110" href="Romans-10.htm" media-type="application/xhtml+xml"/>
+    <item id="item1111" href="Romans-11.htm" media-type="application/xhtml+xml"/>
+    <item id="item1112" href="Romans-12.htm" media-type="application/xhtml+xml"/>
+    <item id="item1113" href="Romans-13.htm" media-type="application/xhtml+xml"/>
+    <item id="item1114" href="Romans-14.htm" media-type="application/xhtml+xml"/>
+    <item id="item1115" href="Romans-15.htm" media-type="application/xhtml+xml"/>
+    <item id="item1116" href="Romans-16.htm" media-type="application/xhtml+xml"/>
+    <item id="item1117" href="Acts-20-3-38.htm" media-type="application/xhtml+xml"/>
+    <item id="item1118" href="Acts-21.htm" media-type="application/xhtml+xml"/>
+    <item id="item1119" href="Acts-22.htm" media-type="application/xhtml+xml"/>
+    <item id="item1120" href="Acts-23.htm" media-type="application/xhtml+xml"/>
+    <item id="item1121" href="Acts-24.htm" media-type="application/xhtml+xml"/>
+    <item id="item1122" href="Acts-25.htm" media-type="application/xhtml+xml"/>
+    <item id="item1123" href="Acts-26.htm" media-type="application/xhtml+xml"/>
+    <item id="item1124" href="Acts-27.htm" media-type="application/xhtml+xml"/>
+    <item id="item1125" href="Acts-28.htm" media-type="application/xhtml+xml"/>
+    <item id="item1126" href="Colossians-1.htm" media-type="application/xhtml+xml"/>
+    <item id="item1127" href="Colossians-2.htm" media-type="application/xhtml+xml"/>
+    <item id="item1128" href="Colossians-3.htm" media-type="application/xhtml+xml"/>
+    <item id="item1129" href="Colossians-4.htm" media-type="application/xhtml+xml"/>
+    <item id="item1130" href="Philemon-1.htm" media-type="application/xhtml+xml"/>
+    <item id="item1131" href="Ephesians-1.htm" media-type="application/xhtml+xml"/>
+    <item id="item1132" href="Ephesians-2.htm" media-type="application/xhtml+xml"/>
+    <item id="item1133" href="Ephesians-3.htm" media-type="application/xhtml+xml"/>
+    <item id="item1134" href="Ephesians-4.htm" media-type="application/xhtml+xml"/>
+    <item id="item1135" href="Ephesians-5.htm" media-type="application/xhtml+xml"/>
+    <item id="item1136" href="Ephesians-6.htm" media-type="application/xhtml+xml"/>
+    <item id="item1137" href="Philippians-1.htm" media-type="application/xhtml+xml"/>
+    <item id="item1138" href="Philippians-2.htm" media-type="application/xhtml+xml"/>
+    <item id="item1139" href="Philippians-3.htm" media-type="application/xhtml+xml"/>
+    <item id="item1140" href="Philippians-4.htm" media-type="application/xhtml+xml"/>
+    <item id="item1141" href="1Timothy-1.htm" media-type="application/xhtml+xml"/>
+    <item id="item1142" href="1Timothy-2.htm" media-type="application/xhtml+xml"/>
+    <item id="item1143" href="1Timothy-3.htm" media-type="application/xhtml+xml"/>
+    <item id="item1144" href="1Timothy-4.htm" media-type="application/xhtml+xml"/>
+    <item id="item1145" href="1Timothy-5.htm" media-type="application/xhtml+xml"/>
+    <item id="item1146" href="1Timothy-6.htm" media-type="application/xhtml+xml"/>
+    <item id="item1147" href="Titus-1.htm" media-type="application/xhtml+xml"/>
+    <item id="item1148" href="1Peter-1.htm" media-type="application/xhtml+xml"/>
+    <item id="item1149" href="Titus-2.htm" media-type="application/xhtml+xml"/>
+    <item id="item1150" href="1Peter-2.htm" media-type="application/xhtml+xml"/>
+    <item id="item1151" href="Titus-3.htm" media-type="application/xhtml+xml"/>
+    <item id="item1152" href="1Peter-3.htm" media-type="application/xhtml+xml"/>
+    <item id="item1153" href="1Peter-4.htm" media-type="application/xhtml+xml"/>
+    <item id="item1154" href="1Peter-5.htm" media-type="application/xhtml+xml"/>
+    <item id="item1155" href="Hebrews-1.htm" media-type="application/xhtml+xml"/>
+    <item id="item1156" href="Hebrews-2.htm" media-type="application/xhtml+xml"/>
+    <item id="item1157" href="Hebrews-3.htm" media-type="application/xhtml+xml"/>
+    <item id="item1158" href="Hebrews-4.htm" media-type="application/xhtml+xml"/>
+    <item id="item1159" href="Hebrews-5.htm" media-type="application/xhtml+xml"/>
+    <item id="item1160" href="Hebrews-6.htm" media-type="application/xhtml+xml"/>
+    <item id="item1161" href="Hebrews-7.htm" media-type="application/xhtml+xml"/>
+    <item id="item1162" href="Hebrews-8.htm" media-type="application/xhtml+xml"/>
+    <item id="item1163" href="Hebrews-9.htm" media-type="application/xhtml+xml"/>
+    <item id="item1164" href="Hebrews-10.htm" media-type="application/xhtml+xml"/>
+    <item id="item1165" href="Hebrews-11.htm" media-type="application/xhtml+xml"/>
+    <item id="item1166" href="Hebrews-12.htm" media-type="application/xhtml+xml"/>
+    <item id="item1167" href="Hebrews-13.htm" media-type="application/xhtml+xml"/>
+    <item id="item1168" href="2Timothy-1.htm" media-type="application/xhtml+xml"/>
+    <item id="item1169" href="2Timothy-2.htm" media-type="application/xhtml+xml"/>
+    <item id="item1170" href="2Timothy-3.htm" media-type="application/xhtml+xml"/>
+    <item id="item1171" href="2Timothy-4.htm" media-type="application/xhtml+xml"/>
+    <item id="item1172" href="2Peter-1.htm" media-type="application/xhtml+xml"/>
+    <item id="item1173" href="2Peter-2.htm" media-type="application/xhtml+xml"/>
+    <item id="item1174" href="2Peter-3.htm" media-type="application/xhtml+xml"/>
+    <item id="item1175" href="Jude-1.htm" media-type="application/xhtml+xml"/>
+    <item id="item1176" href="1John-1.htm" media-type="application/xhtml+xml"/>
+    <item id="item1177" href="1John-2.htm" media-type="application/xhtml+xml"/>
+    <item id="item1178" href="1John-3.htm" media-type="application/xhtml+xml"/>
+    <item id="item1179" href="1John-4.htm" media-type="application/xhtml+xml"/>
+    <item id="item1180" href="1John-5.htm" media-type="application/xhtml+xml"/>
+    <item id="item1181" href="2John-1.htm" media-type="application/xhtml+xml"/>
+    <item id="item1182" href="3John-1.htm" media-type="application/xhtml+xml"/>
+    <item id="item1183" href="Revelation-1.htm" media-type="application/xhtml+xml"/>
+    <item id="item1184" href="Revelation-2.htm" media-type="application/xhtml+xml"/>
+    <item id="item1185" href="Revelation-3.htm" media-type="application/xhtml+xml"/>
+    <item id="item1186" href="Revelation-4.htm" media-type="application/xhtml+xml"/>
+    <item id="item1187" href="Revelation-5.htm" media-type="application/xhtml+xml"/>
+    <item id="item1188" href="Revelation-6.htm" media-type="application/xhtml+xml"/>
+    <item id="item1189" href="Revelation-7.htm" media-type="application/xhtml+xml"/>
+    <item id="item1190" href="Revelation-8.htm" media-type="application/xhtml+xml"/>
+    <item id="item1191" href="Revelation-9.htm" media-type="application/xhtml+xml"/>
+    <item id="item1192" href="Revelation-10.htm" media-type="application/xhtml+xml"/>
+    <item id="item1193" href="Revelation-11.htm" media-type="application/xhtml+xml"/>
+    <item id="item1194" href="Revelation-12.htm" media-type="application/xhtml+xml"/>
+    <item id="item1195" href="Revelation-13.htm" media-type="application/xhtml+xml"/>
+    <item id="item1196" href="Revelation-14.htm" media-type="application/xhtml+xml"/>
+    <item id="item1197" href="Revelation-15.htm" media-type="application/xhtml+xml"/>
+    <item id="item1198" href="Revelation-16.htm" media-type="application/xhtml+xml"/>
+    <item id="item1199" href="Revelation-17.htm" media-type="application/xhtml+xml"/>
+    <item id="item1200" href="Revelation-18.htm" media-type="application/xhtml+xml"/>
+    <item id="item1201" href="Revelation-19.htm" media-type="application/xhtml+xml"/>
+    <item id="item1202" href="Revelation-20.htm" media-type="application/xhtml+xml"/>
+    <item id="item1203" href="Revelation-21.htm" media-type="application/xhtml+xml"/>
+    <item id="item1204" href="Revelation-22.htm" media-type="application/xhtml+xml"/>
+    <item id="font.gentiumplus" href="gentiumplus.ttf" media-type="application/x-font-truetype"/>
+    <item href="gentiumplus.woff" id="font.gentiumplus.woff" media-type="application/font-woff" />
+    <item id="font.silgal" href="GalSILR.ttf" media-type="application/x-font-truetype"/>
+    <item id="font.silezra" href="SILEOT.ttf" media-type="application/x-font-truetype"/>
+    <item id="font.silcharis" href="CharisSILI.ttf" media-type="application/x-font-truetype"/>
+    <item id="font.galaxiegothic" href="GalaxieGothic.ttf" media-type="application/x-font-truetype"/>
+    <item id="font.galaxieuncials" href="Uncials.ttf" media-type="application/x-font-truetype"/>
+    <item id="style.style" href="style.css" media-type="text/css"/>
+    <item id="style.gentiumplus" href="gentiumplus.css" media-type="text/css"/>
+    <item href="copyright.xhtml" id="xcopyright" media-type="application/xhtml+xml" />
+    <item href="cover.png" id="cover-image" media-type="image/png" properties="cover-image" />
+    <item href="cover.xhtml" id="xcover" media-type="application/xhtml+xml" />
+    <item href="eBible.org_certified.jpg" id="jebibleorg_certified" media-type="image/jpeg" />
+    <item href="epub.css" id="cepub" media-type="text/css" />
+    <item href="gentium_plus.ttf" id="tgentium_plus" media-type="application/font-ttf" />
+    <item href="gentium_plus.woff" id="wgentium_plus" media-type="application/font-woff" />
+    <item href="index.xhtml" id="xindex" media-type="application/xhtml+xml" properties="nav" />
+    <item href="liberationsans_regular.ttf" id="tliberationsans_regular" media-type="application/font-ttf" />
+    <item href="liberationsans_regular.woff" id="wliberationsans_regular" media-type="application/font-woff" />
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml" />
+
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="cover"/>
+    <itemref idref="copyright"/>
+    <itemref idref="glossary"/>
+    <itemref idref="preface"/>
+    <itemref idref="item934"/> 
+    <itemref idref="item935"/> 
+    <itemref idref="item936"/> 
+    <itemref idref="item937"/> 
+    <itemref idref="item938"/> 
+    <itemref idref="item939"/> 
+    <itemref idref="item940"/> 
+    <itemref idref="item941"/> 
+    <itemref idref="item942"/> 
+    <itemref idref="item943"/> 
+    <itemref idref="item944"/> 
+    <itemref idref="item945"/> 
+    <itemref idref="item946"/> 
+    <itemref idref="item947"/> 
+    <itemref idref="item948"/> 
+    <itemref idref="item949"/> 
+    <itemref idref="item950"/> 
+    <itemref idref="item951"/> 
+    <itemref idref="item952"/> 
+    <itemref idref="item953"/> 
+    <itemref idref="item954"/> 
+    <itemref idref="item955"/> 
+    <itemref idref="item956"/> 
+    <itemref idref="item957"/> 
+    <itemref idref="item958"/> 
+    <itemref idref="item959"/> 
+    <itemref idref="item960"/> 
+    <itemref idref="item961"/> 
+    <itemref idref="item962"/> 
+    <itemref idref="item963"/> 
+    <itemref idref="item964"/> 
+    <itemref idref="item965"/> 
+    <itemref idref="item966"/> 
+    <itemref idref="item967"/> 
+    <itemref idref="item968"/> 
+    <itemref idref="item969"/> 
+    <itemref idref="item970"/> 
+    <itemref idref="item971"/> 
+    <itemref idref="item972"/> 
+    <itemref idref="item973"/> 
+    <itemref idref="item974"/> 
+    <itemref idref="item975"/> 
+    <itemref idref="item976"/> 
+    <itemref idref="item977"/> 
+    <itemref idref="item978"/> 
+    <itemref idref="item979"/> 
+    <itemref idref="item980"/> 
+    <itemref idref="item981"/> 
+    <itemref idref="item982"/> 
+    <itemref idref="item983"/> 
+    <itemref idref="item984"/> 
+    <itemref idref="item985"/> 
+    <itemref idref="item986"/> 
+    <itemref idref="item987"/> 
+    <itemref idref="item988"/> 
+    <itemref idref="item989"/> 
+    <itemref idref="item990"/> 
+    <itemref idref="item991"/> 
+    <itemref idref="item992"/> 
+    <itemref idref="item993"/> 
+    <itemref idref="item994"/> 
+    <itemref idref="item995"/> 
+    <itemref idref="item996"/> 
+    <itemref idref="item997"/> 
+    <itemref idref="item998"/> 
+    <itemref idref="item999"/> 
+    <itemref idref="item1000"/>
+    <itemref idref="item1001"/>
+    <itemref idref="item1002"/>
+    <itemref idref="item1003"/>
+    <itemref idref="item1004"/>
+    <itemref idref="item1005"/>
+    <itemref idref="item1006"/>
+    <itemref idref="item1007"/>
+    <itemref idref="item1008"/>
+    <itemref idref="item1009"/>
+    <itemref idref="item1010"/>
+    <itemref idref="item1011"/>
+    <itemref idref="item1012"/>
+    <itemref idref="item1013"/>
+    <itemref idref="item1014"/>
+    <itemref idref="item1015"/>
+    <itemref idref="item1016"/>
+    <itemref idref="item1017"/>
+    <itemref idref="item1018"/>
+    <itemref idref="item1019"/>
+    <itemref idref="item1020"/>
+    <itemref idref="item1021"/>
+    <itemref idref="item1022"/>
+    <itemref idref="item1023"/>
+    <itemref idref="item1024"/>
+    <itemref idref="item1025"/>
+    <itemref idref="item1026"/>
+    <itemref idref="item1027"/>
+    <itemref idref="item1028"/>
+    <itemref idref="item1029"/>
+    <itemref idref="item1030"/>
+    <itemref idref="item1031"/>
+    <itemref idref="item1032"/>
+    <itemref idref="item1033"/>
+    <itemref idref="item1034"/>
+    <itemref idref="item1035"/>
+    <itemref idref="item1036"/>
+    <itemref idref="item1037"/>
+    <itemref idref="item1038"/>
+    <itemref idref="item1039"/>
+    <itemref idref="item1040"/>
+    <itemref idref="item1041"/>
+    <itemref idref="item1042"/>
+    <itemref idref="item1043"/>
+    <itemref idref="item1044"/>
+    <itemref idref="item1045"/>
+    <itemref idref="item1046"/>
+    <itemref idref="item1047"/>
+    <itemref idref="item1048"/>
+    <itemref idref="item1049"/>
+    <itemref idref="item1050"/>
+    <itemref idref="item1051"/>
+    <itemref idref="item1052"/>
+    <itemref idref="item1053"/>
+    <itemref idref="item1054"/>
+    <itemref idref="item1055"/>
+    <itemref idref="item1056"/>
+    <itemref idref="item1057"/>
+    <itemref idref="item1058"/>
+    <itemref idref="item1059"/>
+    <itemref idref="item1060"/>
+    <itemref idref="item1061"/>
+    <itemref idref="item1062"/>
+    <itemref idref="item1063"/>
+    <itemref idref="item1064"/>
+    <itemref idref="item1065"/>
+    <itemref idref="item1066"/>
+    <itemref idref="item1067"/>
+    <itemref idref="item1068"/>
+    <itemref idref="item1069"/>
+    <itemref idref="item1070"/>
+    <itemref idref="item1071"/>
+    <itemref idref="item1072"/>
+    <itemref idref="item1073"/>
+    <itemref idref="item1074"/>
+    <itemref idref="item1075"/>
+    <itemref idref="item1076"/>
+    <itemref idref="item1077"/>
+    <itemref idref="item1078"/>
+    <itemref idref="item1079"/>
+    <itemref idref="item1080"/>
+    <itemref idref="item1081"/>
+    <itemref idref="item1082"/>
+    <itemref idref="item1083"/>
+    <itemref idref="item1084"/>
+    <itemref idref="item1085"/>
+    <itemref idref="item1086"/>
+    <itemref idref="item1087"/>
+    <itemref idref="item1088"/>
+    <itemref idref="item1089"/>
+    <itemref idref="item1090"/>
+    <itemref idref="item1091"/>
+    <itemref idref="item1092"/>
+    <itemref idref="item1093"/>
+    <itemref idref="item1094"/>
+    <itemref idref="item1095"/>
+    <itemref idref="item1096"/>
+    <itemref idref="item1097"/>
+    <itemref idref="item1098"/>
+    <itemref idref="item1099"/>
+    <itemref idref="item1100"/>
+    <itemref idref="item1101"/>
+    <itemref idref="item1102"/>
+    <itemref idref="item1103"/>
+    <itemref idref="item1104"/>
+    <itemref idref="item1105"/>
+    <itemref idref="item1106"/>
+    <itemref idref="item1107"/>
+    <itemref idref="item1108"/>
+    <itemref idref="item1109"/>
+    <itemref idref="item1110"/>
+    <itemref idref="item1111"/>
+    <itemref idref="item1112"/>
+    <itemref idref="item1113"/>
+    <itemref idref="item1114"/>
+    <itemref idref="item1115"/>
+    <itemref idref="item1116"/>
+    <itemref idref="item1117"/>
+    <itemref idref="item1118"/>
+    <itemref idref="item1119"/>
+    <itemref idref="item1120"/>
+    <itemref idref="item1121"/>
+    <itemref idref="item1122"/>
+    <itemref idref="item1123"/>
+    <itemref idref="item1124"/>
+    <itemref idref="item1125"/>
+    <itemref idref="item1126"/>
+    <itemref idref="item1127"/>
+    <itemref idref="item1128"/>
+    <itemref idref="item1129"/>
+    <itemref idref="item1130"/>
+    <itemref idref="item1131"/>
+    <itemref idref="item1132"/>
+    <itemref idref="item1133"/>
+    <itemref idref="item1134"/>
+    <itemref idref="item1135"/>
+    <itemref idref="item1136"/>
+    <itemref idref="item1137"/>
+    <itemref idref="item1138"/>
+    <itemref idref="item1139"/>
+    <itemref idref="item1140"/>
+    <itemref idref="item1141"/>
+    <itemref idref="item1142"/>
+    <itemref idref="item1143"/>
+    <itemref idref="item1144"/>
+    <itemref idref="item1145"/>
+    <itemref idref="item1146"/>
+    <itemref idref="item1147"/>
+    <itemref idref="item1148"/>
+    <itemref idref="item1149"/>
+    <itemref idref="item1150"/>
+    <itemref idref="item1151"/>
+    <itemref idref="item1152"/>
+    <itemref idref="item1153"/>
+    <itemref idref="item1154"/>
+    <itemref idref="item1155"/>
+    <itemref idref="item1156"/>
+    <itemref idref="item1157"/>
+    <itemref idref="item1158"/>
+    <itemref idref="item1159"/>
+    <itemref idref="item1160"/>
+    <itemref idref="item1161"/>
+    <itemref idref="item1162"/>
+    <itemref idref="item1163"/>
+    <itemref idref="item1164"/>
+    <itemref idref="item1165"/>
+    <itemref idref="item1166"/>
+    <itemref idref="item1167"/>
+    <itemref idref="item1168"/>
+    <itemref idref="item1169"/>
+    <itemref idref="item1170"/>
+    <itemref idref="item1171"/>
+    <itemref idref="item1172"/>
+    <itemref idref="item1173"/>
+    <itemref idref="item1174"/>
+    <itemref idref="item1175"/>
+    <itemref idref="item1176"/>
+    <itemref idref="item1177"/>
+    <itemref idref="item1178"/>
+    <itemref idref="item1179"/>
+    <itemref idref="item1180"/>
+    <itemref idref="item1181"/>
+    <itemref idref="item1182"/>
+    <itemref idref="item1183"/>
+    <itemref idref="item1184"/>
+    <itemref idref="item1185"/>
+    <itemref idref="item1186"/>
+    <itemref idref="item1187"/>
+    <itemref idref="item1188"/>
+    <itemref idref="item1189"/>  
+    <itemref idref="item1189"/> 
+    <itemref idref="item1190"/> 
+    <itemref idref="item1191"/> 
+    <itemref idref="item1192"/> 
+    <itemref idref="item1193"/> 
+    <itemref idref="item1194"/> 
+    <itemref idref="item1195"/> 
+    <itemref idref="item1196"/> 
+    <itemref idref="item1197"/> 
+    <itemref idref="item1198"/> 
+    <itemref idref="item1199"/> 
+    <itemref idref="item1200"/> 
+    <itemref idref="item1201"/> 
+    <itemref idref="item1202"/> 
+    <itemref idref="item1203"/> 
+    <itemref idref="item1204"/> 
+   </spine>
+  <guide>
+    <reference type="cover" title="Cover" href="cover.xhtml"/>
+  </guide>
+</package>
