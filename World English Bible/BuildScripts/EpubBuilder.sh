@@ -61,32 +61,36 @@ buildWEB()
     BuildDir="$BuildDir/WEB-$CurrentDate"
     mkdir "$BuildDir" | tee -a $BuildLog
 
-    sourceRoot="$BaseDir/../Master Source/World English Bible/Chapters"
+    sourceRoot="$BaseDir/../Source Text/Chapters"
     NTSource="$sourceRoot/DeuteroCanonical/NT"
     NTSplitChapterSource="$sourceRoot/SplitChapters/NT"
     OTSource="$sourceRoot/DeuteroCanonical/OT"
     OTSplitChapterSource="$sourceRoot/SplitChapters/OT"
+    Outdir="$BaseDir/../output"
+    mkdir "$Outdir"
+    # echo "Outdir: $Outdir"
+    # dir "$BaseDir"
+    # dir "$Outdir"
+    # sleep 30
+
     case $1 in 
         "WEB-chronological")
-            mkdir "$ProjectSource/../Output"
-            ProjectSource="$BaseDir/../Projects/World English Bible/Chronological"
-            OutputFile="$ProjectSource/../Output/WEB-Chronological-$CurrentDate.epub"
+            ProjectSource="$BaseDir/../epubs/Chronological"
+            OutputFile="$Outdir/WEB-Chronological-$CurrentDate.epub"
             # OutputFile="$BaseDir/WEB-Chronological-$CurrentDate.epub"
             copyProject
             copyNT
             copyOT
         ;;
         "WEB-NT-chronological")
-            mkdir "$ProjectSource/../Output"
-            ProjectSource="$BaseDir/../Projects/World English Bible/NT Chronological"
-            OutputFile="$ProjectSource/../Output/WEB-Chronological-NT-$CurrentDate.epub"
+            ProjectSource="$BaseDir/../epubs/NT Chronological"
+            OutputFile="$Outdir/WEB-Chronological-NT-$CurrentDate.epub"
             copyProject
             copyNT
         ;;
         "WEB-OT-chronological" )
-            mkdir "$ProjectSource/../Output"
-            ProjectSource="$BaseDir/../Projects/World English Bible/OT Chronological"
-            OutputFile="$ProjectSource/../Output/WEB-Chronological-OT-$CurrentDate.epub"
+            ProjectSource="$BaseDir/../epubs/OT Chronological"
+            OutputFile="$Outdir/WEB-Chronological-OT-$CurrentDate.epub"
             copyProject
             copyOT
         ;;
@@ -146,6 +150,7 @@ copyProject(){
         echo rsync -avi "$ProjectSource/" "$BuildDir/"
     fi
 }
+
 
 
 startme
