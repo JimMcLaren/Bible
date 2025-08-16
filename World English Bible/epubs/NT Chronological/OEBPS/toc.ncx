@@ -10,23 +10,23 @@
     <text>World English Bible New Testament Updated - in chronological order</text>
   </docTitle>
   <navMap>
-    <navPoint playorder="1" id="copyright">
+    <navPoint playOrder="1" id="copyright">
       <navLabel>
         <text>©?</text>
       </navLabel>
-      <content src="copyright.htm"/>
+      <content src="copyright-1.htm"/>
     </navPoint>
-    <navPoint playorder="2" id="glossary">
+    <navPoint playOrder="2" id="glossary">
       <navLabel>
           <text>Glossary</text>
       </navLabel>
-      <content src="glossary.htm"/>
+      <content src="Glossary-1.htm"/>
     </navPoint>
-    <navPoint playorder="3" id="preface">
+    <navPoint playOrder="3" id="preface">
       <navLabel>
           <text>Preface</text>
       </navLabel>
-      <content src="Preface.xhtml"/>
+      <content src="Preface-1.htm"/>
     </navPoint>
     <navPoint playorder="3" id="toca55"><navLabel><text>Birth and childhood of Jesus</text></navLabel><content src="Luke-1.htm"/>
       <navPoint playorder="4" id="toc967"><navLabel><text>Luke 1</text></navLabel><content src="Luke-1.htm"/></navPoint>
