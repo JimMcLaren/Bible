@@ -18,19 +18,19 @@
       <content src="cover.htm" />
     </navPoint>
  -->
-    <navPoint playOrder="1"                  id="copyright">
+    <navPoint playOrder="1" id="copyright">
       <navLabel>
         <text>©?</text>
       </navLabel>
-      <content src="copyright.htm"/>
+      <content src="copyright.xhtml"/>
     </navPoint>
-    <navPoint playOrder="2"                  id="glossary">
+    <navPoint playOrder="2" id="glossary">
       <navLabel>
           <text>Glossary</text>
       </navLabel>
-      <content src="glossary.htm"/>
+      <content src="Glossary.xhtml"/>
     </navPoint>
-    <navPoint playOrder="3"                  id="preface">
+    <navPoint playOrder="3" id="preface">
       <navLabel>
           <text>Preface</text>
       </navLabel>

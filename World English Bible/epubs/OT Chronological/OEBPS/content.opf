@@ -4,14 +4,14 @@
    <dc:title>World English Bible Old Testament (updated) in chronological order</dc:title>
    <dc:language>en-US</dc:language> 
    <dc:date>2025-07-17</dc:date>
-   <dc:subject>Christian.Bibles</dc:subject>
+   <dc:subject>Christian.Bibles.Test</dc:subject>
    <meta name="cover" content="cover-image" />
    <meta name="calibre:title_sort" content="World English Bible Old Testament (updated) in chronological order" />
   </metadata>
   <manifest>
     <item id="cover" href="cover.htm" media-type="application/xhtml+xml"/>
-    <item id="copyright" href="copyright.htm" media-type="application/xhtml+xml"/>
-    <item id="glossary" href="glossary.htm" media-type="application/xhtml+xml"/>
+    <item id="copyright" href="copyright.xhtml" media-type="application/xhtml+xml"/>
+    <item id="glossary" href="Glossary.xhtml" media-type="application/xhtml+xml"/>
     <item id="preface" href="Preface.xhtml" media-type="application/xhtml+xml"/>
     <item id="item1" href="Genesis-1.htm" media-type="application/xhtml+xml"/>
     <item id="item2" href="Genesis-2.htm" media-type="application/xhtml+xml"/>

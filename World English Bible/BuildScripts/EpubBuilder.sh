@@ -1,15 +1,4 @@
-BuildDate=$(date +"%F-%H-%M-%S")
-BuildDir=./buildDir
-
-# Start="../WEB\ Master/Chapters"
-# Destination=$Start/NT
-CurrentDate=$(date +"%F-%H-%M-%S")
-BuildLog=./logs/Build-$CurrentDate.log
-# BaseDir="../WEB Master/Chapters"
 BaseDir=$(dirname "$(readlink -f "${BASH_SOURCE}")")
-BuildDir="$BaseDir/buildDir"
-# SourceDir="$BaseDir/DeuteroCanonical"
-# ProjectSource="../../World English Bible/Projects/World English Bible/Chronological/"
 testrun=false
 
 startme(){
@@ -53,31 +42,38 @@ startme(){
 
 buildWEB()
 {
+    echo $1
+    # read -p "Waiting..." -t 15
     CurrentDate=$(date +"%F-%H-%M-%S")
-    BuildLog=./logs/Build-$CurrentDate.log
-    echo Logging in $BuildLog | tee $BuildLog
+    BuildDir="$BaseDir/../process/buildDir/$1-$CurrentDate"
+    BuildLog=$BaseDir/../process/logs/$1-$CurrentDate.log
+    echo Logging in $BuildLog | tee "$BuildLog"
+    # read -p "logging" -t 15
     RemoveBuildDirWhenDone=false
-    OldBuildDir=$BuildDir
-    BuildDir="$BuildDir/WEB-$CurrentDate"
-    mkdir "$BuildDir" | tee -a $BuildLog
-
+    mkdir "$BuildDir" | tee -a "$BuildLog"
     sourceRoot="$BaseDir/../Source Text/Chapters"
     NTSource="$sourceRoot/DeuteroCanonical/NT"
     NTSplitChapterSource="$sourceRoot/SplitChapters/NT"
     OTSource="$sourceRoot/DeuteroCanonical/OT"
     OTSplitChapterSource="$sourceRoot/SplitChapters/OT"
-    Outdir="$BaseDir/../output"
-    mkdir "$Outdir"
-    # echo "Outdir: $Outdir"
-    # dir "$BaseDir"
-    # dir "$Outdir"
-    # sleep 30
+    Outdir="$BaseDir/../process/output"
+    mkdir "$Outdir" | tee -a "$BuildLog"
+    # read -p "Pausing for 5 seconds" -t 5
 
+    # for thefile in "$sourceRoot/Extras/*.xhtml"; do cp "$thefile" "$BuildDir/OEBPS/";done
+    cd "$sourceRoot"
+    mkdir "$BuildDir/OEBPS/" | tee -a "$BuildLog"
+    
+    # echo $(pwd) >> "$BuildLog"
+    # ls ./Extras/* >> "$BuildLog"
+    for thefile in ./Extras/*;do echo "Copying $thefile" >> "$BuildLog";done | tee -a "$BuildLog"
+    for thefile in ./Extras/*; do cp "$thefile" "$BuildDir/OEBPS/";done | tee -a "$BuildLog"
+    # read -p "Pausing for 5 seconds" -t 5
+    ProjectCommon="$BaseDir/../epubs/common"
     case $1 in 
         "WEB-chronological")
             ProjectSource="$BaseDir/../epubs/Chronological"
             OutputFile="$Outdir/WEB-Chronological-$CurrentDate.epub"
-            # OutputFile="$BaseDir/WEB-Chronological-$CurrentDate.epub"
             copyProject
             copyNT
             copyOT
@@ -97,9 +93,8 @@ buildWEB()
     esac
     buildEPUB
     if [[ "$RemoveBuildDirWhenDone" = "true" ]]; then
-        rm -rv "$BuildDir" | tee -a $BuildLog
+        rm -rv "$BuildDir" | tee -a "$BuildLog"
     fi
-    BuildDir=$OldBuildDir
 
 }
 
@@ -107,9 +102,9 @@ buildEPUB()
 {
     # testrun=true
     if [ "$testrun" = "false" ]; then
-        echo Creating $OutputFile | tee -a $BuildLog 
+        echo Creating $OutputFile | tee -a "$BuildLog" 
         echo "(cd $BuildDir && zip -r - mimetype META-INF OEBPS) .gt. $OutputFile " >> $BuildLog
-        (cd "$BuildDir" && zip -r - mimetype META-INF OEBPS) > "$OutputFile" | tee -a $BuildLog
+        (cd "$BuildDir" && zip -r - mimetype META-INF OEBPS) > "$OutputFile" | tee -a "$BuildLog"
         echo EPUB created at $OutputFile
     else
         echo "Creating EPUB"
@@ -121,8 +116,9 @@ buildEPUB()
 
 copyNT(){
     if [ "$testrun" = "false" ]; then
-        rsync -avi "$NTSource/" "$BuildDir/OEBPS/" | tee -a $BuildLog
-        rsync -avi "$NTSplitChapterSource/" "$BuildDir/OEBPS/" | tee -a $BuildLog
+        rsync -avi "$NTSource/" "$BuildDir/OEBPS/" | tee -a "$BuildLog"
+        rsync -avi "$NTSplitChapterSource/" "$BuildDir/OEBPS/" | tee -a "$BuildLog"
+        # read -p "Pausing for 5 seconds" -t 5
     else
         echo "TEST NT Build"
         echo rsync -avi "$NTSource/" "$BuildDir/OEBPS/"
@@ -132,40 +128,26 @@ copyNT(){
 
 copyOT(){
     if [ "$testrun" = "false" ]; then
-        rsync -avi "$OTSource/" "$BuildDir/OEBPS/" | tee -a $BuildLog
-        rsync -avi "$OTSplitChapterSource/" "$BuildDir/OEBPS/" | tee -a $BuildLog
+        rsync -avi "$OTSource/" "$BuildDir/OEBPS/" | tee -a "$BuildLog"
+        rsync -avi "$OTSplitChapterSource/" "$BuildDir/OEBPS/" | tee -a "$BuildLog"
+        # read -p "Pausing for 5 seconds" -t 5
     else
         echo "TEST OT build"
         echo rsync -avi "$OTSource/" "$BuildDir/OEBPS/"
         echo rsync -avi "$OTSplitChapterSource/" "$BuildDir/OEBPS/"
+        # read -p "Pausing for 5 seconds" -t 5
     fi
 }
 
 copyProject(){
     if [ "$testrun" = "false" ]; then
         echo "This is not a test!"
-        rsync -avi "$ProjectSource/" "$BuildDir/" | tee -a $BuildLog
+        rsync -avi "$ProjectSource/" "$BuildDir/" | tee -a "$BuildLog"
+        rsync -avi "$ProjectCommon/" "$BuildDir/" | tee -a "$BuildLog"
     else
         echo "TEST Project move"
         echo rsync -avi "$ProjectSource/" "$BuildDir/"
     fi
 }
 
-
-
 startme
-
-# rsync -avi ./Master/ ./$BuildDir/ | tee ./$BuildDir.log
-# # rsync -avi ./MetaInfo/ ./$BuildDir/ | tee ./$BuildDir.log
- 
-
-# # cd ./Builds/$BuildDir
-# echo Creating Master-$BuildDate.epub >> $BuildDir.log 
-# echo "(cd ./$BuildDir && zip -r - mimetype META-INF OEBPS) .gt. Master-$BuildDate.epub " >> $BuildDir.log
-# (cd ./$BuildDir && zip -r - mimetype META-INF OEBPS) > Master-$BuildDate.epub 
-# # (cd ./$BuildDir && zip -r - ./META-INF) > WEB-$BuildDate.epub 
-# # (cd ./$BuildDir && zip -r - ./OEBPS) > WEB-$BuildDate.epub 
-# # zip -r WEB-$BuildDate.epub ./$BuildDir | tee -a ./$BuildDir.log
-# cd ../..
-# echo Build log at $BuildDir.log
-
