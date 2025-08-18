@@ -22,19 +22,19 @@
       <navLabel>
         <text>©?</text>
       </navLabel>
-      <content src="copyright.xhtml"/>
+      <content src="copyright-1.htm"/>
     </navPoint>
     <navPoint playOrder="2" id="glossary">
       <navLabel>
           <text>Glossary</text>
       </navLabel>
-      <content src="Glossary.xhtml"/>
+      <content src="Glossary-1.htm"/>
     </navPoint>
     <navPoint playOrder="3" id="preface">
       <navLabel>
           <text>Preface</text>
       </navLabel>
-      <content src="Preface.xhtml"/>
+      <content src="Preface-1.htm"/>
     </navPoint>
     <navPoint playOrder="4"  id="toca1"><navLabel><text>Old Testament</text></navLabel><content src="Genesis-1.htm"/>
       <navPoint playOrder="5"  id="toca2"><navLabel><text>Genesis 1-11</text></navLabel><content src="Genesis-1.htm"/>
