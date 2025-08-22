@@ -1,0 +1,1455 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+  <head>
+    <meta name="dtb:uid" content="NET21NOTELESS"/>
+    <meta name="dtb:depth" content="1"/>
+    <meta name="dtb:totalPageCount" content="0"/>
+    <meta name="dtb:maxPageNumber" content="0"/>
+  </head>
+    <docTitle>
+    <text>NET Bible 2.1 in Chronological Order (noteless)</text>
+  </docTitle>
+  <navMap>
+	    <navPoint playOrder="1" id="toca1"><navLabel><text>Old Testament</text></navLabel><content src="Genesis-1.xhtml"/>
+      <navPoint playOrder="2" id="toca2"><navLabel><text>Genesis 1-11</text></navLabel><content src="Genesis-1.xhtml"/>
+        <navPoint playOrder="3" id="toc1"><navLabel><text>Genesis 1</text></navLabel><content src="Genesis-1.xhtml"/></navPoint>
+        <navPoint playOrder="4" id="toc2"><navLabel><text>Genesis 2</text></navLabel><content src="Genesis-2.xhtml"/></navPoint>
+        <navPoint playOrder="5" id="toc3"><navLabel><text>Genesis 3</text></navLabel><content src="Genesis-3.xhtml"/></navPoint>
+        <navPoint playOrder="06" id="toc4"><navLabel><text>Genesis 4</text></navLabel><content src="Genesis-4.xhtml"/></navPoint>
+        <navPoint playOrder="07" id="toc5"><navLabel><text>Genesis 5</text></navLabel><content src="Genesis-5.xhtml"/></navPoint>
+        <navPoint playOrder="08" id="toc6"><navLabel><text>Genesis 6</text></navLabel><content src="Genesis-6.xhtml"/></navPoint>
+        <navPoint playOrder="09" id="toc7"><navLabel><text>Genesis 7</text></navLabel><content src="Genesis-7.xhtml"/></navPoint>
+        <navPoint playOrder="10" id="toc8"><navLabel><text>Genesis 8</text></navLabel><content src="Genesis-8.xhtml"/></navPoint>
+        <navPoint playOrder="11" id="toc9"><navLabel><text>Genesis 9</text></navLabel><content src="Genesis-9.xhtml"/></navPoint>
+        <navPoint playOrder="12" id="toc10"><navLabel><text>Genesis 10</text></navLabel><content src="Genesis-10.xhtml"/></navPoint>
+        <navPoint playOrder="13" id="toc11"><navLabel><text>Genesis 11</text></navLabel><content src="Genesis-11.xhtml"/></navPoint>
+      </navPoint>
+      <navPoint playOrder="14" id="toca3"><navLabel><text>Job</text></navLabel><content src="Job-1.xhtml"/>
+        <navPoint playOrder="15" id="toc12"><navLabel><text>Job 1</text></navLabel><content src="Job-1.xhtml"/></navPoint>
+        <navPoint playOrder="16" id="toc13"><navLabel><text>Job 2</text></navLabel><content src="Job-2.xhtml"/></navPoint>
+        <navPoint playOrder="17" id="toc14"><navLabel><text>Job 3</text></navLabel><content src="Job-3.xhtml"/></navPoint>
+        <navPoint playOrder="18" id="toc15"><navLabel><text>Job 4</text></navLabel><content src="Job-4.xhtml"/></navPoint>
+        <navPoint playOrder="19" id="toc16"><navLabel><text>Job 5</text></navLabel><content src="Job-5.xhtml"/></navPoint>
+        <navPoint playOrder="20" id="toc17"><navLabel><text>Job 6</text></navLabel><content src="Job-6.xhtml"/></navPoint>
+        <navPoint playOrder="21" id="toc18"><navLabel><text>Job 7</text></navLabel><content src="Job-7.xhtml"/></navPoint>
+        <navPoint playOrder="22" id="toc19"><navLabel><text>Job 8</text></navLabel><content src="Job-8.xhtml"/></navPoint>
+        <navPoint playOrder="23" id="toc20"><navLabel><text>Job 9</text></navLabel><content src="Job-9.xhtml"/></navPoint>
+        <navPoint playOrder="24" id="toc21"><navLabel><text>Job 10</text></navLabel><content src="Job-10.xhtml"/></navPoint>
+        <navPoint playOrder="25" id="toc22"><navLabel><text>Job 11</text></navLabel><content src="Job-11.xhtml"/></navPoint>
+        <navPoint playOrder="26" id="toc23"><navLabel><text>Job 12</text></navLabel><content src="Job-12.xhtml"/></navPoint>
+        <navPoint playOrder="27" id="toc24"><navLabel><text>Job 13</text></navLabel><content src="Job-13.xhtml"/></navPoint>
+        <navPoint playOrder="28" id="toc25"><navLabel><text>Job 14</text></navLabel><content src="Job-14.xhtml"/></navPoint>
+        <navPoint playOrder="29" id="toc26"><navLabel><text>Job 15</text></navLabel><content src="Job-15.xhtml"/></navPoint>
+        <navPoint playOrder="30" id="toc27"><navLabel><text>Job 16</text></navLabel><content src="Job-16.xhtml"/></navPoint>
+        <navPoint playOrder="31" id="toc28"><navLabel><text>Job 17</text></navLabel><content src="Job-17.xhtml"/></navPoint>
+        <navPoint playOrder="32" id="toc29"><navLabel><text>Job 18</text></navLabel><content src="Job-18.xhtml"/></navPoint>
+        <navPoint playOrder="33" id="toc30"><navLabel><text>Job 19</text></navLabel><content src="Job-19.xhtml"/></navPoint>
+        <navPoint playOrder="34" id="toc31"><navLabel><text>Job 20</text></navLabel><content src="Job-20.xhtml"/></navPoint>
+        <navPoint playOrder="35" id="toc32"><navLabel><text>Job 21</text></navLabel><content src="Job-21.xhtml"/></navPoint>
+        <navPoint playOrder="36" id="toc33"><navLabel><text>Job 22</text></navLabel><content src="Job-22.xhtml"/></navPoint>
+        <navPoint playOrder="37" id="toc34"><navLabel><text>Job 23</text></navLabel><content src="Job-23.xhtml"/></navPoint>
+        <navPoint playOrder="38" id="toc35"><navLabel><text>Job 24</text></navLabel><content src="Job-24.xhtml"/></navPoint>
+        <navPoint playOrder="39" id="toc36"><navLabel><text>Job 25</text></navLabel><content src="Job-25.xhtml"/></navPoint>
+        <navPoint playOrder="40" id="toc37"><navLabel><text>Job 26</text></navLabel><content src="Job-26.xhtml"/></navPoint>
+        <navPoint playOrder="41" id="toc38"><navLabel><text>Job 27</text></navLabel><content src="Job-27.xhtml"/></navPoint>
+        <navPoint playOrder="42" id="toc39"><navLabel><text>Job 28</text></navLabel><content src="Job-28.xhtml"/></navPoint>
+        <navPoint playOrder="43" id="toc40"><navLabel><text>Job 29</text></navLabel><content src="Job-29.xhtml"/></navPoint>
+        <navPoint playOrder="44" id="toc41"><navLabel><text>Job 30</text></navLabel><content src="Job-30.xhtml"/></navPoint>
+        <navPoint playOrder="45" id="toc42"><navLabel><text>Job 31</text></navLabel><content src="Job-31.xhtml"/></navPoint>
+        <navPoint playOrder="46" id="toc43"><navLabel><text>Job 32</text></navLabel><content src="Job-32.xhtml"/></navPoint>
+        <navPoint playOrder="47" id="toc44"><navLabel><text>Job 33</text></navLabel><content src="Job-33.xhtml"/></navPoint>
+        <navPoint playOrder="48" id="toc45"><navLabel><text>Job 34</text></navLabel><content src="Job-34.xhtml"/></navPoint>
+        <navPoint playOrder="49" id="toc46"><navLabel><text>Job 35</text></navLabel><content src="Job-35.xhtml"/></navPoint>
+        <navPoint playOrder="50" id="toc47"><navLabel><text>Job 36</text></navLabel><content src="Job-36.xhtml"/></navPoint>
+        <navPoint playOrder="51" id="toc48"><navLabel><text>Job 37</text></navLabel><content src="Job-37.xhtml"/></navPoint>
+        <navPoint playOrder="52" id="toc49"><navLabel><text>Job 38</text></navLabel><content src="Job-38.xhtml"/></navPoint>
+        <navPoint playOrder="53" id="toc50"><navLabel><text>Job 39</text></navLabel><content src="Job-39.xhtml"/></navPoint>
+        <navPoint playOrder="54" id="toc51"><navLabel><text>Job 40</text></navLabel><content src="Job-40.xhtml"/></navPoint>
+        <navPoint playOrder="55" id="toc52"><navLabel><text>Job 41</text></navLabel><content src="Job-41.xhtml"/></navPoint>
+        <navPoint playOrder="56" id="toc53"><navLabel><text>Job 42</text></navLabel><content src="Job-42.xhtml"/></navPoint>
+      </navPoint>
+      <navPoint playOrder="57" id="toca4"><navLabel><text>Genesis 12-50</text></navLabel><content src="Genesis-12.xhtml"/>
+        <navPoint playOrder="58" id="toc54"><navLabel><text>Genesis 12</text></navLabel><content src="Genesis-12.xhtml"/></navPoint>
+        <navPoint playOrder="59" id="toc55"><navLabel><text>Genesis 13</text></navLabel><content src="Genesis-13.xhtml"/></navPoint>
+        <navPoint playOrder="60" id="toc56"><navLabel><text>Genesis 14</text></navLabel><content src="Genesis-14.xhtml"/></navPoint>
+        <navPoint playOrder="61" id="toc57"><navLabel><text>Genesis 15</text></navLabel><content src="Genesis-15.xhtml"/></navPoint>
+        <navPoint playOrder="62" id="toc58"><navLabel><text>Genesis 16</text></navLabel><content src="Genesis-16.xhtml"/></navPoint>
+        <navPoint playOrder="63" id="toc59"><navLabel><text>Genesis 17</text></navLabel><content src="Genesis-17.xhtml"/></navPoint>
+        <navPoint playOrder="64" id="toc60"><navLabel><text>Genesis 18</text></navLabel><content src="Genesis-18.xhtml"/></navPoint>
+        <navPoint playOrder="65" id="toc61"><navLabel><text>Genesis 19</text></navLabel><content src="Genesis-19.xhtml"/></navPoint>
+        <navPoint playOrder="66" id="toc62"><navLabel><text>Genesis 20</text></navLabel><content src="Genesis-20.xhtml"/></navPoint>
+        <navPoint playOrder="67" id="toc63"><navLabel><text>Genesis 21</text></navLabel><content src="Genesis-21.xhtml"/></navPoint>
+        <navPoint playOrder="68" id="toc64"><navLabel><text>Genesis 22</text></navLabel><content src="Genesis-22.xhtml"/></navPoint>
+        <navPoint playOrder="69" id="toc65"><navLabel><text>Genesis 23</text></navLabel><content src="Genesis-23.xhtml"/></navPoint>
+        <navPoint playOrder="70" id="toc66"><navLabel><text>Genesis 24</text></navLabel><content src="Genesis-24.xhtml"/></navPoint>
+        <navPoint playOrder="71" id="toc67"><navLabel><text>Genesis 25</text></navLabel><content src="Genesis-25.xhtml"/></navPoint>
+        <navPoint playOrder="72" id="toc68"><navLabel><text>Genesis 26</text></navLabel><content src="Genesis-26.xhtml"/></navPoint>
+        <navPoint playOrder="73" id="toc69"><navLabel><text>Genesis 27</text></navLabel><content src="Genesis-27.xhtml"/></navPoint>
+        <navPoint playOrder="74" id="toc70"><navLabel><text>Genesis 28</text></navLabel><content src="Genesis-28.xhtml"/></navPoint>
+        <navPoint playOrder="75" id="toc71"><navLabel><text>Genesis 29</text></navLabel><content src="Genesis-29.xhtml"/></navPoint>
+        <navPoint playOrder="76" id="toc72"><navLabel><text>Genesis 30</text></navLabel><content src="Genesis-30.xhtml"/></navPoint>
+        <navPoint playOrder="77" id="toc73"><navLabel><text>Genesis 31</text></navLabel><content src="Genesis-31.xhtml"/></navPoint>
+        <navPoint playOrder="78" id="toc74"><navLabel><text>Genesis 32</text></navLabel><content src="Genesis-32.xhtml"/></navPoint>
+        <navPoint playOrder="79" id="toc75"><navLabel><text>Genesis 33</text></navLabel><content src="Genesis-33.xhtml"/></navPoint>
+        <navPoint playOrder="80" id="toc76"><navLabel><text>Genesis 34</text></navLabel><content src="Genesis-34.xhtml"/></navPoint>
+        <navPoint playOrder="81" id="toc77"><navLabel><text>Genesis 35</text></navLabel><content src="Genesis-35.xhtml"/></navPoint>
+        <navPoint playOrder="82" id="toc78"><navLabel><text>Genesis 36</text></navLabel><content src="Genesis-36.xhtml"/></navPoint>
+        <navPoint playOrder="83" id="toc79"><navLabel><text>Genesis 37</text></navLabel><content src="Genesis-37.xhtml"/></navPoint>
+        <navPoint playOrder="84" id="toc80"><navLabel><text>Genesis 38</text></navLabel><content src="Genesis-38.xhtml"/></navPoint>
+        <navPoint playOrder="85" id="toc81"><navLabel><text>Genesis 39</text></navLabel><content src="Genesis-39.xhtml"/></navPoint>
+        <navPoint playOrder="86" id="toc82"><navLabel><text>Genesis 40</text></navLabel><content src="Genesis-40.xhtml"/></navPoint>
+        <navPoint playOrder="87" id="toc83"><navLabel><text>Genesis 41</text></navLabel><content src="Genesis-41.xhtml"/></navPoint>
+        <navPoint playOrder="88" id="toc84"><navLabel><text>Genesis 42</text></navLabel><content src="Genesis-42.xhtml"/></navPoint>
+        <navPoint playOrder="89" id="toc85"><navLabel><text>Genesis 43</text></navLabel><content src="Genesis-43.xhtml"/></navPoint>
+        <navPoint playOrder="90" id="toc86"><navLabel><text>Genesis 44</text></navLabel><content src="Genesis-44.xhtml"/></navPoint>
+        <navPoint playOrder="91" id="toc87"><navLabel><text>Genesis 45</text></navLabel><content src="Genesis-45.xhtml"/></navPoint>
+        <navPoint playOrder="92" id="toc88"><navLabel><text>Genesis 46</text></navLabel><content src="Genesis-46.xhtml"/></navPoint>
+        <navPoint playOrder="93" id="toc89"><navLabel><text>Genesis 47</text></navLabel><content src="Genesis-47.xhtml"/></navPoint>
+        <navPoint playOrder="94" id="toc90"><navLabel><text>Genesis 48</text></navLabel><content src="Genesis-48.xhtml"/></navPoint>
+        <navPoint playOrder="95" id="toc91"><navLabel><text>Genesis 49</text></navLabel><content src="Genesis-49.xhtml"/></navPoint>
+        <navPoint playOrder="096" id="toc92"><navLabel><text>Genesis 50</text></navLabel><content src="Genesis-50.xhtml"/></navPoint>
+      </navPoint>
+      <navPoint playOrder="097" id="toca5"><navLabel><text>Exodus</text></navLabel><content src="Exodus-1.xhtml"/>
+        <navPoint playOrder="098" id="toc93"><navLabel><text>Exodus 1</text></navLabel><content src="Exodus-1.xhtml"/></navPoint>
+        <navPoint playOrder="099" id="toc94"><navLabel><text>Exodus 2</text></navLabel><content src="Exodus-2.xhtml"/></navPoint>
+        <navPoint playOrder="100" id="toc95"><navLabel><text>Exodus 3</text></navLabel><content src="Exodus-3.xhtml"/></navPoint>
+        <navPoint playOrder="101" id="toc96"><navLabel><text>Exodus 4</text></navLabel><content src="Exodus-4.xhtml"/></navPoint>
+        <navPoint playOrder="102" id="toc97"><navLabel><text>Exodus 5</text></navLabel><content src="Exodus-5.xhtml"/></navPoint>
+        <navPoint playOrder="103" id="toc98"><navLabel><text>Exodus 6</text></navLabel><content src="Exodus-6.xhtml"/></navPoint>
+        <navPoint playOrder="104" id="toc99"><navLabel><text>Exodus 7</text></navLabel><content src="Exodus-7.xhtml"/></navPoint>
+        <navPoint playOrder="105" id="toc100"><navLabel><text>Exodus 8</text></navLabel><content src="Exodus-8.xhtml"/></navPoint>
+        <navPoint playOrder="106" id="toc101"><navLabel><text>Exodus 9</text></navLabel><content src="Exodus-9.xhtml"/></navPoint>
+        <navPoint playOrder="107" id="toc102"><navLabel><text>Exodus 10</text></navLabel><content src="Exodus-10.xhtml"/></navPoint>
+        <navPoint playOrder="108" id="toc103"><navLabel><text>Exodus 11</text></navLabel><content src="Exodus-11.xhtml"/></navPoint>
+        <navPoint playOrder="109" id="toc104"><navLabel><text>Exodus 12</text></navLabel><content src="Exodus-12.xhtml"/></navPoint>
+        <navPoint playOrder="110" id="toc105"><navLabel><text>Exodus 13</text></navLabel><content src="Exodus-13.xhtml"/></navPoint>
+        <navPoint playOrder="111" id="toc106"><navLabel><text>Exodus 14</text></navLabel><content src="Exodus-14.xhtml"/></navPoint>
+        <navPoint playOrder="112" id="toc107"><navLabel><text>Exodus 15</text></navLabel><content src="Exodus-15.xhtml"/></navPoint>
+        <navPoint playOrder="113" id="toc108"><navLabel><text>Exodus 16</text></navLabel><content src="Exodus-16.xhtml"/></navPoint>
+        <navPoint playOrder="114" id="toc109"><navLabel><text>Exodus 17</text></navLabel><content src="Exodus-17.xhtml"/></navPoint>
+        <navPoint playOrder="115" id="toc110"><navLabel><text>Exodus 18</text></navLabel><content src="Exodus-18.xhtml"/></navPoint>
+        <navPoint playOrder="116" id="toc111"><navLabel><text>Exodus 19</text></navLabel><content src="Exodus-19.xhtml"/></navPoint>
+        <navPoint playOrder="117" id="toc112"><navLabel><text>Exodus 20</text></navLabel><content src="Exodus-20.xhtml"/></navPoint>
+        <navPoint playOrder="118" id="toc113"><navLabel><text>Exodus 21</text></navLabel><content src="Exodus-21.xhtml"/></navPoint>
+        <navPoint playOrder="119" id="toc114"><navLabel><text>Exodus 22</text></navLabel><content src="Exodus-22.xhtml"/></navPoint>
+        <navPoint playOrder="120" id="toc115"><navLabel><text>Exodus 23</text></navLabel><content src="Exodus-23.xhtml"/></navPoint>
+        <navPoint playOrder="121" id="toc116"><navLabel><text>Exodus 24</text></navLabel><content src="Exodus-24.xhtml"/></navPoint>
+        <navPoint playOrder="122" id="toc117"><navLabel><text>Exodus 25</text></navLabel><content src="Exodus-25.xhtml"/></navPoint>
+        <navPoint playOrder="123" id="toc118"><navLabel><text>Exodus 26</text></navLabel><content src="Exodus-26.xhtml"/></navPoint>
+        <navPoint playOrder="124" id="toc119"><navLabel><text>Exodus 27</text></navLabel><content src="Exodus-27.xhtml"/></navPoint>
+        <navPoint playOrder="125" id="toc120"><navLabel><text>Exodus 28</text></navLabel><content src="Exodus-28.xhtml"/></navPoint>
+        <navPoint playOrder="126" id="toc121"><navLabel><text>Exodus 29</text></navLabel><content src="Exodus-29.xhtml"/></navPoint>
+        <navPoint playOrder="127" id="toc122"><navLabel><text>Exodus 30</text></navLabel><content src="Exodus-30.xhtml"/></navPoint>
+        <navPoint playOrder="128" id="toc123"><navLabel><text>Exodus 31</text></navLabel><content src="Exodus-31.xhtml"/></navPoint>
+        <navPoint playOrder="129" id="toc124"><navLabel><text>Exodus 32</text></navLabel><content src="Exodus-32.xhtml"/></navPoint>
+        <navPoint playOrder="130" id="toc125"><navLabel><text>Exodus 33</text></navLabel><content src="Exodus-33.xhtml"/></navPoint>
+        <navPoint playOrder="131" id="toc126"><navLabel><text>Exodus 34</text></navLabel><content src="Exodus-34.xhtml"/></navPoint>
+        <navPoint playOrder="132" id="toc127"><navLabel><text>Exodus 35</text></navLabel><content src="Exodus-35.xhtml"/></navPoint>
+        <navPoint playOrder="133" id="toc128"><navLabel><text>Exodus 36</text></navLabel><content src="Exodus-36.xhtml"/></navPoint>
+        <navPoint playOrder="134" id="toc129"><navLabel><text>Exodus 37</text></navLabel><content src="Exodus-37.xhtml"/></navPoint>
+        <navPoint playOrder="135" id="toc130"><navLabel><text>Exodus 38</text></navLabel><content src="Exodus-38.xhtml"/></navPoint>
+        <navPoint playOrder="136" id="toc131"><navLabel><text>Exodus 39</text></navLabel><content src="Exodus-39.xhtml"/></navPoint>
+        <navPoint playOrder="137" id="toc132"><navLabel><text>Exodus 40</text></navLabel><content src="Exodus-40.xhtml"/></navPoint>
+      </navPoint>
+      <navPoint playOrder="138" id="toca6"><navLabel><text>Leviticus</text></navLabel><content src="Leviticus-1.xhtml"/>
+        <navPoint playOrder="139" id="toc133"><navLabel><text>Leviticus 1</text></navLabel><content src="Leviticus-1.xhtml"/></navPoint>
+        <navPoint playOrder="140" id="toc134"><navLabel><text>Leviticus 2</text></navLabel><content src="Leviticus-2.xhtml"/></navPoint>
+        <navPoint playOrder="141" id="toc135"><navLabel><text>Leviticus 3</text></navLabel><content src="Leviticus-3.xhtml"/></navPoint>
+        <navPoint playOrder="142" id="toc136"><navLabel><text>Leviticus 4</text></navLabel><content src="Leviticus-4.xhtml"/></navPoint>
+        <navPoint playOrder="143" id="toc137"><navLabel><text>Leviticus 5</text></navLabel><content src="Leviticus-5.xhtml"/></navPoint>
+        <navPoint playOrder="144" id="toc138"><navLabel><text>Leviticus 6</text></navLabel><content src="Leviticus-6.xhtml"/></navPoint>
+        <navPoint playOrder="145" id="toc139"><navLabel><text>Leviticus 7</text></navLabel><content src="Leviticus-7.xhtml"/></navPoint>
+        <navPoint playOrder="146" id="toc140"><navLabel><text>Leviticus 8</text></navLabel><content src="Leviticus-8.xhtml"/></navPoint>
+        <navPoint playOrder="147" id="toc141"><navLabel><text>Leviticus 9</text></navLabel><content src="Leviticus-9.xhtml"/></navPoint>
+        <navPoint playOrder="148" id="toc142"><navLabel><text>Leviticus 10</text></navLabel><content src="Leviticus-10.xhtml"/></navPoint>
+        <navPoint playOrder="149" id="toc143"><navLabel><text>Leviticus 11</text></navLabel><content src="Leviticus-11.xhtml"/></navPoint>
+        <navPoint playOrder="150" id="toc144"><navLabel><text>Leviticus 12</text></navLabel><content src="Leviticus-12.xhtml"/></navPoint>
+        <navPoint playOrder="151" id="toc145"><navLabel><text>Leviticus 13</text></navLabel><content src="Leviticus-13.xhtml"/></navPoint>
+        <navPoint playOrder="152" id="toc146"><navLabel><text>Leviticus 14</text></navLabel><content src="Leviticus-14.xhtml"/></navPoint>
+        <navPoint playOrder="153" id="toc147"><navLabel><text>Leviticus 15</text></navLabel><content src="Leviticus-15.xhtml"/></navPoint>
+        <navPoint playOrder="154" id="toc148"><navLabel><text>Leviticus 16</text></navLabel><content src="Leviticus-16.xhtml"/></navPoint>
+        <navPoint playOrder="155" id="toc149"><navLabel><text>Leviticus 17</text></navLabel><content src="Leviticus-17.xhtml"/></navPoint>
+        <navPoint playOrder="156" id="toc150"><navLabel><text>Leviticus 18</text></navLabel><content src="Leviticus-18.xhtml"/></navPoint>
+        <navPoint playOrder="157" id="toc151"><navLabel><text>Leviticus 19</text></navLabel><content src="Leviticus-19.xhtml"/></navPoint>
+        <navPoint playOrder="158" id="toc152"><navLabel><text>Leviticus 20</text></navLabel><content src="Leviticus-20.xhtml"/></navPoint>
+        <navPoint playOrder="159" id="toc153"><navLabel><text>Leviticus 21</text></navLabel><content src="Leviticus-21.xhtml"/></navPoint>
+        <navPoint playOrder="160" id="toc154"><navLabel><text>Leviticus 22</text></navLabel><content src="Leviticus-22.xhtml"/></navPoint>
+        <navPoint playOrder="161" id="toc155"><navLabel><text>Leviticus 23</text></navLabel><content src="Leviticus-23.xhtml"/></navPoint>
+        <navPoint playOrder="162" id="toc156"><navLabel><text>Leviticus 24</text></navLabel><content src="Leviticus-24.xhtml"/></navPoint>
+        <navPoint playOrder="163" id="toc157"><navLabel><text>Leviticus 25</text></navLabel><content src="Leviticus-25.xhtml"/></navPoint>
+        <navPoint playOrder="164" id="toc158"><navLabel><text>Leviticus 26</text></navLabel><content src="Leviticus-26.xhtml"/></navPoint>
+        <navPoint playOrder="165" id="toc159"><navLabel><text>Leviticus 27</text></navLabel><content src="Leviticus-27.xhtml"/></navPoint>
+      </navPoint>
+      <navPoint playOrder="166" id="toca7"><navLabel><text>Numbers 1-15</text></navLabel><content src="Numbers-1.xhtml"/>
+        <navPoint playOrder="167" id="toc160"><navLabel><text>Numbers 1</text></navLabel><content src="Numbers-1.xhtml"/></navPoint>
+        <navPoint playOrder="168" id="toc161"><navLabel><text>Numbers 2</text></navLabel><content src="Numbers-2.xhtml"/></navPoint>
+        <navPoint playOrder="169" id="toc162"><navLabel><text>Numbers 3</text></navLabel><content src="Numbers-3.xhtml"/></navPoint>
+        <navPoint playOrder="170" id="toc163"><navLabel><text>Numbers 4</text></navLabel><content src="Numbers-4.xhtml"/></navPoint>
+        <navPoint playOrder="171" id="toc164"><navLabel><text>Numbers 5</text></navLabel><content src="Numbers-5.xhtml"/></navPoint>
+        <navPoint playOrder="172" id="toc165"><navLabel><text>Numbers 6</text></navLabel><content src="Numbers-6.xhtml"/></navPoint>
+        <navPoint playOrder="173" id="toc166"><navLabel><text>Numbers 7</text></navLabel><content src="Numbers-7.xhtml"/></navPoint>
+        <navPoint playOrder="174" id="toc167"><navLabel><text>Numbers 8</text></navLabel><content src="Numbers-8.xhtml"/></navPoint>
+        <navPoint playOrder="175" id="toc168"><navLabel><text>Numbers 9</text></navLabel><content src="Numbers-9.xhtml"/></navPoint>
+        <navPoint playOrder="176" id="toc169"><navLabel><text>Numbers 10</text></navLabel><content src="Numbers-10.xhtml"/></navPoint>
+        <navPoint playOrder="177" id="toc170"><navLabel><text>Numbers 11</text></navLabel><content src="Numbers-11.xhtml"/></navPoint>
+        <navPoint playOrder="178" id="toc171"><navLabel><text>Numbers 12</text></navLabel><content src="Numbers-12.xhtml"/></navPoint>
+        <navPoint playOrder="179" id="toc172"><navLabel><text>Numbers 13</text></navLabel><content src="Numbers-13.xhtml"/></navPoint>
+        <navPoint playOrder="180" id="toc173"><navLabel><text>Numbers 14</text></navLabel><content src="Numbers-14.xhtml"/></navPoint>
+        <navPoint playOrder="181" id="toc174"><navLabel><text>Numbers 15</text></navLabel><content src="Numbers-15.xhtml"/></navPoint>
+      </navPoint>
+      <navPoint playOrder="182" id="toc175"><navLabel><text>Psalms 90</text></navLabel><content src="Psalms-90.xhtml"/></navPoint>
+      <navPoint playOrder="183" id="toca8"><navLabel><text>Numbers 16-36</text></navLabel><content src="Numbers-16.xhtml"/>
+        <navPoint playOrder="184" id="toc176"><navLabel><text>Numbers 16</text></navLabel><content src="Numbers-16.xhtml"/></navPoint>
+        <navPoint playOrder="185" id="toc177"><navLabel><text>Numbers 17</text></navLabel><content src="Numbers-17.xhtml"/></navPoint>
+        <navPoint playOrder="186" id="toc178"><navLabel><text>Numbers 18</text></navLabel><content src="Numbers-18.xhtml"/></navPoint>
+        <navPoint playOrder="187" id="toc179"><navLabel><text>Numbers 19</text></navLabel><content src="Numbers-19.xhtml"/></navPoint>
+        <navPoint playOrder="188" id="toc180"><navLabel><text>Numbers 20</text></navLabel><content src="Numbers-20.xhtml"/></navPoint>
+        <navPoint playOrder="189" id="toc181"><navLabel><text>Numbers 21</text></navLabel><content src="Numbers-21.xhtml"/></navPoint>
+        <navPoint playOrder="190" id="toc182"><navLabel><text>Numbers 22</text></navLabel><content src="Numbers-22.xhtml"/></navPoint>
+        <navPoint playOrder="191" id="toc183"><navLabel><text>Numbers 23</text></navLabel><content src="Numbers-23.xhtml"/></navPoint>
+        <navPoint playOrder="192" id="toc184"><navLabel><text>Numbers 24</text></navLabel><content src="Numbers-24.xhtml"/></navPoint>
+        <navPoint playOrder="193" id="toc185"><navLabel><text>Numbers 25</text></navLabel><content src="Numbers-25.xhtml"/></navPoint>
+        <navPoint playOrder="194" id="toc186"><navLabel><text>Numbers 26</text></navLabel><content src="Numbers-26.xhtml"/></navPoint>
+        <navPoint playOrder="195" id="toc187"><navLabel><text>Numbers 27</text></navLabel><content src="Numbers-27.xhtml"/></navPoint>
+        <navPoint playOrder="196" id="toc188"><navLabel><text>Numbers 28</text></navLabel><content src="Numbers-28.xhtml"/></navPoint>
+        <navPoint playOrder="197" id="toc189"><navLabel><text>Numbers 29</text></navLabel><content src="Numbers-29.xhtml"/></navPoint>
+        <navPoint playOrder="198" id="toc190"><navLabel><text>Numbers 30</text></navLabel><content src="Numbers-30.xhtml"/></navPoint>
+        <navPoint playOrder="199" id="toc191"><navLabel><text>Numbers 31</text></navLabel><content src="Numbers-31.xhtml"/></navPoint>
+        <navPoint playOrder="200" id="toc192"><navLabel><text>Numbers 32</text></navLabel><content src="Numbers-32.xhtml"/></navPoint>
+        <navPoint playOrder="201" id="toc193"><navLabel><text>Numbers 33</text></navLabel><content src="Numbers-33.xhtml"/></navPoint>
+        <navPoint playOrder="202" id="toc194"><navLabel><text>Numbers 34</text></navLabel><content src="Numbers-34.xhtml"/></navPoint>
+        <navPoint playOrder="203" id="toc195"><navLabel><text>Numbers 35</text></navLabel><content src="Numbers-35.xhtml"/></navPoint>
+        <navPoint playOrder="204" id="toc196"><navLabel><text>Numbers 36</text></navLabel><content src="Numbers-36.xhtml"/></navPoint>
+      </navPoint>
+      <navPoint playOrder="205" id="toca9"><navLabel><text>Deuteronomy</text></navLabel><content src="Deuteronomy-1.xhtml"/>
+        <navPoint playOrder="206" id="toc197"><navLabel><text>Deuteronomy 1</text></navLabel><content src="Deuteronomy-1.xhtml"/></navPoint>
+        <navPoint playOrder="207" id="toc198"><navLabel><text>Deuteronomy 2</text></navLabel><content src="Deuteronomy-2.xhtml"/></navPoint>
+        <navPoint playOrder="208" id="toc199"><navLabel><text>Deuteronomy 3</text></navLabel><content src="Deuteronomy-3.xhtml"/></navPoint>
+        <navPoint playOrder="209" id="toc200"><navLabel><text>Deuteronomy 4</text></navLabel><content src="Deuteronomy-4.xhtml"/></navPoint>
+        <navPoint playOrder="210" id="toc201"><navLabel><text>Deuteronomy 5</text></navLabel><content src="Deuteronomy-5.xhtml"/></navPoint>
+        <navPoint playOrder="211" id="toc202"><navLabel><text>Deuteronomy 6</text></navLabel><content src="Deuteronomy-6.xhtml"/></navPoint>
+        <navPoint playOrder="212" id="toc203"><navLabel><text>Deuteronomy 7</text></navLabel><content src="Deuteronomy-7.xhtml"/></navPoint>
+        <navPoint playOrder="213" id="toc204"><navLabel><text>Deuteronomy 8</text></navLabel><content src="Deuteronomy-8.xhtml"/></navPoint>
+        <navPoint playOrder="214" id="toc205"><navLabel><text>Deuteronomy 9</text></navLabel><content src="Deuteronomy-9.xhtml"/></navPoint>
+        <navPoint playOrder="215" id="toc206"><navLabel><text>Deuteronomy 10</text></navLabel><content src="Deuteronomy-10.xhtml"/></navPoint>
+        <navPoint playOrder="216" id="toc207"><navLabel><text>Deuteronomy 11</text></navLabel><content src="Deuteronomy-11.xhtml"/></navPoint>
+        <navPoint playOrder="217" id="toc208"><navLabel><text>Deuteronomy 12</text></navLabel><content src="Deuteronomy-12.xhtml"/></navPoint>
+        <navPoint playOrder="218" id="toc209"><navLabel><text>Deuteronomy 13</text></navLabel><content src="Deuteronomy-13.xhtml"/></navPoint>
+        <navPoint playOrder="219" id="toc210"><navLabel><text>Deuteronomy 14</text></navLabel><content src="Deuteronomy-14.xhtml"/></navPoint>
+        <navPoint playOrder="220" id="toc211"><navLabel><text>Deuteronomy 15</text></navLabel><content src="Deuteronomy-15.xhtml"/></navPoint>
+        <navPoint playOrder="221" id="toc212"><navLabel><text>Deuteronomy 16</text></navLabel><content src="Deuteronomy-16.xhtml"/></navPoint>
+        <navPoint playOrder="222" id="toc213"><navLabel><text>Deuteronomy 17</text></navLabel><content src="Deuteronomy-17.xhtml"/></navPoint>
+        <navPoint playOrder="223" id="toc214"><navLabel><text>Deuteronomy 18</text></navLabel><content src="Deuteronomy-18.xhtml"/></navPoint>
+        <navPoint playOrder="224" id="toc215"><navLabel><text>Deuteronomy 19</text></navLabel><content src="Deuteronomy-19.xhtml"/></navPoint>
+        <navPoint playOrder="225" id="toc216"><navLabel><text>Deuteronomy 20</text></navLabel><content src="Deuteronomy-20.xhtml"/></navPoint>
+        <navPoint playOrder="226" id="toc217"><navLabel><text>Deuteronomy 21</text></navLabel><content src="Deuteronomy-21.xhtml"/></navPoint>
+        <navPoint playOrder="227" id="toc218"><navLabel><text>Deuteronomy 22</text></navLabel><content src="Deuteronomy-22.xhtml"/></navPoint>
+        <navPoint playOrder="228" id="toc219"><navLabel><text>Deuteronomy 23</text></navLabel><content src="Deuteronomy-23.xhtml"/></navPoint>
+        <navPoint playOrder="229" id="toc220"><navLabel><text>Deuteronomy 24</text></navLabel><content src="Deuteronomy-24.xhtml"/></navPoint>
+        <navPoint playOrder="230" id="toc221"><navLabel><text>Deuteronomy 25</text></navLabel><content src="Deuteronomy-25.xhtml"/></navPoint>
+        <navPoint playOrder="231" id="toc222"><navLabel><text>Deuteronomy 26</text></navLabel><content src="Deuteronomy-26.xhtml"/></navPoint>
+        <navPoint playOrder="232" id="toc223"><navLabel><text>Deuteronomy 27</text></navLabel><content src="Deuteronomy-27.xhtml"/></navPoint>
+        <navPoint playOrder="233" id="toc224"><navLabel><text>Deuteronomy 28</text></navLabel><content src="Deuteronomy-28.xhtml"/></navPoint>
+        <navPoint playOrder="234" id="toc225"><navLabel><text>Deuteronomy 29</text></navLabel><content src="Deuteronomy-29.xhtml"/></navPoint>
+        <navPoint playOrder="235" id="toc226"><navLabel><text>Deuteronomy 30</text></navLabel><content src="Deuteronomy-30.xhtml"/></navPoint>
+        <navPoint playOrder="236" id="toc227"><navLabel><text>Deuteronomy 31</text></navLabel><content src="Deuteronomy-31.xhtml"/></navPoint>
+        <navPoint playOrder="237" id="toc228"><navLabel><text>Deuteronomy 32</text></navLabel><content src="Deuteronomy-32.xhtml"/></navPoint>
+        <navPoint playOrder="238" id="toc229"><navLabel><text>Deuteronomy 33</text></navLabel><content src="Deuteronomy-33.xhtml"/></navPoint>
+        <navPoint playOrder="239" id="toc230"><navLabel><text>Deuteronomy 34</text></navLabel><content src="Deuteronomy-34.xhtml"/></navPoint>
+      </navPoint>
+      <navPoint playOrder="240" id="toc231"><navLabel><text>Psalms 91</text></navLabel><content src="Psalms-91.xhtml"/></navPoint>
+      <navPoint playOrder="241" id="toca10"><navLabel><text>Joshua</text></navLabel><content src="Joshua-1.xhtml"/>
+        <navPoint playOrder="242" id="toc232"><navLabel><text>Joshua 1</text></navLabel><content src="Joshua-1.xhtml"/></navPoint>
+        <navPoint playOrder="243" id="toc233"><navLabel><text>Joshua 2</text></navLabel><content src="Joshua-2.xhtml"/></navPoint>
+        <navPoint playOrder="244" id="toc234"><navLabel><text>Joshua 3</text></navLabel><content src="Joshua-3.xhtml"/></navPoint>
+        <navPoint playOrder="245" id="toc235"><navLabel><text>Joshua 4</text></navLabel><content src="Joshua-4.xhtml"/></navPoint>
+        <navPoint playOrder="246" id="toc236"><navLabel><text>Joshua 5</text></navLabel><content src="Joshua-5.xhtml"/></navPoint>
+        <navPoint playOrder="247" id="toc237"><navLabel><text>Joshua 6</text></navLabel><content src="Joshua-6.xhtml"/></navPoint>
+        <navPoint playOrder="248" id="toc238"><navLabel><text>Joshua 7</text></navLabel><content src="Joshua-7.xhtml"/></navPoint>
+        <navPoint playOrder="249" id="toc239"><navLabel><text>Joshua 8</text></navLabel><content src="Joshua-8.xhtml"/></navPoint>
+        <navPoint playOrder="250" id="toc240"><navLabel><text>Joshua 9</text></navLabel><content src="Joshua-9.xhtml"/></navPoint>
+        <navPoint playOrder="251" id="toc241"><navLabel><text>Joshua 10</text></navLabel><content src="Joshua-10.xhtml"/></navPoint>
+        <navPoint playOrder="252" id="toc242"><navLabel><text>Joshua 11</text></navLabel><content src="Joshua-11.xhtml"/></navPoint>
+        <navPoint playOrder="253" id="toc243"><navLabel><text>Joshua 12</text></navLabel><content src="Joshua-12.xhtml"/></navPoint>
+        <navPoint playOrder="254" id="toc244"><navLabel><text>Joshua 13</text></navLabel><content src="Joshua-13.xhtml"/></navPoint>
+        <navPoint playOrder="255" id="toc245"><navLabel><text>Joshua 14</text></navLabel><content src="Joshua-14.xhtml"/></navPoint>
+        <navPoint playOrder="256" id="toc246"><navLabel><text>Joshua 15</text></navLabel><content src="Joshua-15.xhtml"/></navPoint>
+        <navPoint playOrder="257" id="toc247"><navLabel><text>Joshua 16</text></navLabel><content src="Joshua-16.xhtml"/></navPoint>
+        <navPoint playOrder="258" id="toc248"><navLabel><text>Joshua 17</text></navLabel><content src="Joshua-17.xhtml"/></navPoint>
+        <navPoint playOrder="259" id="toc249"><navLabel><text>Joshua 18</text></navLabel><content src="Joshua-18.xhtml"/></navPoint>
+        <navPoint playOrder="260" id="toc250"><navLabel><text>Joshua 19</text></navLabel><content src="Joshua-19.xhtml"/></navPoint>
+        <navPoint playOrder="261" id="toc251"><navLabel><text>Joshua 20</text></navLabel><content src="Joshua-20.xhtml"/></navPoint>
+        <navPoint playOrder="262" id="toc252"><navLabel><text>Joshua 21</text></navLabel><content src="Joshua-21.xhtml"/></navPoint>
+        <navPoint playOrder="263" id="toc253"><navLabel><text>Joshua 22</text></navLabel><content src="Joshua-22.xhtml"/></navPoint>
+        <navPoint playOrder="264" id="toc254"><navLabel><text>Joshua 23</text></navLabel><content src="Joshua-23.xhtml"/></navPoint>
+        <navPoint playOrder="265" id="toc255"><navLabel><text>Joshua 24</text></navLabel><content src="Joshua-24.xhtml"/></navPoint>
+      </navPoint>
+      <navPoint playOrder="266" id="toca11"><navLabel><text>Judges</text></navLabel><content src="Judges-1.xhtml"/>
+        <navPoint playOrder="267" id="toc256"><navLabel><text>Judges 1</text></navLabel><content src="Judges-1.xhtml"/></navPoint>
+        <navPoint playOrder="268" id="toc257"><navLabel><text>Judges 2</text></navLabel><content src="Judges-2.xhtml"/></navPoint>
+        <navPoint playOrder="269" id="toc258"><navLabel><text>Judges 3</text></navLabel><content src="Judges-3.xhtml"/></navPoint>
+        <navPoint playOrder="270" id="toc259"><navLabel><text>Judges 4</text></navLabel><content src="Judges-4.xhtml"/></navPoint>
+        <navPoint playOrder="271" id="toc260"><navLabel><text>Judges 5</text></navLabel><content src="Judges-5.xhtml"/></navPoint>
+        <navPoint playOrder="272" id="toc261"><navLabel><text>Judges 6</text></navLabel><content src="Judges-6.xhtml"/></navPoint>
+        <navPoint playOrder="273" id="toc262"><navLabel><text>Judges 7</text></navLabel><content src="Judges-7.xhtml"/></navPoint>
+        <navPoint playOrder="274" id="toc263"><navLabel><text>Judges 8</text></navLabel><content src="Judges-8.xhtml"/></navPoint>
+        <navPoint playOrder="275" id="toc264"><navLabel><text>Judges 9</text></navLabel><content src="Judges-9.xhtml"/></navPoint>
+        <navPoint playOrder="276" id="toc265"><navLabel><text>Judges 10</text></navLabel><content src="Judges-10.xhtml"/></navPoint>
+        <navPoint playOrder="277" id="toc266"><navLabel><text>Judges 11</text></navLabel><content src="Judges-11.xhtml"/></navPoint>
+        <navPoint playOrder="278" id="toc267"><navLabel><text>Judges 12</text></navLabel><content src="Judges-12.xhtml"/></navPoint>
+        <navPoint playOrder="279" id="toc268"><navLabel><text>Judges 13</text></navLabel><content src="Judges-13.xhtml"/></navPoint>
+        <navPoint playOrder="280" id="toc269"><navLabel><text>Judges 14</text></navLabel><content src="Judges-14.xhtml"/></navPoint>
+        <navPoint playOrder="281" id="toc270"><navLabel><text>Judges 15</text></navLabel><content src="Judges-15.xhtml"/></navPoint>
+        <navPoint playOrder="282" id="toc271"><navLabel><text>Judges 16</text></navLabel><content src="Judges-16.xhtml"/></navPoint>
+        <navPoint playOrder="283" id="toc272"><navLabel><text>Judges 17</text></navLabel><content src="Judges-17.xhtml"/></navPoint>
+        <navPoint playOrder="284" id="toc273"><navLabel><text>Judges 18</text></navLabel><content src="Judges-18.xhtml"/></navPoint>
+        <navPoint playOrder="285" id="toc274"><navLabel><text>Judges 19</text></navLabel><content src="Judges-19.xhtml"/></navPoint>
+        <navPoint playOrder="286" id="toc275"><navLabel><text>Judges 20</text></navLabel><content src="Judges-20.xhtml"/></navPoint>
+        <navPoint playOrder="287" id="toc276"><navLabel><text>Judges 21</text></navLabel><content src="Judges-21.xhtml"/></navPoint>
+      </navPoint>
+      <navPoint playOrder="288" id="toca12"><navLabel><text>Ruth</text></navLabel><content src="Ruth-1.xhtml"/>
+        <navPoint playOrder="289" id="toc277"><navLabel><text>Ruth 1</text></navLabel><content src="Ruth-1.xhtml"/></navPoint>
+        <navPoint playOrder="290" id="toc278"><navLabel><text>Ruth 2</text></navLabel><content src="Ruth-2.xhtml"/></navPoint>
+        <navPoint playOrder="291" id="toc279"><navLabel><text>Ruth 3</text></navLabel><content src="Ruth-3.xhtml"/></navPoint>
+        <navPoint playOrder="292" id="toc280"><navLabel><text>Ruth 4</text></navLabel><content src="Ruth-4.xhtml"/></navPoint>
+      </navPoint>
+      <navPoint playOrder="293" id="toca13"><navLabel><text>1 Samuel 1-20</text></navLabel><content src="1Samuel-1.xhtml"/>
+        <navPoint playOrder="294" id="toc281"><navLabel><text>1 Samuel 1</text></navLabel><content src="1Samuel-1.xhtml"/></navPoint>
+        <navPoint playOrder="295" id="toc282"><navLabel><text>1 Samuel 2</text></navLabel><content src="1Samuel-2.xhtml"/></navPoint>
+        <navPoint playOrder="296" id="toc283"><navLabel><text>1 Samuel 3</text></navLabel><content src="1Samuel-3.xhtml"/></navPoint>
+        <navPoint playOrder="297" id="toc284"><navLabel><text>1 Samuel 4</text></navLabel><content src="1Samuel-4.xhtml"/></navPoint>
+        <navPoint playOrder="298" id="toc285"><navLabel><text>1 Samuel 5</text></navLabel><content src="1Samuel-5.xhtml"/></navPoint>
+        <navPoint playOrder="299" id="toc286"><navLabel><text>1 Samuel 6</text></navLabel><content src="1Samuel-6.xhtml"/></navPoint>
+        <navPoint playOrder="300" id="toc287"><navLabel><text>1 Samuel 7</text></navLabel><content src="1Samuel-7.xhtml"/></navPoint>
+        <navPoint playOrder="301" id="toc288"><navLabel><text>1 Samuel 8</text></navLabel><content src="1Samuel-8.xhtml"/></navPoint>
+        <navPoint playOrder="302" id="toc289"><navLabel><text>1 Samuel 9</text></navLabel><content src="1Samuel-9.xhtml"/></navPoint>
+        <navPoint playOrder="303" id="toc290"><navLabel><text>1 Samuel 10</text></navLabel><content src="1Samuel-10.xhtml"/></navPoint>
+        <navPoint playOrder="304" id="toc291"><navLabel><text>1 Samuel 11</text></navLabel><content src="1Samuel-11.xhtml"/></navPoint>
+        <navPoint playOrder="305" id="toc292"><navLabel><text>1 Samuel 12</text></navLabel><content src="1Samuel-12.xhtml"/></navPoint>
+        <navPoint playOrder="306" id="toc293"><navLabel><text>1 Samuel 13</text></navLabel><content src="1Samuel-13.xhtml"/></navPoint>
+        <navPoint playOrder="307" id="toc294"><navLabel><text>1 Samuel 14</text></navLabel><content src="1Samuel-14.xhtml"/></navPoint>
+        <navPoint playOrder="308" id="toc295"><navLabel><text>1 Samuel 15</text></navLabel><content src="1Samuel-15.xhtml"/></navPoint>
+        <navPoint playOrder="309" id="toc296"><navLabel><text>1 Samuel 16</text></navLabel><content src="1Samuel-16.xhtml"/></navPoint>
+        <navPoint playOrder="310" id="toc297"><navLabel><text>1 Samuel 17</text></navLabel><content src="1Samuel-17.xhtml"/></navPoint>
+        <navPoint playOrder="311" id="toc298"><navLabel><text>1 Samuel 18</text></navLabel><content src="1Samuel-18.xhtml"/></navPoint>
+        <navPoint playOrder="312" id="toc299"><navLabel><text>1 Samuel 19</text></navLabel><content src="1Samuel-19.xhtml"/></navPoint>
+        <navPoint playOrder="313" id="toc300"><navLabel><text>1 Samuel 20</text></navLabel><content src="1Samuel-20.xhtml"/></navPoint>
+      </navPoint>
+      <navPoint playOrder="314" id="toc301"><navLabel><text>Psalms 11</text></navLabel><content src="Psalms-11.xhtml"/></navPoint>
+      <navPoint playOrder="315" id="toc302"><navLabel><text>Psalms 59</text></navLabel><content src="Psalms-59.xhtml"/></navPoint>
+      <navPoint playOrder="316" id="toca14"><navLabel><text>1 Samuel 21-24</text></navLabel><content src="1Samuel-21.xhtml"/>
+        <navPoint playOrder="317" id="toc303"><navLabel><text>1 Samuel 21</text></navLabel><content src="1Samuel-21.xhtml"/></navPoint>
+        <navPoint playOrder="318" id="toc304"><navLabel><text>1 Samuel 22</text></navLabel><content src="1Samuel-22.xhtml"/></navPoint>
+        <navPoint playOrder="319" id="toc305"><navLabel><text>1 Samuel 23</text></navLabel><content src="1Samuel-23.xhtml"/></navPoint>
+        <navPoint playOrder="320" id="toc306"><navLabel><text>1 Samuel 24</text></navLabel><content src="1Samuel-24.xhtml"/></navPoint>
+      </navPoint>
+      <navPoint playOrder="321" id="toca15"><navLabel><text>Psalms 7, 27, 31, 34, 52, 56, 120, 140-142</text></navLabel><content src="Psalms-7.xhtml"/>
+        <navPoint playOrder="322" id="toc307"><navLabel><text>Psalms 7</text></navLabel><content src="Psalms-7.xhtml"/></navPoint>
+        <navPoint playOrder="323" id="toc308"><navLabel><text>Psalms 27</text></navLabel><content src="Psalms-27.xhtml"/></navPoint>
+        <navPoint playOrder="324" id="toc309"><navLabel><text>Psalms 31</text></navLabel><content src="Psalms-31.xhtml"/></navPoint>
+        <navPoint playOrder="325" id="toc310"><navLabel><text>Psalms 34</text></navLabel><content src="Psalms-34.xhtml"/></navPoint>
+        <navPoint playOrder="326" id="toc311"><navLabel><text>Psalms 52</text></navLabel><content src="Psalms-52.xhtml"/></navPoint>
+        <navPoint playOrder="327" id="toc312"><navLabel><text>Psalms 56</text></navLabel><content src="Psalms-56.xhtml"/></navPoint>
+        <navPoint playOrder="328" id="toc313"><navLabel><text>Psalms 120</text></navLabel><content src="Psalms-120.xhtml"/></navPoint>
+        <navPoint playOrder="329" id="toc314"><navLabel><text>Psalms 140</text></navLabel><content src="Psalms-140.xhtml"/></navPoint>
+        <navPoint playOrder="330" id="toc315"><navLabel><text>Psalms 141</text></navLabel><content src="Psalms-141.xhtml"/></navPoint>
+        <navPoint playOrder="331" id="toc316"><navLabel><text>Psalms 142</text></navLabel><content src="Psalms-142.xhtml"/></navPoint>
+      </navPoint>
+      <navPoint playOrder="332" id="toca16"><navLabel><text>1 Samuel 25-27</text></navLabel><content src="1Samuel-25.xhtml"/>
+        <navPoint playOrder="333" id="toc317"><navLabel><text>1 Samuel 25</text></navLabel><content src="1Samuel-25.xhtml"/></navPoint>
+        <navPoint playOrder="334" id="toc318"><navLabel><text>1 Samuel 26</text></navLabel><content src="1Samuel-26.xhtml"/></navPoint>
+        <navPoint playOrder="335" id="toc319"><navLabel><text>1 Samuel 27</text></navLabel><content src="1Samuel-27.xhtml"/></navPoint>
+      </navPoint>
+      <navPoint playOrder="336" id="toca17"><navLabel><text>Psalms 17, 35, 54, 63</text></navLabel><content src="Psalms-17.xhtml"/>
+        <navPoint playOrder="337" id="toc320"><navLabel><text>Psalms 17</text></navLabel><content src="Psalms-17.xhtml"/></navPoint>
+        <navPoint playOrder="338" id="toc321"><navLabel><text>Psalms 35</text></navLabel><content src="Psalms-35.xhtml"/></navPoint>
+        <navPoint playOrder="339" id="toc322"><navLabel><text>Psalms 54</text></navLabel><content src="Psalms-54.xhtml"/></navPoint>
+        <navPoint playOrder="340" id="toc323"><navLabel><text>Psalms 63</text></navLabel><content src="Psalms-63.xhtml"/></navPoint>
+      </navPoint>
+      <navPoint playOrder="341" id="toca18"><navLabel><text>1 Samuel 28-31</text></navLabel><content src="1 Samuel 28.xhtml"/>
+        <navPoint playOrder="342" id="toc324"><navLabel><text>1 Samuel 28</text></navLabel><content src="1Samuel-28.xhtml"/></navPoint>
+        <navPoint playOrder="343" id="toc325"><navLabel><text>1 Samuel 29</text></navLabel><content src="1Samuel-29.xhtml"/></navPoint>
+        <navPoint playOrder="344" id="toc326"><navLabel><text>1 Samuel 30</text></navLabel><content src="1Samuel-30.xhtml"/></navPoint>
+        <navPoint playOrder="345" id="toc327"><navLabel><text>1 Samuel 31</text></navLabel><content src="1Samuel-31.xhtml"/></navPoint>
+      </navPoint>
+      <navPoint playOrder="346" id="toca19"><navLabel><text>Psalms 18, 121, 123-125, 128-130</text></navLabel><content src="Psalms-18.xhtml"/>
+        <navPoint playOrder="347" id="toc328"><navLabel><text>Psalms 18</text></navLabel><content src="Psalms-18.xhtml"/></navPoint>
+        <navPoint playOrder="348" id="toc329"><navLabel><text>Psalms 121</text></navLabel><content src="Psalms-121.xhtml"/></navPoint>
+        <navPoint playOrder="349" id="toc330"><navLabel><text>Psalms 123</text></navLabel><content src="Psalms-123.xhtml"/></navPoint>
+        <navPoint playOrder="350" id="toc331"><navLabel><text>Psalms 124</text></navLabel><content src="Psalms-124.xhtml"/></navPoint>
+        <navPoint playOrder="351" id="toc332"><navLabel><text>Psalms 125</text></navLabel><content src="Psalms-125.xhtml"/></navPoint>
+        <navPoint playOrder="352" id="toc333"><navLabel><text>Psalms 128</text></navLabel><content src="Psalms-128.xhtml"/></navPoint>
+        <navPoint playOrder="353" id="toc334"><navLabel><text>Psalms 129</text></navLabel><content src="Psalms-129.xhtml"/></navPoint>
+        <navPoint playOrder="354" id="toc335"><navLabel><text>Psalms 130</text></navLabel><content src="Psalms-130.xhtml"/></navPoint>                                                                                                                                                                
+      </navPoint>
+      <navPoint playOrder="355" id="toca20"><navLabel><text>2 Samuel 1-4</text></navLabel><content src="2Samuel-1.xhtml"/>
+        <navPoint playOrder="356" id="toc336"><navLabel><text>2 Samuel 1</text></navLabel><content src="2Samuel-1.xhtml"/></navPoint>
+        <navPoint playOrder="357" id="toc337"><navLabel><text>2 Samuel 2</text></navLabel><content src="2Samuel-2.xhtml"/></navPoint>
+        <navPoint playOrder="358" id="toc338"><navLabel><text>2 Samuel 3</text></navLabel><content src="2Samuel-3.xhtml"/></navPoint>
+        <navPoint playOrder="359" id="toc339"><navLabel><text>2 Samuel 4</text></navLabel><content src="2Samuel-4.xhtml"/></navPoint>
+      </navPoint>
+      <navPoint playOrder="360" id="toca21"><navLabel><text>Psalms 6, 8-10, 14, 16, 19, 21</text></navLabel><content src="Psalms-6.xhtml"/>
+        <navPoint playOrder="361" id="toc340"><navLabel><text>Psalms 6 </text></navLabel><content src="Psalms-6.xhtml"/></navPoint>
+        <navPoint playOrder="362" id="toc341"><navLabel><text>Psalms 8</text></navLabel><content src="Psalms-8.xhtml"/></navPoint>
+        <navPoint playOrder="363" id="toc342"><navLabel><text>Psalms 9</text></navLabel><content src="Psalms-9.xhtml"/></navPoint>
+        <navPoint playOrder="364" id="toc343"><navLabel><text>Psalms 10</text></navLabel><content src="Psalms-10.xhtml"/></navPoint>
+        <navPoint playOrder="365" id="toc344"><navLabel><text>Psalms 14</text></navLabel><content src="Psalms-14.xhtml"/></navPoint>
+        <navPoint playOrder="366" id="toc345"><navLabel><text>Psalms 16</text></navLabel><content src="Psalms-16.xhtml"/></navPoint>
+        <navPoint playOrder="367" id="toc346"><navLabel><text>Psalms 19</text></navLabel><content src="Psalms-19.xhtml"/></navPoint>
+        <navPoint playOrder="368" id="toc347"><navLabel><text>Psalms 21</text></navLabel><content src="Psalms-21.xhtml"/></navPoint>
+      </navPoint>
+      <navPoint playOrder="369" id="toc348"><navLabel><text>1 Chronicles 1</text></navLabel><content src="1Chronicles-1.xhtml"/></navPoint>
+      <navPoint playOrder="370" id="toc349"><navLabel><text>1 Chronicles 2</text></navLabel><content src="1Chronicles-2.xhtml"/></navPoint>
+      <navPoint playOrder="371" id="toca22"><navLabel><text>Psalms 43-45, 49, 84, 85, 87</text></navLabel><content src="Psalms-43.xhtml"/>
+        <navPoint playOrder="372" id="toc350"><navLabel><text>Psalms 43</text></navLabel><content src="Psalms-43.xhtml"/></navPoint>
+        <navPoint playOrder="373" id="toc351"><navLabel><text>Psalms 44</text></navLabel><content src="Psalms-44.xhtml"/></navPoint>
+        <navPoint playOrder="374" id="toc352"><navLabel><text>Psalms 45</text></navLabel><content src="Psalms-45.xhtml"/></navPoint>
+        <navPoint playOrder="375" id="toc353"><navLabel><text>Psalms 49</text></navLabel><content src="Psalms-49.xhtml"/></navPoint>
+        <navPoint playOrder="376" id="toc354"><navLabel><text>Psalms 84</text></navLabel><content src="Psalms-84.xhtml"/></navPoint>
+        <navPoint playOrder="377" id="toc355"><navLabel><text>Psalms 85</text></navLabel><content src="Psalms-85.xhtml"/></navPoint>
+        <navPoint playOrder="378" id="toc356"><navLabel><text>Psalms 87</text></navLabel><content src="Psalms-87.xhtml"/></navPoint>
+      </navPoint>
+      <navPoint playOrder="379" id="toc357"><navLabel><text>1 Chronicles 3-5</text></navLabel><content src="1Chronicles-3.xhtml"/>
+        <navPoint playOrder="380" id="toc358"><navLabel><text>1 Chronicles 3</text></navLabel><content src="1Chronicles-3.xhtml"/></navPoint>
+        <navPoint playOrder="381" id="toc359"><navLabel><text>1 Chronicles 4</text></navLabel><content src="1Chronicles-4.xhtml"/></navPoint>
+        <navPoint playOrder="382" id="toc360"><navLabel><text>1 Chronicles 5</text></navLabel><content src="1Chronicles-5.xhtml"/></navPoint>
+      </navPoint>
+      <navPoint playOrder="383" id="toca23"><navLabel><text>Psalms 73, 77, 78</text></navLabel><content src="Psalms-73.xhtml"/>
+        <navPoint playOrder="384" id="toc361"><navLabel><text>Psalms 73</text></navLabel><content src="Psalms-73.xhtml"/></navPoint>
+        <navPoint playOrder="385" id="toc362"><navLabel><text>Psalms 77</text></navLabel><content src="Psalms-77.xhtml"/></navPoint>
+        <navPoint playOrder="386" id="toc363"><navLabel><text>Psalms 78</text></navLabel><content src="Psalms-78.xhtml"/></navPoint>
+      </navPoint>
+      <navPoint playOrder="387" id="toc364"><navLabel><text>1 Chronicles 6</text></navLabel><content src="1Chronicles-6.xhtml"/></navPoint>
+      <navPoint playOrder="388" id="toca24"><navLabel><text>Psalms 81, 88, 92, 93</text></navLabel><content src="Psalms-81.xhtml"/>
+        <navPoint playOrder="389" id="toc365"><navLabel><text>Psalms 81</text></navLabel><content src="Psalms-81.xhtml"/></navPoint>
+        <navPoint playOrder="390" id="toc366"><navLabel><text>Psalms 88</text></navLabel><content src="Psalms-88.xhtml"/></navPoint>
+        <navPoint playOrder="391" id="toc367"><navLabel><text>Psalms 92</text></navLabel><czontent src="Psalms-92.xhtml"/></navPoint>
+        <navPoint playOrder="392" id="toc368"><navLabel><text>Psalms 93</text></navLabel><content src="Psalms-93.xhtml"/></navPoint>
+      </navPoint>
+      <navPoint playOrder="393" id="toc369"><navLabel><text>1 Chronicles 7-10</text></navLabel><content src="1Chronicles-7.xhtml"/>
+        <navPoint playOrder="394" id="toc370"><navLabel><text>1 Chronicles 7</text></navLabel><content src="1Chronicles-7.xhtml"/></navPoint>
+        <navPoint playOrder="395" id="toc371"><navLabel><text>1 Chronicles 8</text></navLabel><content src="1Chronicles-8.xhtml"/></navPoint>
+        <navPoint playOrder="396" id="toc372"><navLabel><text>1 Chronicles 9</text></navLabel><content src="1Chronicles-9.xhtml"/></navPoint>
+        <navPoint playOrder="397" id="toc373"><navLabel><text>1 Chronicles 10</text></navLabel><content src="1Chronicles-10.xhtml"/></navPoint>
+      </navPoint>
+      <navPoint playOrder="398" id="toc374"><navLabel><text>Psalms 102-104</text></navLabel><content src="Psalms-102.xhtml"/>
+        <navPoint playOrder="399" id="toc375"><navLabel><text>Psalms 102</text></navLabel><content src="Psalms-102.xhtml"/></navPoint>
+        <navPoint playOrder="400" id="toc376"><navLabel><text>Psalms 103</text></navLabel><content src="Psalms-103.xhtml"/></navPoint>
+        <navPoint playOrder="401" id="toc377"><navLabel><text>Psalms 104</text></navLabel><content src="Psalms-104.xhtml"/></navPoint>
+      </navPoint>
+      <navPoint playOrder="402" id="toc378"><navLabel><text>2 Samuel 5:1-16</text></navLabel><content src="2Samuel-5-1-16.xhtml"/></navPoint>
+      <navPoint playOrder="403" id="toc379"><navLabel><text>1 Chronicles 11</text></navLabel><content src="1Chronicles-11.xhtml"/></navPoint>
+      <navPoint playOrder="404" id="toc380"><navLabel><text>1 Chronicles 12</text></navLabel><content src="1Chronicles-12.xhtml"/></navPoint>
+      <navPoint playOrder="405" id="toc381"><navLabel><text>Psalms 133, 106, 107</text></navLabel><content src="Psalms-133.xhtml"/>
+        <navPoint playOrder="406" id="toc382"><navLabel><text>Psalms 133</text></navLabel><content src="Psalms-133.xhtml"/></navPoint>
+        <navPoint playOrder="407" id="toc383"><navLabel><text>Psalms 106</text></navLabel><content src="Psalms-106.xhtml"/></navPoint>
+        <navPoint playOrder="408" id="toc384"><navLabel><text>Psalms 107</text></navLabel><content src="Psalms-107.xhtml"/></navPoint>
+      </navPoint>
+      <navPoint playOrder="409" id="toc385"><navLabel><text>2 Samuel 5:17-25</text></navLabel><content src="2Samuel-5-17-25.xhtml"/></navPoint>
+      <navPoint playOrder="410" id="toc386"><navLabel><text>2 Samuel 6</text></navLabel><content src="2Samuel-6.xhtml"/></navPoint>
+      <navPoint playOrder="411" id="toc387"><navLabel><text>1 Chronicles 13-16</text></navLabel><content src="1Chronicles-13.xhtml"/>
+        <navPoint playOrder="412" id="toc388"><navLabel><text>1 Chronicles 13</text></navLabel><content src="1Chronicles-13.xhtml"/></navPoint>
+        <navPoint playOrder="413" id="toc389"><navLabel><text>1 Chronicles 14</text></navLabel><content src="1Chronicles-14.xhtml"/></navPoint>
+        <navPoint playOrder="414" id="toc390"><navLabel><text>1 Chronicles 15</text></navLabel><content src="1Chronicles-15.xhtml"/></navPoint>
+        <navPoint playOrder="415" id="toc391"><navLabel><text>1 Chronicles 16</text></navLabel><content src="1Chronicles-16.xhtml"/></navPoint>
+      </navPoint>
+      <navPoint playOrder="416" id="toc392"><navLabel><text>Psalms 1, 2, 15, 22-24, 47, 68, 89, 96, 100, 101, 105, 132</text></navLabel><content src="Psalms-1.xhtml"/>
+        <navPoint playOrder="417" id="toc393"><navLabel><text>Psalms 1</text></navLabel><content src="Psalms-1.xhtml"/></navPoint>
+        <navPoint playOrder="418" id="toc394"><navLabel><text>Psalms 2</text></navLabel><content src="Psalms-2.xhtml"/></navPoint>
+        <navPoint playOrder="419" id="toc395"><navLabel><text>Psalms 15</text></navLabel><content src="Psalms-15.xhtml"/></navPoint>
+        <navPoint playOrder="420" id="toc396"><navLabel><text>Psalms 22</text></navLabel><content src="Psalms-22.xhtml"/></navPoint>
+        <navPoint playOrder="421" id="toc397"><navLabel><text>Psalms 23</text></navLabel><content src="Psalms-23.xhtml"/></navPoint>
+        <navPoint playOrder="422" id="toc398"><navLabel><text>Psalms 24</text></navLabel><content src="Psalms-24.xhtml"/></navPoint>
+        <navPoint playOrder="423" id="toc399"><navLabel><text>Psalms 47</text></navLabel><content src="Psalms-47.xhtml"/></navPoint>
+        <navPoint playOrder="424" id="toc400"><navLabel><text>Psalms 68</text></navLabel><content src="Psalms-68.xhtml"/></navPoint>
+        <navPoint playOrder="425" id="toc401"><navLabel><text>Psalms 89</text></navLabel><content src="Psalms-89.xhtml"/></navPoint>
+        <navPoint playOrder="426" id="toc402"><navLabel><text>Psalms 96</text></navLabel><content src="Psalms-96.xhtml"/></navPoint>
+        <navPoint playOrder="427" id="toc403"><navLabel><text>Psalms 100</text></navLabel><content src="Psalms-100.xhtml"/></navPoint>
+        <navPoint playOrder="428" id="toc404"><navLabel><text>Psalms 101</text></navLabel><content src="Psalms-101.xhtml"/></navPoint>
+        <navPoint playOrder="429" id="toc405"><navLabel><text>Psalms 105</text></navLabel><content src="Psalms-105.xhtml"/></navPoint>
+        <navPoint playOrder="430" id="toc406"><navLabel><text>Psalms 132</text></navLabel><content src="Psalms-132.xhtml"/></navPoint>
+      </navPoint>
+      <navPoint playOrder="431" id="toc407"><navLabel><text>2 Samuel 7</text></navLabel><content src="2Samuel-7.xhtml"/></navPoint>
+      <navPoint playOrder="432" id="toc408"><navLabel><text>1 Chronicles 17</text></navLabel><content src="1Chronicles-17.xhtml"/></navPoint>
+      <navPoint playOrder="433" id="toc409"><navLabel><text>Psalms 25, 29, 33, 36, 39</text></navLabel><content src="Psalms-25.xhtml"/>
+        <navPoint playOrder="434" id="toc410"><navLabel><text>Psalms 25</text></navLabel><content src="Psalms-25.xhtml"/></navPoint>
+        <navPoint playOrder="435" id="toc411"><navLabel><text>Psalms 29</text></navLabel><content src="Psalms-29.xhtml"/></navPoint>
+        <navPoint playOrder="436" id="toc412"><navLabel><text>Psalms 33</text></navLabel><content src="Psalms-33.xhtml"/></navPoint>
+        <navPoint playOrder="437" id="toc413"><navLabel><text>Psalms 36</text></navLabel><content src="Psalms-36.xhtml"/></navPoint>
+        <navPoint playOrder="438" id="toc414"><navLabel><text>Psalms 39</text></navLabel><content src="Psalms-39.xhtml"/></navPoint>
+      </navPoint>
+      <navPoint playOrder="439" id="toc415"><navLabel><text>2 Samuel 8</text></navLabel><content src="2Samuel-8.xhtml"/></navPoint>
+      <navPoint playOrder="440" id="toc416"><navLabel><text>2 Samuel 9</text></navLabel><content src="2Samuel-9.xhtml"/></navPoint>
+      <navPoint playOrder="441" id="toc417"><navLabel><text>1 Chronicles 18</text></navLabel><content src="1Chronicles-18.xhtml"/></navPoint>
+      <navPoint playOrder="442" id="toc418"><navLabel><text>Psalms 50, 53, 60, 75</text></navLabel><content src="Psalms-50.xhtml"/>
+        <navPoint playOrder="443" id="toc419"><navLabel><text>Psalms 50</text></navLabel><content src="Psalms-50.xhtml"/></navPoint>
+        <navPoint playOrder="444" id="toc420"><navLabel><text>Psalms 53</text></navLabel><content src="Psalms-53.xhtml"/></navPoint>
+        <navPoint playOrder="445" id="toc421"><navLabel><text>Psalms 60</text></navLabel><content src="Psalms-60.xhtml"/></navPoint>
+        <navPoint playOrder="446" id="toc422"><navLabel><text>Psalms 75</text></navLabel><content src="Psalms-75.xhtml"/></navPoint>
+      </navPoint>
+      <navPoint playOrder="447" id="toc423"><navLabel><text>2 Samuel 10</text></navLabel><content src="2Samuel-10.xhtml"/></navPoint>
+      <navPoint playOrder="448" id="toc424"><navLabel><text>1 Chronicles 19</text></navLabel><content src="1Chronicles-19.xhtml"/></navPoint>
+      <navPoint playOrder="449" id="toc425"><navLabel><text>Psalms 20, 65-67, 69, 70</text></navLabel><content src="Psalms-20.xhtml"/>
+        <navPoint playOrder="450" id="toc426"><navLabel><text>Psalms 20</text></navLabel><content src="Psalms-20.xhtml"/></navPoint>
+        <navPoint playOrder="451" id="toc427"><navLabel><text>Psalms 65</text></navLabel><content src="Psalms-65.xhtml"/></navPoint>
+        <navPoint playOrder="452" id="toc428"><navLabel><text>Psalms 66</text></navLabel><content src="Psalms-66.xhtml"/></navPoint>
+        <navPoint playOrder="453" id="toc429"><navLabel><text>Psalms 67</text></navLabel><content src="Psalms-67.xhtml"/></navPoint>
+        <navPoint playOrder="454" id="toc430"><navLabel><text>Psalms 69</text></navLabel><content src="Psalms-69.xhtml"/></navPoint>
+        <navPoint playOrder="455" id="toc431"><navLabel><text>Psalms 70</text></navLabel><content src="Psalms-70.xhtml"/></navPoint>
+      </navPoint>
+      <navPoint playOrder="456" id="toc432"><navLabel><text>2 Samuel 11</text></navLabel><content src="2Samuel-11.xhtml"/></navPoint>
+      <navPoint playOrder="457" id="toc433"><navLabel><text>2 Samuel 12</text></navLabel><content src="2Samuel-12.xhtml"/></navPoint>
+      <navPoint playOrder="458" id="toc434"><navLabel><text>1 Chronicles 20</text></navLabel><content src="1Chronicles-20.xhtml"/></navPoint>
+      <navPoint playOrder="459" id="toc435"><navLabel><text>Psalms 32, 51, 86, 122</text></navLabel><content src="Psalms-32.xhtml"/>
+        <navPoint playOrder="460" id="toc436"><navLabel><text>Psalms 32</text></navLabel><content src="Psalms-32.xhtml"/></navPoint>
+        <navPoint playOrder="461" id="toc437"><navLabel><text>Psalms 51</text></navLabel><content src="Psalms-51.xhtml"/></navPoint>
+        <navPoint playOrder="462" id="toc438"><navLabel><text>Psalms 86</text></navLabel><content src="Psalms-86.xhtml"/></navPoint>
+        <navPoint playOrder="463" id="toc439"><navLabel><text>Psalms 122</text></navLabel><content src="Psalms-122.xhtml"/></navPoint>
+      </navPoint>
+      <navPoint playOrder="464" id="toc440"><navLabel><text>2 Samuel 13-15</text></navLabel><content src="2Samuel-13.xhtml"/>
+        <navPoint playOrder="465" id="toc441"><navLabel><text>2 Samuel 13</text></navLabel><content src="2Samuel-13.xhtml"/></navPoint>
+        <navPoint playOrder="466" id="toc442"><navLabel><text>2 Samuel 14</text></navLabel><content src="2Samuel-14.xhtml"/></navPoint>
+        <navPoint playOrder="467" id="toc443"><navLabel><text>2 Samuel 15</text></navLabel><content src="2Samuel-15.xhtml"/></navPoint>
+      </navPoint>
+      <navPoint playOrder="468" id="toc444"><navLabel><text>Psalms 3, 4, 12, 13, 28, 55</text></navLabel><content src="Psalms-3.xhtml"/>
+        <navPoint playOrder="469" id="toc445"><navLabel><text>Psalms 3</text></navLabel><content src="Psalms-3.xhtml"/></navPoint>
+        <navPoint playOrder="470" id="toc446"><navLabel><text>Psalms 4</text></navLabel><content src="Psalms-4.xhtml"/></navPoint>
+        <navPoint playOrder="471" id="toc447"><navLabel><text>Psalms 12</text></navLabel><content src="Psalms-12.xhtml"/></navPoint>
+        <navPoint playOrder="472" id="toc448"><navLabel><text>Psalms 13</text></navLabel><content src="Psalms-13.xhtml"/></navPoint>
+        <navPoint playOrder="473" id="toc449"><navLabel><text>Psalms 28</text></navLabel><content src="Psalms-28.xhtml"/></navPoint>
+        <navPoint playOrder="474" id="toc450"><navLabel><text>Psalms 55</text></navLabel><content src="Psalms-55.xhtml"/></navPoint>
+      </navPoint>
+      <navPoint playOrder="475" id="toc451"><navLabel><text>2 Samuel 16-18</text></navLabel><content src="2Samuel-16.xhtml"/>
+        <navPoint playOrder="476" id="toc452"><navLabel><text>2 Samuel 16</text></navLabel><content src="2Samuel-16.xhtml"/></navPoint>
+        <navPoint playOrder="477" id="toc453"><navLabel><text>2 Samuel 17</text></navLabel><content src="2Samuel-17.xhtml"/></navPoint>
+        <navPoint playOrder="478" id="toc454"><navLabel><text>2 Samuel 18</text></navLabel><content src="2Samuel-18.xhtml"/></navPoint>
+      </navPoint>
+      <navPoint playOrder="479" id="toc455"><navLabel><text>Psalms 26, 40, 58, 61, 62, 64</text></navLabel><content src="Psalms-26.xhtml"/>
+        <navPoint playOrder="480" id="toc456"><navLabel><text>Psalms 26</text></navLabel><content src="Psalms-26.xhtml"/></navPoint>
+        <navPoint playOrder="481" id="toc457"><navLabel><text>Psalms 40</text></navLabel><content src="Psalms-40.xhtml"/></navPoint>
+        <navPoint playOrder="482" id="toc458"><navLabel><text>Psalms 58</text></navLabel><content src="Psalms-58.xhtml"/></navPoint>
+        <navPoint playOrder="483" id="toc459"><navLabel><text>Psalms 61</text></navLabel><content src="Psalms-61.xhtml"/></navPoint>
+        <navPoint playOrder="484" id="toc460"><navLabel><text>Psalms 62</text></navLabel><content src="Psalms-62.xhtml"/></navPoint>
+        <navPoint playOrder="485" id="toc461"><navLabel><text>Psalms 64</text></navLabel><content src="Psalms-64.xhtml"/></navPoint>
+      </navPoint>
+        <navPoint playOrder="486" id="toc462"><navLabel><text>2 Samuel 19-21</text></navLabel><content src="2Samuel-19.xhtml"/>
+        <navPoint playOrder="487" id="toc463"><navLabel><text>2 Samuel 19</text></navLabel><content src="2Samuel-19.xhtml"/></navPoint>
+        <navPoint playOrder="488" id="toc464"><navLabel><text>2 Samuel 20</text></navLabel><content src="2Samuel-20.xhtml"/></navPoint>
+        <navPoint playOrder="489" id="toc465"><navLabel><text>2 Samuel 21</text></navLabel><content src="2Samuel-21.xhtml"/></navPoint>
+      </navPoint>
+      <navPoint playOrder="490" id="toc466"><navLabel><text>Psalms 5, 38, 41, 42</text></navLabel><content src="Psalms-5.xhtml"/>
+        <navPoint playOrder="491" id="toc467"><navLabel><text>Psalms 5</text></navLabel><content src="Psalms-5.xhtml"/></navPoint>
+        <navPoint playOrder="492" id="toc468"><navLabel><text>Psalms 38</text></navLabel><content src="Psalms-38.xhtml"/></navPoint>
+        <navPoint playOrder="493" id="toc469"><navLabel><text>Psalms 41</text></navLabel><content src="Psalms-41.xhtml"/></navPoint>
+        <navPoint playOrder="494" id="toc470"><navLabel><text>Psalms 42</text></navLabel><content src="Psalms-42.xhtml"/></navPoint>
+      </navPoint>
+      <navPoint playOrder="495" id="toc471"><navLabel><text>2 Samuel 22</text></navLabel><content src="2Samuel-22.xhtml"/></navPoint>
+      <navPoint playOrder="496" id="toc472"><navLabel><text>2 Samuel 23</text></navLabel><content src="2Samuel-23.xhtml"/></navPoint>
+      <navPoint playOrder="497" id="toc473"><navLabel><text>Psalms 57, 95, 97-99</text></navLabel><content src="Psalms-57.xhtml"/>
+        <navPoint playOrder="498" id="toc474"><navLabel><text>Psalms 57</text></navLabel><content src="Psalms-57.xhtml"/></navPoint>
+        <navPoint playOrder="499" id="toc475"><navLabel><text>Psalms 95</text></navLabel><content src="Psalms-95.xhtml"/></navPoint>
+        <navPoint playOrder="500" id="toc476"><navLabel><text>Psalms 97</text></navLabel><content src="Psalms-97.xhtml"/></navPoint>
+        <navPoint playOrder="501" id="toc477"><navLabel><text>Psalms 98</text></navLabel><content src="Psalms-98.xhtml"/></navPoint>
+        <navPoint playOrder="502" id="toc478"><navLabel><text>Psalms 99</text></navLabel><content src="Psalms-99.xhtml"/></navPoint>
+      </navPoint>
+      <navPoint playOrder="503" id="toc479"><navLabel><text>2 Samuel 24</text></navLabel><content src="2Samuel-24.xhtml"/></navPoint>
+      <navPoint playOrder="504" id="toc480"><navLabel><text>1 Chronicles 21</text></navLabel><content src="1Chronicles-21.xhtml"/></navPoint>
+      <navPoint playOrder="505" id="toc481"><navLabel><text>1 Chronicles 22</text></navLabel><content src="1Chronicles-22.xhtml"/></navPoint>
+      <navPoint playOrder="506" id="toc482"><navLabel><text>Psalms 30, 108-110</text></navLabel><content src="Psalms-30.xhtml"/>
+        <navPoint playOrder="507" id="toc483"><navLabel><text>Psalms 30</text></navLabel><content src="Psalms-30.xhtml"/></navPoint>
+        <navPoint playOrder="508" id="toc484"><navLabel><text>Psalms 108</text></navLabel><content src="Psalms-108.xhtml"/></navPoint>
+        <navPoint playOrder="509" id="toc485"><navLabel><text>Psalms 109</text></navLabel><content src="Psalms-109.xhtml"/></navPoint>
+        <navPoint playOrder="510" id="toc486"><navLabel><text>Psalms 110</text></navLabel><content src="Psalms-110.xhtml"/></navPoint>
+      </navPoint>
+      <navPoint playOrder="511" id="toc487"><navLabel><text>1 Chronicles 23-25</text></navLabel><content src="1Chronicles-23.xhtml"/>
+        <navPoint playOrder="512" id="toc488"><navLabel><text>1 Chronicles 23</text></navLabel><content src="1Chronicles-23.xhtml"/></navPoint>
+        <navPoint playOrder="513" id="toc489"><navLabel><text>1 Chronicles 24</text></navLabel><content src="1Chronicles-24.xhtml"/></navPoint>
+        <navPoint playOrder="514" id="toc490"><navLabel><text>1 Chronicles 25</text></navLabel><content src="1Chronicles-25.xhtml"/></navPoint>
+      </navPoint>
+      <navPoint playOrder="515" id="toc491"><navLabel><text>Psalms 131, 138, 139, 143-145</text></navLabel><content src="Psalms-131.xhtml"/>
+        <navPoint playOrder="516" id="toc492"><navLabel><text>Psalms 131</text></navLabel><content src="Psalms-131.xhtml"/></navPoint>
+        <navPoint playOrder="517" id="toc493"><navLabel><text>Psalms 138</text></navLabel><content src="Psalms-138.xhtml"/></navPoint>
+        <navPoint playOrder="518" id="toc494"><navLabel><text>Psalms 139</text></navLabel><content src="Psalms-139.xhtml"/></navPoint>
+        <navPoint playOrder="519" id="toc495"><navLabel><text>Psalms 143</text></navLabel><content src="Psalms-143.xhtml"/></navPoint>
+        <navPoint playOrder="520" id="toc496"><navLabel><text>Psalms 144</text></navLabel><content src="Psalms-144.xhtml"/></navPoint>
+        <navPoint playOrder="521" id="toc497"><navLabel><text>Psalms 145</text></navLabel><content src="Psalms-145.xhtml"/></navPoint>
+      </navPoint>
+      <navPoint playOrder="522" id="toc498"><navLabel><text>1 Chronicles 26-29</text></navLabel><content src="1Chronicles-26.xhtml"/>
+        <navPoint playOrder="523" id="toc499"><navLabel><text>1 Chronicles 26</text></navLabel><content src="1Chronicles-26.xhtml"/></navPoint>
+        <navPoint playOrder="524" id="toc500"><navLabel><text>1 Chronicles 27</text></navLabel><content src="1Chronicles-27.xhtml"/></navPoint>
+        <navPoint playOrder="525" id="toc501"><navLabel><text>1 Chronicles 28</text></navLabel><content src="1Chronicles-28.xhtml"/></navPoint>
+        <navPoint playOrder="526" id="toc502"><navLabel><text>1 Chronicles 29</text></navLabel><content src="1Chronicles-29.xhtml"/></navPoint>
+      </navPoint>
+      <navPoint playOrder="527" id="toc503"><navLabel><text>Psalms 127, 111-118</text></navLabel><content src="Psalms-127.xhtml"/>
+        <navPoint playOrder="528" id="toc504"><navLabel><text>Psalms 127</text></navLabel><content src="Psalms-127.xhtml"/></navPoint>
+        <navPoint playOrder="529" id="toc505"><navLabel><text>Psalms 111</text></navLabel><content src="Psalms-111.xhtml"/></navPoint>
+        <navPoint playOrder="530" id="toc506"><navLabel><text>Psalms 112</text></navLabel><content src="Psalms-112.xhtml"/></navPoint>
+        <navPoint playOrder="531" id="toc507"><navLabel><text>Psalms 113</text></navLabel><content src="Psalms-113.xhtml"/></navPoint>
+        <navPoint playOrder="532" id="toc508"><navLabel><text>Psalms 114</text></navLabel><content src="Psalms-114.xhtml"/></navPoint>
+        <navPoint playOrder="533" id="toc509"><navLabel><text>Psalms 115</text></navLabel><content src="Psalms-115.xhtml"/></navPoint>
+        <navPoint playOrder="534" id="toc510"><navLabel><text>Psalms 116</text></navLabel><content src="Psalms-116.xhtml"/></navPoint>
+        <navPoint playOrder="535" id="toc511"><navLabel><text>Psalms 117</text></navLabel><content src="Psalms-117.xhtml"/></navPoint>
+        <navPoint playOrder="536" id="toc512"><navLabel><text>Psalms 118</text></navLabel><content src="Psalms-118.xhtml"/></navPoint>
+      </navPoint>
+      <navPoint playOrder="537" id="toc513"><navLabel><text>1 Kings 1</text></navLabel><content src="1Kings-1.xhtml"/></navPoint>
+      <navPoint playOrder="538" id="toc514"><navLabel><text>1 Kings 2</text></navLabel><content src="1Kings-2.xhtml"/></navPoint>
+      <navPoint playOrder="539" id="toc515"><navLabel><text>Psalms 37, 71, 94, 119:1-88</text></navLabel><content src="Psalms-37.xhtml"/>
+        <navPoint playOrder="540" id="toc516"><navLabel><text>Psalms 37</text></navLabel><content src="Psalms-37.xhtml"/></navPoint>
+        <navPoint playOrder="541" id="toc517"><navLabel><text>Psalms 71</text></navLabel><content src="Psalms-71.xhtml"/></navPoint>
+        <navPoint playOrder="542" id="toc518"><navLabel><text>Psalms 94</text></navLabel><content src="Psalms-94.xhtml"/></navPoint>
+        <navPoint playOrder="543" id="toc519"><navLabel><text>Psalms 119:1-88</text></navLabel><content src="Psalms-119-1-88.xhtml"/></navPoint>
+      </navPoint>
+      <navPoint playOrder="544" id="toc520"><navLabel><text>1 Kings 3</text></navLabel><content src="1Kings-3.xhtml"/></navPoint>
+      <navPoint playOrder="545" id="toc521"><navLabel><text>1 Kings 4</text></navLabel><content src="1Kings-4.xhtml"/></navPoint>
+      <navPoint playOrder="546" id="toc522"><navLabel><text>2 Chronicles 1</text></navLabel><content src="2Chronicles-1.xhtml"/></navPoint>
+      <navPoint playOrder="547" id="toc523"><navLabel><text>Psalms 72</text></navLabel><content src="Psalms-72.xhtml"/></navPoint>
+      <navPoint playOrder="548" id="toc524"><navLabel><text>Psalms 119:89-176</text></navLabel><content src="Psalms-119-89-176.xhtml"/></navPoint>
+<navPoint playOrder="549" id="toca25"><navLabel><text>Song of Solomon</text></navLabel><content src="SongOfSolomon-1.xhtml"/>
+        <navPoint playOrder="550" id="toc525"><navLabel><text>SongOfSolomon 1</text></navLabel><content src="SongOfSolomon-1.xhtml"/></navPoint>
+        <navPoint playOrder="551" id="toc526"><navLabel><text>SongOfSolomon 2</text></navLabel><content src="SongOfSolomon-2.xhtml"/></navPoint>
+        <navPoint playOrder="552" id="toc527"><navLabel><text>SongOfSolomon 3</text></navLabel><content src="SongOfSolomon-3.xhtml"/></navPoint>
+        <navPoint playOrder="553" id="toc528"><navLabel><text>SongOfSolomon 4</text></navLabel><content src="SongOfSolomon-4.xhtml"/></navPoint>
+        <navPoint playOrder="554" id="toc529"><navLabel><text>SongOfSolomon 5</text></navLabel><content src="SongOfSolomon-5.xhtml"/></navPoint>
+        <navPoint playOrder="555" id="toc530"><navLabel><text>SongOfSolomon 6</text></navLabel><content src="SongOfSolomon-6.xhtml"/></navPoint>
+        <navPoint playOrder="556" id="toc531"><navLabel><text>SongOfSolomon 7</text></navLabel><content src="SongOfSolomon-7.xhtml"/></navPoint>
+        <navPoint playOrder="557" id="toc532"><navLabel><text>SongOfSolomon 8</text></navLabel><content src="SongOfSolomon-8.xhtml"/></navPoint>
+      </navPoint>
+<navPoint playOrder="558" id="toca26"><navLabel><text>Proverbs 1-24</text></navLabel><content src="Proverbs11.xhtml"/>
+        <navPoint playOrder="559" id="toc533"><navLabel><text>Proverbs 1</text></navLabel><content src="Proverbs-1.xhtml"/></navPoint>
+        <navPoint playOrder="560" id="toc534"><navLabel><text>Proverbs 2</text></navLabel><content src="Proverbs-2.xhtml"/></navPoint>
+        <navPoint playOrder="561" id="toc535"><navLabel><text>Proverbs 3</text></navLabel><content src="Proverbs-3.xhtml"/></navPoint>
+        <navPoint playOrder="562" id="toc536"><navLabel><text>Proverbs 4</text></navLabel><content src="Proverbs-4.xhtml"/></navPoint>
+        <navPoint playOrder="563" id="toc537"><navLabel><text>Proverbs 5</text></navLabel><content src="Proverbs-5.xhtml"/></navPoint>
+        <navPoint playOrder="564" id="toc538"><navLabel><text>Proverbs 6</text></navLabel><content src="Proverbs-6.xhtml"/></navPoint>
+        <navPoint playOrder="565" id="toc539"><navLabel><text>Proverbs 7</text></navLabel><content src="Proverbs-7.xhtml"/></navPoint>
+        <navPoint playOrder="566" id="toc540"><navLabel><text>Proverbs 8</text></navLabel><content src="Proverbs-8.xhtml"/></navPoint>
+        <navPoint playOrder="567" id="toc541"><navLabel><text>Proverbs 9</text></navLabel><content src="Proverbs-9.xhtml"/></navPoint>
+        <navPoint playOrder="568" id="toc542"><navLabel><text>Proverbs 10</text></navLabel><content src="Proverbs-10.xhtml"/></navPoint>
+        <navPoint playOrder="569" id="toc543"><navLabel><text>Proverbs 11</text></navLabel><content src="Proverbs-11.xhtml"/></navPoint>
+        <navPoint playOrder="570" id="toc544"><navLabel><text>Proverbs 12</text></navLabel><content src="Proverbs-12.xhtml"/></navPoint>
+        <navPoint playOrder="571" id="toc545"><navLabel><text>Proverbs 13</text></navLabel><content src="Proverbs-13.xhtml"/></navPoint>
+        <navPoint playOrder="572" id="toc546"><navLabel><text>Proverbs 14</text></navLabel><content src="Proverbs-14.xhtml"/></navPoint>
+        <navPoint playOrder="573" id="toc547"><navLabel><text>Proverbs 15</text></navLabel><content src="Proverbs-15.xhtml"/></navPoint>
+        <navPoint playOrder="574" id="toc548"><navLabel><text>Proverbs 16</text></navLabel><content src="Proverbs-16.xhtml"/></navPoint>
+        <navPoint playOrder="575" id="toc549"><navLabel><text>Proverbs 17</text></navLabel><content src="Proverbs-17.xhtml"/></navPoint>
+        <navPoint playOrder="576" id="toc550"><navLabel><text>Proverbs 18</text></navLabel><content src="Proverbs-18.xhtml"/></navPoint>
+        <navPoint playOrder="577" id="toc551"><navLabel><text>Proverbs 19</text></navLabel><content src="Proverbs-19.xhtml"/></navPoint>
+        <navPoint playOrder="578" id="toc552"><navLabel><text>Proverbs 20</text></navLabel><content src="Proverbs-20.xhtml"/></navPoint>
+        <navPoint playOrder="579" id="toc553"><navLabel><text>Proverbs 21</text></navLabel><content src="Proverbs-21.xhtml"/></navPoint>
+        <navPoint playOrder="580" id="toc554"><navLabel><text>Proverbs 22</text></navLabel><content src="Proverbs-22.xhtml"/></navPoint>
+        <navPoint playOrder="581" id="toc555"><navLabel><text>Proverbs 23</text></navLabel><content src="Proverbs-23.xhtml"/></navPoint>
+        <navPoint playOrder="582" id="toc556"><navLabel><text>Proverbs 24</text></navLabel><content src="Proverbs-24.xhtml"/></navPoint>
+      </navPoint>
+      <navPoint playOrder="583" id="toc557"><navLabel><text>1 Kings 5</text></navLabel><content src="1Kings-5.xhtml"/></navPoint>
+      <navPoint playOrder="584" id="toc558"><navLabel><text>1 Kings 6</text></navLabel><content src="1Kings-6.xhtml"/></navPoint>
+      <navPoint playOrder="585" id="toc559"><navLabel><text>2 Chronicles 2</text></navLabel><content src="2Chronicles-2.xhtml"/></navPoint>
+      <navPoint playOrder="586" id="toc560"><navLabel><text>2 Chronicles 3</text></navLabel><content src="2Chronicles-3.xhtml"/></navPoint>
+      <navPoint playOrder="587" id="toc561"><navLabel><text>1 Kings 7</text></navLabel><content src="1Kings-7.xhtml"/></navPoint>
+      <navPoint playOrder="588" id="toc562"><navLabel><text>2 Chronicles 4</text></navLabel><content src="2Chronicles-4.xhtml"/></navPoint>
+      <navPoint playOrder="589" id="toc563"><navLabel><text>1 Kings 8</text></navLabel><content src="1Kings-8.xhtml"/></navPoint>
+      <navPoint playOrder="590" id="toc564"><navLabel><text>2 Chronicles 5</text></navLabel><content src="2Chronicles-5.xhtml"/></navPoint>
+      <navPoint playOrder="591" id="toc565"><navLabel><text>2 Chronicles 6</text></navLabel><content src="2Chronicles-6.xhtml"/></navPoint>
+      <navPoint playOrder="592" id="toc566"><navLabel><text>2 Chronicles 7</text></navLabel><content src="2Chronicles-7.xhtml"/></navPoint>
+      <navPoint playOrder="593" id="toc567"><navLabel><text>Psalms 136, 134, 146-150</text></navLabel><content src="Psalms-136.xhtml"/>
+        <navPoint playOrder="594" id="toc568"><navLabel><text>Psalms 136</text></navLabel><content src="Psalms-136.xhtml"/></navPoint>
+        <navPoint playOrder="595" id="toc569"><navLabel><text>Psalms 134</text></navLabel><content src="Psalms-134.xhtml"/></navPoint>
+        <navPoint playOrder="596" id="toc570"><navLabel><text>Psalms 146</text></navLabel><content src="Psalms-146.xhtml"/></navPoint>
+        <navPoint playOrder="597" id="toc571"><navLabel><text>Psalms 147</text></navLabel><content src="Psalms-147.xhtml"/></navPoint>
+        <navPoint playOrder="598" id="toc572"><navLabel><text>Psalms 148</text></navLabel><content src="Psalms-148.xhtml"/></navPoint>
+        <navPoint playOrder="599" id="toc573"><navLabel><text>Psalms 149</text></navLabel><content src="Psalms-149.xhtml"/></navPoint>
+        <navPoint playOrder="600" id="toc574"><navLabel><text>Psalms 150</text></navLabel><content src="Psalms-150.xhtml"/></navPoint>
+      </navPoint>
+      <navPoint playOrder="601" id="toc575"><navLabel><text>1 Kings 9</text></navLabel><content src="1Kings-9.xhtml"/></navPoint>
+      <navPoint playOrder="602" id="toc576"><navLabel><text>2 Chronicles 8</text></navLabel><content src="2Chronicles-8.xhtml"/></navPoint>
+      <navPoint playOrder="603" id="toc577"><navLabel><text>Proverbs 25-29</text></navLabel><content src="Proverbs-25.xhtml"/>
+        <navPoint playOrder="604" id="toc578"><navLabel><text>Proverbs 25</text></navLabel><content src="Proverbs-25.xhtml"/></navPoint>
+        <navPoint playOrder="605" id="toc579"><navLabel><text>Proverbs 26</text></navLabel><content src="Proverbs-26.xhtml"/></navPoint>
+        <navPoint playOrder="606" id="toc580"><navLabel><text>Proverbs 27</text></navLabel><content src="Proverbs-27.xhtml"/></navPoint>
+        <navPoint playOrder="607" id="toc581"><navLabel><text>Proverbs 28</text></navLabel><content src="Proverbs-28.xhtml"/></navPoint>
+        <navPoint playOrder="608" id="toc582"><navLabel><text>Proverbs 29</text></navLabel><content src="Proverbs-29.xhtml"/></navPoint>
+      </navPoint>
+      <navPoint playOrder="609" id="toca27"><navLabel><text>Exclesiastes</text></navLabel><content src="Exclesiastes-1.xhtml"/>
+        <navPoint playOrder="610" id="toc583"><navLabel><text>Ecclesiastes 1</text></navLabel><content src="Ecclesiastes-1.xhtml"/></navPoint>
+        <navPoint playOrder="611" id="toc584"><navLabel><text>Ecclesiastes 2</text></navLabel><content src="Ecclesiastes-2.xhtml"/></navPoint>
+        <navPoint playOrder="612" id="toc585"><navLabel><text>Ecclesiastes 3</text></navLabel><content src="Ecclesiastes-3.xhtml"/></navPoint>
+        <navPoint playOrder="613" id="toc586"><navLabel><text>Ecclesiastes 4</text></navLabel><content src="Ecclesiastes-4.xhtml"/></navPoint>
+        <navPoint playOrder="614" id="toc587"><navLabel><text>Ecclesiastes 5</text></navLabel><content src="Ecclesiastes-5.xhtml"/></navPoint>
+        <navPoint playOrder="615" id="toc588"><navLabel><text>Ecclesiastes 6</text></navLabel><content src="Ecclesiastes-6.xhtml"/></navPoint>
+        <navPoint playOrder="616" id="toc589"><navLabel><text>Ecclesiastes 7</text></navLabel><content src="Ecclesiastes-7.xhtml"/></navPoint>
+        <navPoint playOrder="617" id="toc590"><navLabel><text>Ecclesiastes 8</text></navLabel><content src="Ecclesiastes-8.xhtml"/></navPoint>
+        <navPoint playOrder="618" id="toc591"><navLabel><text>Ecclesiastes 9</text></navLabel><content src="Ecclesiastes-9.xhtml"/></navPoint>
+        <navPoint playOrder="619" id="toc592"><navLabel><text>Ecclesiastes 10</text></navLabel><content src="Ecclesiastes-10.xhtml"/></navPoint>
+        <navPoint playOrder="620" id="toc593"><navLabel><text>Ecclesiastes 11</text></navLabel><content src="Ecclesiastes-11.xhtml"/></navPoint>
+        <navPoint playOrder="621" id="toc594"><navLabel><text>Ecclesiastes 12</text></navLabel><content src="Ecclesiastes-12.xhtml"/></navPoint>
+      </navPoint>
+      <navPoint playOrder="622" id="toc595"><navLabel><text>1 Kings 10</text></navLabel><content src="1Kings-10.xhtml"/></navPoint>
+      <navPoint playOrder="623" id="toc596"><navLabel><text>1 Kings 11</text></navLabel><content src="1Kings-11.xhtml"/></navPoint>
+      <navPoint playOrder="624" id="toc597"><navLabel><text>2 Chronicles 9</text></navLabel><content src="2Chronicles-9.xhtml"/></navPoint>
+      <navPoint playOrder="625" id="toc598"><navLabel><text>Proverbs 30</text></navLabel><content src="Proverbs-30.xhtml"/></navPoint>
+      <navPoint playOrder="626" id="toc599"><navLabel><text>Proverbs 31</text></navLabel><content src="Proverbs-31.xhtml"/></navPoint>
+      <navPoint playOrder="627" id="toc600"><navLabel><text>1 Kings 12-14</text></navLabel><content src="1Kings-12.xhtml"/>
+        <navPoint playOrder="628" id="toc601"><navLabel><text>1 Kings 12</text></navLabel><content src="1Kings-12.xhtml"/></navPoint>
+        <navPoint playOrder="629" id="toc602"><navLabel><text>1 Kings 13</text></navLabel><content src="1Kings-13.xhtml"/></navPoint>
+        <navPoint playOrder="630" id="toc603"><navLabel><text>1 Kings 14</text></navLabel><content src="1Kings-14.xhtml"/></navPoint>
+      </navPoint>
+      <navPoint playOrder="631" id="toc604"><navLabel><text>2 Chronicles 10-12</text></navLabel><content src="2Chronicles-10.xhtml"/>
+        <navPoint playOrder="632" id="toc605"><navLabel><text>2 Chronicles 10</text></navLabel><content src="2Chronicles-10.xhtml"/></navPoint>
+        <navPoint playOrder="633" id="toc606"><navLabel><text>2 Chronicles 11</text></navLabel><content src="2Chronicles-11.xhtml"/></navPoint>
+        <navPoint playOrder="634" id="toc607"><navLabel><text>2 Chronicles 12</text></navLabel><content src="2Chronicles-12.xhtml"/></navPoint>
+      </navPoint>
+      <navPoint playOrder="635" id="toc608"><navLabel><text>1 Kings 15:1-24</text></navLabel><content src="1Kings-15-1-24.xhtml"/></navPoint>
+      <navPoint playOrder="636" id="toc609"><navLabel><text>2 Chronicles 13-16</text></navLabel><content src="2Chronicles-13.xhtml"/>
+        <navPoint playOrder="637" id="toc610"><navLabel><text>2 Chronicles 13</text></navLabel><content src="2Chronicles-13.xhtml"/></navPoint>
+        <navPoint playOrder="638" id="toc611"><navLabel><text>2 Chronicles 14</text></navLabel><content src="2Chronicles-14.xhtml"/></navPoint>
+        <navPoint playOrder="639" id="toc612"><navLabel><text>2 Chronicles 15</text></navLabel><content src="2Chronicles-15.xhtml"/></navPoint>
+        <navPoint playOrder="640" id="toc613"><navLabel><text>2 Chronicles 16</text></navLabel><content src="2Chronicles-16.xhtml"/></navPoint>
+      </navPoint>
+      <navPoint playOrder="641" id="toc614"><navLabel><text>1 Kings 15:25-34</text></navLabel><content src="1Kings-15-25-34.xhtml"/></navPoint>
+      <navPoint playOrder="642" id="toc615"><navLabel><text>1 Kings 16</text></navLabel><content src="1Kings-16.xhtml"/></navPoint>
+      <navPoint playOrder="643" id="toc616"><navLabel><text>2 Chronicles 17</text></navLabel><content src="2Chronicles-17.xhtml"/></navPoint>
+      <navPoint playOrder="644" id="toc617"><navLabel><text>1 Kings 17-22</text></navLabel><content src="1Kings-17.xhtml"/>
+        <navPoint playOrder="645" id="toc618"><navLabel><text>1 Kings 17</text></navLabel><content src="1Kings-17.xhtml"/></navPoint>
+        <navPoint playOrder="646" id="toc619"><navLabel><text>1 Kings 18</text></navLabel><content src="1Kings-18.xhtml"/></navPoint>
+        <navPoint playOrder="647" id="toc620"><navLabel><text>1 Kings 19</text></navLabel><content src="1Kings-19.xhtml"/></navPoint>
+        <navPoint playOrder="648" id="toc621"><navLabel><text>1 Kings 20</text></navLabel><content src="1Kings-20.xhtml"/></navPoint>
+        <navPoint playOrder="649" id="toc622"><navLabel><text>1 Kings 21</text></navLabel><content src="1Kings-21.xhtml"/></navPoint>
+        <navPoint playOrder="650" id="toc623"><navLabel><text>1 Kings 22</text></navLabel><content src="1Kings-22.xhtml"/></navPoint>
+      </navPoint>
+      <navPoint playOrder="651" id="toc624"><navLabel><text>2 Chronicles 18-23</text></navLabel><content src="2Chronicles-18.xhtml"/>
+        <navPoint playOrder="652" id="toc625"><navLabel><text>2 Chronicles 18</text></navLabel><content src="2Chronicles-18.xhtml"/></navPoint>
+        <navPoint playOrder="653" id="toc626"><navLabel><text>2 Chronicles 19</text></navLabel><content src="2Chronicles-19.xhtml"/></navPoint>
+        <navPoint playOrder="654" id="toc627"><navLabel><text>2 Chronicles 20</text></navLabel><content src="2Chronicles-20.xhtml"/></navPoint>
+        <navPoint playOrder="655" id="toc628"><navLabel><text>2 Chronicles 21</text></navLabel><content src="2Chronicles-21.xhtml"/></navPoint>
+        <navPoint playOrder="656" id="toc629"><navLabel><text>2 Chronicles 22</text></navLabel><content src="2Chronicles-22.xhtml"/></navPoint>
+        <navPoint playOrder="657" id="toc630"><navLabel><text>2 Chronicles 23</text></navLabel><content src="2Chronicles-23.xhtml"/></navPoint>
+      </navPoint>
+      <navPoint playOrder="658" id="toc631"><navLabel><text>Obadiah 1</text></navLabel><content src="Obadiah-1.xhtml"/></navPoint>
+      <navPoint playOrder="659" id="toc632"><navLabel><text>Psalms 82</text></navLabel><content src="Psalms-82.xhtml"/></navPoint>
+      <navPoint playOrder="660" id="toc633"><navLabel><text>Psalms 83</text></navLabel><content src="Psalms-83.xhtml"/></navPoint>
+      <navPoint playOrder="661" id="toc634"><navLabel><text>2 Kings 1-13</text></navLabel><content src="2Kings-1.xhtml"/>
+        <navPoint playOrder="662" id="toc635"><navLabel><text>2 Kings 1</text></navLabel><content src="2Kings-1.xhtml"/></navPoint>
+        <navPoint playOrder="663" id="toc636"><navLabel><text>2 Kings 2</text></navLabel><content src="2Kings-2.xhtml"/></navPoint>
+        <navPoint playOrder="664" id="toc637"><navLabel><text>2 Kings 3</text></navLabel><content src="2Kings-3.xhtml"/></navPoint>
+        <navPoint playOrder="665" id="toc638"><navLabel><text>2 Kings 4</text></navLabel><content src="2Kings-4.xhtml"/></navPoint>
+        <navPoint playOrder="666" id="toc639"><navLabel><text>2 Kings 5</text></navLabel><content src="2Kings-5.xhtml"/></navPoint>
+        <navPoint playOrder="667" id="toc640"><navLabel><text>2 Kings 6</text></navLabel><content src="2Kings-6.xhtml"/></navPoint>
+        <navPoint playOrder="668" id="toc641"><navLabel><text>2 Kings 7</text></navLabel><content src="2Kings-7.xhtml"/></navPoint>
+        <navPoint playOrder="669" id="toc642"><navLabel><text>2 Kings 8</text></navLabel><content src="2Kings-8.xhtml"/></navPoint>
+        <navPoint playOrder="670" id="toc643"><navLabel><text>2 Kings 9</text></navLabel><content src="2Kings-9.xhtml"/></navPoint>
+        <navPoint playOrder="671" id="toc644"><navLabel><text>2 Kings 10</text></navLabel><content src="2Kings-10.xhtml"/></navPoint>
+        <navPoint playOrder="672" id="toc645"><navLabel><text>2 Kings 11</text></navLabel><content src="2Kings-11.xhtml"/></navPoint>
+        <navPoint playOrder="673" id="toc646"><navLabel><text>2 Kings 12</text></navLabel><content src="2Kings-12.xhtml"/></navPoint>
+        <navPoint playOrder="674" id="toc647"><navLabel><text>2 Kings 13</text></navLabel><content src="2Kings-13.xhtml"/></navPoint>
+      </navPoint>
+      <navPoint playOrder="675" id="toc648"><navLabel><text>2 Chronicles 24</text></navLabel><content src="2Chronicles-24.xhtml"/></navPoint>
+      <navPoint playOrder="676" id="toc649"><navLabel><text>2 Kings 14</text></navLabel><content src="2Kings-14.xhtml"/></navPoint>
+      <navPoint playOrder="677" id="toc650"><navLabel><text>2 Chronicles 25</text></navLabel><content src="2Chronicles-25.xhtml"/></navPoint>
+      <navPoint playOrder="678" id="toca28"><navLabel><text>Johah</text></navLabel><content src="Johah-1.xhtml"/>
+        <navPoint playOrder="679" id="toc651"><navLabel><text>Jonah 1</text></navLabel><content src="Jonah-1.xhtml"/></navPoint>
+        <navPoint playOrder="680" id="toc652"><navLabel><text>Jonah 2</text></navLabel><content src="Jonah-2.xhtml"/></navPoint>
+        <navPoint playOrder="681" id="toc653"><navLabel><text>Jonah 3</text></navLabel><content src="Jonah-3.xhtml"/></navPoint>
+        <navPoint playOrder="682" id="toc654"><navLabel><text>Jonah 4</text></navLabel><content src="Jonah-4.xhtml"/></navPoint>
+      </navPoint>
+      <navPoint playOrder="683" id="toc655"><navLabel><text>2 Kings 15</text></navLabel><content src="2Kings-15.xhtml"/></navPoint>
+      <navPoint playOrder="684" id="toc656"><navLabel><text>2 Chronicles 26</text></navLabel><content src="2Chronicles-26.xhtml"/></navPoint>
+      <navPoint playOrder="685" id="toca29"><navLabel><text>Isaiah 1-8</text></navLabel><content src="Isaiah-1.xhtml"/>
+        <navPoint playOrder="686" id="toc657"><navLabel><text>Isaiah 1</text></navLabel><content src="Isaiah-1.xhtml"/></navPoint>
+        <navPoint playOrder="687" id="toc658"><navLabel><text>Isaiah 2</text></navLabel><content src="Isaiah-2.xhtml"/></navPoint>
+        <navPoint playOrder="688" id="toc659"><navLabel><text>Isaiah 3</text></navLabel><content src="Isaiah-3.xhtml"/></navPoint>
+        <navPoint playOrder="689" id="toc660"><navLabel><text>Isaiah 4</text></navLabel><content src="Isaiah-4.xhtml"/></navPoint>
+        <navPoint playOrder="690" id="toc661"><navLabel><text>Isaiah 5</text></navLabel><content src="Isaiah-5.xhtml"/></navPoint>
+        <navPoint playOrder="691" id="toc662"><navLabel><text>Isaiah 6</text></navLabel><content src="Isaiah-6.xhtml"/></navPoint>
+        <navPoint playOrder="692" id="toc663"><navLabel><text>Isaiah 7</text></navLabel><content src="Isaiah-7.xhtml"/></navPoint>
+        <navPoint playOrder="693" id="toc664"><navLabel><text>Isaiah 8</text></navLabel><content src="Isaiah-8.xhtml"/></navPoint>
+      </navPoint>
+      <navPoint playOrder="694" id="toca30"><navLabel><text>Amos</text></navLabel><content src="Amos.xhtml"/>
+        <navPoint playOrder="695" id="toc665"><navLabel><text>Amos 1</text></navLabel><content src="Amos-1.xhtml"/></navPoint>
+        <navPoint playOrder="696" id="toc666"><navLabel><text>Amos 2</text></navLabel><content src="Amos-2.xhtml"/></navPoint>
+        <navPoint playOrder="697" id="toc667"><navLabel><text>Amos 3</text></navLabel><content src="Amos-3.xhtml"/></navPoint>
+        <navPoint playOrder="698" id="toc668"><navLabel><text>Amos 4</text></navLabel><content src="Amos-4.xhtml"/></navPoint>
+        <navPoint playOrder="699" id="toc669"><navLabel><text>Amos 5</text></navLabel><content src="Amos-5.xhtml"/></navPoint>
+        <navPoint playOrder="700" id="toc670"><navLabel><text>Amos 6</text></navLabel><content src="Amos-6.xhtml"/></navPoint>
+        <navPoint playOrder="701" id="toc671"><navLabel><text>Amos 7</text></navLabel><content src="Amos-7.xhtml"/></navPoint>
+        <navPoint playOrder="702" id="toc672"><navLabel><text>Amos 8</text></navLabel><content src="Amos-8.xhtml"/></navPoint>
+        <navPoint playOrder="703" id="toc673"><navLabel><text>Amos 9</text></navLabel><content src="Amos-9.xhtml"/></navPoint>
+      </navPoint>
+      <navPoint playOrder="704" id="toc674"><navLabel><text>2 Chronicles 27</text></navLabel><content src="2Chronicles-27.xhtml"/></navPoint>
+      <navPoint playOrder="705" id="toca31"><navLabel><text>Isaiah 9-12</text></navLabel><content src="Isaiah-9.xhtml"/>
+        <navPoint playOrder="706" id="toc675"><navLabel><text>Isaiah 9</text></navLabel><content src="Isaiah-9.xhtml"/></navPoint>
+        <navPoint playOrder="707" id="toc676"><navLabel><text>Isaiah 10</text></navLabel><content src="Isaiah-10.xhtml"/></navPoint>
+        <navPoint playOrder="708" id="toc677"><navLabel><text>Isaiah 11</text></navLabel><content src="Isaiah-11.xhtml"/></navPoint>
+        <navPoint playOrder="709" id="toc678"><navLabel><text>Isaiah 12</text></navLabel><content src="Isaiah-12.xhtml"/></navPoint>
+      </navPoint>
+      <navPoint playOrder="710" id="toca32"><navLabel><text>Micah</text></navLabel><content src="Micah-1.xhtml"/>
+        <navPoint playOrder="711" id="toc679"><navLabel><text>Micah 1</text></navLabel><content src="Micah-1.xhtml"/></navPoint>
+        <navPoint playOrder="712" id="toc680"><navLabel><text>Micah 2</text></navLabel><content src="Micah-2.xhtml"/></navPoint>
+        <navPoint playOrder="713" id="toc681"><navLabel><text>Micah 3</text></navLabel><content src="Micah-3.xhtml"/></navPoint>
+        <navPoint playOrder="714" id="toc682"><navLabel><text>Micah 4</text></navLabel><content src="Micah-4.xhtml"/></navPoint>
+        <navPoint playOrder="715" id="toc683"><navLabel><text>Micah 5</text></navLabel><content src="Micah-5.xhtml"/></navPoint>
+        <navPoint playOrder="716" id="toc684"><navLabel><text>Micah 6</text></navLabel><content src="Micah-6.xhtml"/></navPoint>
+        <navPoint playOrder="717" id="toc685"><navLabel><text>Micah 7</text></navLabel><content src="Micah-7.xhtml"/></navPoint>
+      </navPoint>
+      <navPoint playOrder="718" id="toc686"><navLabel><text>2 Chronicles 28</text></navLabel><content src="2Chronicles-28.xhtml"/></navPoint>
+      <navPoint playOrder="719" id="toc687"><navLabel><text>2 Kings 16</text></navLabel><content src="2Kings-16.xhtml"/></navPoint>
+      <navPoint playOrder="720" id="toc688"><navLabel><text>2 Kings 17</text></navLabel><content src="2Kings-17.xhtml"/></navPoint>
+      <navPoint playOrder="721" id="toca33"><navLabel><text>Isaiah 13-27</text></navLabel><content src="Isaiah-13.xhtml"/>
+        <navPoint playOrder="722" id="toc689"><navLabel><text>Isaiah 13</text></navLabel><content src="Isaiah-13.xhtml"/></navPoint>
+        <navPoint playOrder="723" id="toc690"><navLabel><text>Isaiah 14</text></navLabel><content src="Isaiah-14.xhtml"/></navPoint>
+        <navPoint playOrder="724" id="toc691"><navLabel><text>Isaiah 15</text></navLabel><content src="Isaiah-15.xhtml"/></navPoint>
+        <navPoint playOrder="725" id="toc692"><navLabel><text>Isaiah 16</text></navLabel><content src="Isaiah-16.xhtml"/></navPoint>
+        <navPoint playOrder="726" id="toc693"><navLabel><text>Isaiah 17</text></navLabel><content src="Isaiah-17.xhtml"/></navPoint>
+        <navPoint playOrder="727" id="toc694"><navLabel><text>Isaiah 18</text></navLabel><content src="Isaiah-18.xhtml"/></navPoint>
+        <navPoint playOrder="728" id="toc695"><navLabel><text>Isaiah 19</text></navLabel><content src="Isaiah-19.xhtml"/></navPoint>
+        <navPoint playOrder="729" id="toc696"><navLabel><text>Isaiah 20</text></navLabel><content src="Isaiah-20.xhtml"/></navPoint>
+        <navPoint playOrder="730" id="toc697"><navLabel><text>Isaiah 21</text></navLabel><content src="Isaiah-21.xhtml"/></navPoint>
+        <navPoint playOrder="731" id="toc698"><navLabel><text>Isaiah 22</text></navLabel><content src="Isaiah-22.xhtml"/></navPoint>
+        <navPoint playOrder="732" id="toc699"><navLabel><text>Isaiah 23</text></navLabel><content src="Isaiah-23.xhtml"/></navPoint>
+        <navPoint playOrder="733" id="toc700"><navLabel><text>Isaiah 24</text></navLabel><content src="Isaiah-24.xhtml"/></navPoint>
+        <navPoint playOrder="734" id="toc701"><navLabel><text>Isaiah 25</text></navLabel><content src="Isaiah-25.xhtml"/></navPoint>
+        <navPoint playOrder="735" id="toc702"><navLabel><text>Isaiah 26</text></navLabel><content src="Isaiah-26.xhtml"/></navPoint>
+        <navPoint playOrder="736" id="toc703"><navLabel><text>Isaiah 27</text></navLabel><content src="Isaiah-27.xhtml"/></navPoint>
+      </navPoint>
+      <navPoint playOrder="737" id="toc704"><navLabel><text>2 Kings 18:1-8</text></navLabel><content src="2Kings-18-1-8.xhtml"/></navPoint>
+      <navPoint playOrder="738" id="toc705"><navLabel><text>2 Chronicles 29-31</text></navLabel><content src="2Chronicles-29.xhtml"/>
+        <navPoint playOrder="739" id="toc706"><navLabel><text>2 Chronicles 29</text></navLabel><content src="2Chronicles-29.xhtml"/></navPoint>
+        <navPoint playOrder="740" id="toc707"><navLabel><text>2 Chronicles 30</text></navLabel><content src="2Chronicles-30.xhtml"/></navPoint>
+        <navPoint playOrder="741" id="toc708"><navLabel><text>2 Chronicles 31</text></navLabel><content src="2Chronicles-31.xhtml"/></navPoint>
+      </navPoint>
+      <navPoint playOrder="742" id="toc709"><navLabel><text>Psalms 48</text></navLabel><content src="Psalms-48.xhtml"/></navPoint>
+      <navPoint playOrder="743" id="toca34"><navLabel><text>Hosea</text></navLabel><content src="Hosea-1.xhtml"/>
+        <navPoint playOrder="744" id="toc710"><navLabel><text>Hosea 1</text></navLabel><content src="Hosea-1.xhtml"/></navPoint>
+        <navPoint playOrder="745" id="toc711"><navLabel><text>Hosea 2</text></navLabel><content src="Hosea-2.xhtml"/></navPoint>
+        <navPoint playOrder="746" id="toc712"><navLabel><text>Hosea 3</text></navLabel><content src="Hosea-3.xhtml"/></navPoint>
+        <navPoint playOrder="747" id="toc713"><navLabel><text>Hosea 4</text></navLabel><content src="Hosea-4.xhtml"/></navPoint>
+        <navPoint playOrder="748" id="toc714"><navLabel><text>Hosea 5</text></navLabel><content src="Hosea-5.xhtml"/></navPoint>
+        <navPoint playOrder="749" id="toc715"><navLabel><text>Hosea 6</text></navLabel><content src="Hosea-6.xhtml"/></navPoint>
+        <navPoint playOrder="750" id="toc716"><navLabel><text>Hosea 7</text></navLabel><content src="Hosea-7.xhtml"/></navPoint>
+        <navPoint playOrder="751" id="toc717"><navLabel><text>Hosea 8</text></navLabel><content src="Hosea-8.xhtml"/></navPoint>
+        <navPoint playOrder="752" id="toc718"><navLabel><text>Hosea 9</text></navLabel><content src="Hosea-9.xhtml"/></navPoint>
+        <navPoint playOrder="753" id="toc719"><navLabel><text>Hosea 10</text></navLabel><content src="Hosea-10.xhtml"/></navPoint>
+        <navPoint playOrder="754" id="toc720"><navLabel><text>Hosea 11</text></navLabel><content src="Hosea-11.xhtml"/></navPoint>
+        <navPoint playOrder="755" id="toc721"><navLabel><text>Hosea 12</text></navLabel><content src="Hosea-12.xhtml"/></navPoint>
+        <navPoint playOrder="756" id="toc722"><navLabel><text>Hosea 13</text></navLabel><content src="Hosea-13.xhtml"/></navPoint>
+        <navPoint playOrder="757" id="toc723"><navLabel><text>Hosea 14</text></navLabel><content src="Hosea-14.xhtml"/></navPoint>
+      </navPoint>
+      <navPoint playOrder="758" id="toca35"><navLabel><text>Isaiah 28-39</text></navLabel><content src="Isaiah-28.xhtml"/>
+        <navPoint playOrder="759" id="toc724"><navLabel><text>Isaiah 28</text></navLabel><content src="Isaiah-28.xhtml"/></navPoint>
+        <navPoint playOrder="760" id="toc725"><navLabel><text>Isaiah 29</text></navLabel><content src="Isaiah-29.xhtml"/></navPoint>
+        <navPoint playOrder="761" id="toc726"><navLabel><text>Isaiah 30</text></navLabel><content src="Isaiah-30.xhtml"/></navPoint>
+        <navPoint playOrder="762" id="toc727"><navLabel><text>Isaiah 31</text></navLabel><content src="Isaiah-31.xhtml"/></navPoint>
+        <navPoint playOrder="763" id="toc728"><navLabel><text>Isaiah 32</text></navLabel><content src="Isaiah-32.xhtml"/></navPoint>
+        <navPoint playOrder="764" id="toc729"><navLabel><text>Isaiah 33</text></navLabel><content src="Isaiah-33.xhtml"/></navPoint>
+        <navPoint playOrder="765" id="toc730"><navLabel><text>Isaiah 34</text></navLabel><content src="Isaiah-34.xhtml"/></navPoint>
+        <navPoint playOrder="766" id="toc731"><navLabel><text>Isaiah 35</text></navLabel><content src="Isaiah-35.xhtml"/></navPoint>
+        <navPoint playOrder="767" id="toc732"><navLabel><text>Isaiah 36</text></navLabel><content src="Isaiah-36.xhtml"/></navPoint>
+        <navPoint playOrder="768" id="toc733"><navLabel><text>Isaiah 37</text></navLabel><content src="Isaiah-37.xhtml"/></navPoint>
+        <navPoint playOrder="769" id="toc734"><navLabel><text>Isaiah 38</text></navLabel><content src="Isaiah-38.xhtml"/></navPoint>
+        <navPoint playOrder="770" id="toc735"><navLabel><text>Isaiah 39</text></navLabel><content src="Isaiah-39.xhtml"/></navPoint>
+      </navPoint>
+      <navPoint playOrder="771" id="toc736"><navLabel><text>Psalms 76</text></navLabel><content src="Psalms-76.xhtml"/></navPoint>
+      <navPoint playOrder="772" id="toca36"><navLabel><text>Isaiah 40-48</text></navLabel><content src="Isaiah-28.xhtml"/>
+        <navPoint playOrder="773" id="toc737"><navLabel><text>Isaiah 40</text></navLabel><content src="Isaiah-40.xhtml"/></navPoint>
+        <navPoint playOrder="774" id="toc738"><navLabel><text>Isaiah 41</text></navLabel><content src="Isaiah-41.xhtml"/></navPoint>
+        <navPoint playOrder="775" id="toc739"><navLabel><text>Isaiah 42</text></navLabel><content src="Isaiah-42.xhtml"/></navPoint>
+        <navPoint playOrder="776" id="toc740"><navLabel><text>Isaiah 43</text></navLabel><content src="Isaiah-43.xhtml"/></navPoint>
+        <navPoint playOrder="777" id="toc741"><navLabel><text>Isaiah 44</text></navLabel><content src="Isaiah-44.xhtml"/></navPoint>
+        <navPoint playOrder="778" id="toc742"><navLabel><text>Isaiah 45</text></navLabel><content src="Isaiah-45.xhtml"/></navPoint>
+        <navPoint playOrder="779" id="toc743"><navLabel><text>Isaiah 46</text></navLabel><content src="Isaiah-46.xhtml"/></navPoint>
+        <navPoint playOrder="780" id="toc744"><navLabel><text>Isaiah 47</text></navLabel><content src="Isaiah-47.xhtml"/></navPoint>
+        <navPoint playOrder="781" id="toc745"><navLabel><text>Isaiah 48</text></navLabel><content src="Isaiah-48.xhtml"/></navPoint>
+      </navPoint>
+      <navPoint playOrder="782" id="toc746"><navLabel><text>2 Kings 18:9-37</text></navLabel><content src="2Kings-18-9-37.xhtml"/></navPoint>
+      <navPoint playOrder="783" id="toc747"><navLabel><text>2 Kings 19</text></navLabel><content src="2Kings-19.xhtml"/></navPoint>
+      <navPoint playOrder="784" id="toc748"><navLabel><text>Psalms 46, 80, 135</text></navLabel><content src="Psalms-46.xhtml"/>
+        <navPoint playOrder="785" id="toc749"><navLabel><text>Psalms 46</text></navLabel><content src="Psalms-46.xhtml"/></navPoint>
+        <navPoint playOrder="786" id="toc750"><navLabel><text>Psalms 80</text></navLabel><content src="Psalms-80.xhtml"/></navPoint>
+        <navPoint playOrder="787" id="toc751"><navLabel><text>Psalms 135</text></navLabel><content src="Psalms-135.xhtml"/></navPoint>
+      </navPoint>
+      <navPoint playOrder="788" id="toca37"><navLabel><text>Isaiah 49-66</text></navLabel><content src="Isaiah-49.xhtml"/>
+        <navPoint playOrder="789" id="toc752"><navLabel><text>Isaiah 49</text></navLabel><content src="Isaiah-49.xhtml"/></navPoint>
+        <navPoint playOrder="790" id="toc753"><navLabel><text>Isaiah 50</text></navLabel><content src="Isaiah-50.xhtml"/></navPoint>
+        <navPoint playOrder="791" id="toc754"><navLabel><text>Isaiah 51</text></navLabel><content src="Isaiah-51.xhtml"/></navPoint>
+        <navPoint playOrder="792" id="toc755"><navLabel><text>Isaiah 52</text></navLabel><content src="Isaiah-52.xhtml"/></navPoint>
+        <navPoint playOrder="793" id="toc756"><navLabel><text>Isaiah 53</text></navLabel><content src="Isaiah-53.xhtml"/></navPoint>
+        <navPoint playOrder="794" id="toc757"><navLabel><text>Isaiah 54</text></navLabel><content src="Isaiah-54.xhtml"/></navPoint>
+        <navPoint playOrder="795" id="toc758"><navLabel><text>Isaiah 55</text></navLabel><content src="Isaiah-55.xhtml"/></navPoint>
+        <navPoint playOrder="796" id="toc759"><navLabel><text>Isaiah 56</text></navLabel><content src="Isaiah-56.xhtml"/></navPoint>
+        <navPoint playOrder="797" id="toc760"><navLabel><text>Isaiah 57</text></navLabel><content src="Isaiah-57.xhtml"/></navPoint>
+        <navPoint playOrder="798" id="toc761"><navLabel><text>Isaiah 58</text></navLabel><content src="Isaiah-58.xhtml"/></navPoint>
+        <navPoint playOrder="799" id="toc762"><navLabel><text>Isaiah 59</text></navLabel><content src="Isaiah-59.xhtml"/></navPoint>
+        <navPoint playOrder="800" id="toc763"><navLabel><text>Isaiah 60</text></navLabel><content src="Isaiah-60.xhtml"/></navPoint>
+        <navPoint playOrder="801" id="toc764"><navLabel><text>Isaiah 61</text></navLabel><content src="Isaiah-61.xhtml"/></navPoint>
+        <navPoint playOrder="802" id="toc765"><navLabel><text>Isaiah 62</text></navLabel><content src="Isaiah-62.xhtml"/></navPoint>
+        <navPoint playOrder="803" id="toc766"><navLabel><text>Isaiah 63</text></navLabel><content src="Isaiah-63.xhtml"/></navPoint>
+        <navPoint playOrder="804" id="toc767"><navLabel><text>Isaiah 64</text></navLabel><content src="Isaiah-64.xhtml"/></navPoint>
+        <navPoint playOrder="805" id="toc768"><navLabel><text>Isaiah 65</text></navLabel><content src="Isaiah-65.xhtml"/></navPoint>
+        <navPoint playOrder="806" id="toc769"><navLabel><text>Isaiah 66</text></navLabel><content src="Isaiah-66.xhtml"/></navPoint>
+      </navPoint>
+      <navPoint playOrder="807" id="toc770"><navLabel><text>2 Kings 20</text></navLabel><content src="2Kings-20.xhtml"/></navPoint>
+      <navPoint playOrder="808" id="toc771"><navLabel><text>2 Kings 21</text></navLabel><content src="2Kings-21.xhtml"/></navPoint>
+      <navPoint playOrder="809" id="toc772"><navLabel><text>2 Chronicles 32</text></navLabel><content src="2Chronicles-32.xhtml"/></navPoint>
+      <navPoint playOrder="810" id="toc773"><navLabel><text>2 Chronicles 33</text></navLabel><content src="2Chronicles-33.xhtml"/></navPoint>
+      <navPoint playOrder="811" id="toca38"><navLabel><text>Nahum</text></navLabel><content src="Nahum-1.xhtml"/>
+        <navPoint playOrder="812" id="toc774"><navLabel><text>Nahum 1</text></navLabel><content src="Nahum-1.xhtml"/></navPoint>
+        <navPoint playOrder="813" id="toc775"><navLabel><text>Nahum 2</text></navLabel><content src="Nahum-2.xhtml"/></navPoint>
+        <navPoint playOrder="814" id="toc776"><navLabel><text>Nahum 3</text></navLabel><content src="Nahum-3.xhtml"/></navPoint>
+      </navPoint>
+      <navPoint playOrder="815" id="toc777"><navLabel><text>2 Kings 22</text></navLabel><content src="2Kings-22.xhtml"/></navPoint>
+      <navPoint playOrder="816" id="toc778"><navLabel><text>2 Kings 23</text></navLabel><content src="2Kings-23.xhtml"/></navPoint>
+      <navPoint playOrder="817" id="toc779"><navLabel><text>2 Chronicles 34</text></navLabel><content src="2Chronicles-34.xhtml"/></navPoint>
+      <navPoint playOrder="818" id="toc780"><navLabel><text>2 Chronicles 35</text></navLabel><content src="2Chronicles-35.xhtml"/></navPoint>
+      <navPoint playOrder="819" id="toca39"><navLabel><text>Zephaniah</text></navLabel><content src="Zephaniah.xhtml"/>
+        <navPoint playOrder="820" id="toc781"><navLabel><text>Zephaniah 1</text></navLabel><content src="Zephaniah-1.xhtml"/></navPoint>
+        <navPoint playOrder="821" id="toc782"><navLabel><text>Zephaniah 2</text></navLabel><content src="Zephaniah-2.xhtml"/></navPoint>
+        <navPoint playOrder="822" id="toc783"><navLabel><text>Zephaniah 3</text></navLabel><content src="Zephaniah-3.xhtml"/></navPoint>
+      </navPoint>
+      <navPoint playOrder="823" id="toca40"><navLabel><text>Jeremiah 1-40</text></navLabel><content src="Jeremiah-1.xhtml"/>
+        <navPoint playOrder="824" id="toc784"><navLabel><text>Jeremiah 1</text></navLabel><content src="Jeremiah-1.xhtml"/></navPoint>
+        <navPoint playOrder="825" id="toc785"><navLabel><text>Jeremiah 2</text></navLabel><content src="Jeremiah-2.xhtml"/></navPoint>
+        <navPoint playOrder="826" id="toc786"><navLabel><text>Jeremiah 3</text></navLabel><content src="Jeremiah-3.xhtml"/></navPoint>
+        <navPoint playOrder="827" id="toc787"><navLabel><text>Jeremiah 4</text></navLabel><content src="Jeremiah-4.xhtml"/></navPoint>
+        <navPoint playOrder="828" id="toc788"><navLabel><text>Jeremiah 5</text></navLabel><content src="Jeremiah-5.xhtml"/></navPoint>
+        <navPoint playOrder="829" id="toc789"><navLabel><text>Jeremiah 6</text></navLabel><content src="Jeremiah-6.xhtml"/></navPoint>
+        <navPoint playOrder="830" id="toc790"><navLabel><text>Jeremiah 7</text></navLabel><content src="Jeremiah-7.xhtml"/></navPoint>
+        <navPoint playOrder="831" id="toc791"><navLabel><text>Jeremiah 8</text></navLabel><content src="Jeremiah-8.xhtml"/></navPoint>
+        <navPoint playOrder="832" id="toc792"><navLabel><text>Jeremiah 9</text></navLabel><content src="Jeremiah-9.xhtml"/></navPoint>
+        <navPoint playOrder="833" id="toc793"><navLabel><text>Jeremiah 10</text></navLabel><content src="Jeremiah-10.xhtml"/></navPoint>
+        <navPoint playOrder="834" id="toc794"><navLabel><text>Jeremiah 11</text></navLabel><content src="Jeremiah-11.xhtml"/></navPoint>
+        <navPoint playOrder="835" id="toc795"><navLabel><text>Jeremiah 12</text></navLabel><content src="Jeremiah-12.xhtml"/></navPoint>
+        <navPoint playOrder="836" id="toc796"><navLabel><text>Jeremiah 13</text></navLabel><content src="Jeremiah-13.xhtml"/></navPoint>
+        <navPoint playOrder="837" id="toc797"><navLabel><text>Jeremiah 14</text></navLabel><content src="Jeremiah-14.xhtml"/></navPoint>
+        <navPoint playOrder="838" id="toc798"><navLabel><text>Jeremiah 15</text></navLabel><content src="Jeremiah-15.xhtml"/></navPoint>
+        <navPoint playOrder="839" id="toc799"><navLabel><text>Jeremiah 16</text></navLabel><content src="Jeremiah-16.xhtml"/></navPoint>
+        <navPoint playOrder="840" id="toc800"><navLabel><text>Jeremiah 17</text></navLabel><content src="Jeremiah-17.xhtml"/></navPoint>
+        <navPoint playOrder="841" id="toc801"><navLabel><text>Jeremiah 18</text></navLabel><content src="Jeremiah-18.xhtml"/></navPoint>
+        <navPoint playOrder="842" id="toc802"><navLabel><text>Jeremiah 19</text></navLabel><content src="Jeremiah-19.xhtml"/></navPoint>
+        <navPoint playOrder="843" id="toc803"><navLabel><text>Jeremiah 20</text></navLabel><content src="Jeremiah-20.xhtml"/></navPoint>
+        <navPoint playOrder="844" id="toc804"><navLabel><text>Jeremiah 21</text></navLabel><content src="Jeremiah-21.xhtml"/></navPoint>
+        <navPoint playOrder="845" id="toc805"><navLabel><text>Jeremiah 22</text></navLabel><content src="Jeremiah-22.xhtml"/></navPoint>
+        <navPoint playOrder="846" id="toc806"><navLabel><text>Jeremiah 23</text></navLabel><content src="Jeremiah-23.xhtml"/></navPoint>
+        <navPoint playOrder="847" id="toc807"><navLabel><text>Jeremiah 24</text></navLabel><content src="Jeremiah-24.xhtml"/></navPoint>
+        <navPoint playOrder="848" id="toc808"><navLabel><text>Jeremiah 25</text></navLabel><content src="Jeremiah-25.xhtml"/></navPoint>
+        <navPoint playOrder="849" id="toc809"><navLabel><text>Jeremiah 26</text></navLabel><content src="Jeremiah-26.xhtml"/></navPoint>
+        <navPoint playOrder="850" id="toc810"><navLabel><text>Jeremiah 27</text></navLabel><content src="Jeremiah-27.xhtml"/></navPoint>
+        <navPoint playOrder="851" id="toc811"><navLabel><text>Jeremiah 28</text></navLabel><content src="Jeremiah-28.xhtml"/></navPoint>
+        <navPoint playOrder="852" id="toc812"><navLabel><text>Jeremiah 29</text></navLabel><content src="Jeremiah-29.xhtml"/></navPoint>
+        <navPoint playOrder="853" id="toc813"><navLabel><text>Jeremiah 30</text></navLabel><content src="Jeremiah-30.xhtml"/></navPoint>
+        <navPoint playOrder="854" id="toc814"><navLabel><text>Jeremiah 31</text></navLabel><content src="Jeremiah-31.xhtml"/></navPoint>
+        <navPoint playOrder="855" id="toc815"><navLabel><text>Jeremiah 32</text></navLabel><content src="Jeremiah-32.xhtml"/></navPoint>
+        <navPoint playOrder="856" id="toc816"><navLabel><text>Jeremiah 33</text></navLabel><content src="Jeremiah-33.xhtml"/></navPoint>
+        <navPoint playOrder="857" id="toc817"><navLabel><text>Jeremiah 34</text></navLabel><content src="Jeremiah-34.xhtml"/></navPoint>
+        <navPoint playOrder="858" id="toc818"><navLabel><text>Jeremiah 35</text></navLabel><content src="Jeremiah-35.xhtml"/></navPoint>
+        <navPoint playOrder="859" id="toc819"><navLabel><text>Jeremiah 36</text></navLabel><content src="Jeremiah-36.xhtml"/></navPoint>
+        <navPoint playOrder="860" id="toc820"><navLabel><text>Jeremiah 37</text></navLabel><content src="Jeremiah-37.xhtml"/></navPoint>
+        <navPoint playOrder="861" id="toc821"><navLabel><text>Jeremiah 38</text></navLabel><content src="Jeremiah-38.xhtml"/></navPoint>
+        <navPoint playOrder="862" id="toc822"><navLabel><text>Jeremiah 39</text></navLabel><content src="Jeremiah-39.xhtml"/></navPoint>
+        <navPoint playOrder="863" id="toc823"><navLabel><text>Jeremiah 40</text></navLabel><content src="Jeremiah-40.xhtml"/></navPoint>
+      </navPoint>
+      <navPoint playOrder="864" id="toc824"><navLabel><text>Psalms 74</text></navLabel><content src="Psalms-74.xhtml"/></navPoint>
+      <navPoint playOrder="865" id="toc825"><navLabel><text>Psalms 79</text></navLabel><content src="Psalms-79.xhtml"/></navPoint>
+      <navPoint playOrder="866" id="toc826"><navLabel><text>2 Kings 24</text></navLabel><content src="2Kings-24.xhtml"/></navPoint>
+      <navPoint playOrder="867" id="toc827"><navLabel><text>2 Kings 25</text></navLabel><content src="2Kings-25.xhtml"/></navPoint>
+      <navPoint playOrder="868" id="toc828"><navLabel><text>2 Chronicles 36</text></navLabel><content src="2Chronicles-36.xhtml"/></navPoint>
+      <navPoint playOrder="869" id="toca41"><navLabel><text>Habakkuk</text></navLabel><content src="Habakkuk-1.xhtml"/>
+        <navPoint playOrder="870" id="toc829"><navLabel><text>Habakkuk 1</text></navLabel><content src="Habakkuk-1.xhtml"/></navPoint>
+        <navPoint playOrder="871" id="toc830"><navLabel><text>Habakkuk 2</text></navLabel><content src="Habakkuk-2.xhtml"/></navPoint>
+        <navPoint playOrder="872" id="toc831"><navLabel><text>Habakkuk 3</text></navLabel><content src="Habakkuk-3.xhtml"/></navPoint>
+      </navPoint>
+      <navPoint playOrder="873" id="toca42"><navLabel><text>Jeremiah 41-52</text></navLabel><content src="Jeremiah-41.xhtml"/>
+        <navPoint playOrder="874" id="toc832"><navLabel><text>Jeremiah 41</text></navLabel><content src="Jeremiah-41.xhtml"/></navPoint>
+        <navPoint playOrder="875" id="toc833"><navLabel><text>Jeremiah 42</text></navLabel><content src="Jeremiah-42.xhtml"/></navPoint>
+        <navPoint playOrder="876" id="toc834"><navLabel><text>Jeremiah 43</text></navLabel><content src="Jeremiah-43.xhtml"/></navPoint>
+        <navPoint playOrder="877" id="toc835"><navLabel><text>Jeremiah 44</text></navLabel><content src="Jeremiah-44.xhtml"/></navPoint>
+        <navPoint playOrder="878" id="toc836"><navLabel><text>Jeremiah 45</text></navLabel><content src="Jeremiah-45.xhtml"/></navPoint>
+        <navPoint playOrder="879" id="toc837"><navLabel><text>Jeremiah 46</text></navLabel><content src="Jeremiah-46.xhtml"/></navPoint>
+        <navPoint playOrder="880" id="toc838"><navLabel><text>Jeremiah 47</text></navLabel><content src="Jeremiah-47.xhtml"/></navPoint>
+        <navPoint playOrder="881" id="toc839"><navLabel><text>Jeremiah 48</text></navLabel><content src="Jeremiah-48.xhtml"/></navPoint>
+        <navPoint playOrder="882" id="toc840"><navLabel><text>Jeremiah 49</text></navLabel><content src="Jeremiah-49.xhtml"/></navPoint>
+        <navPoint playOrder="883" id="toc841"><navLabel><text>Jeremiah 50</text></navLabel><content src="Jeremiah-50.xhtml"/></navPoint>
+        <navPoint playOrder="884" id="toc842"><navLabel><text>Jeremiah 51</text></navLabel><content src="Jeremiah-51.xhtml"/></navPoint>
+        <navPoint playOrder="885" id="toc843"><navLabel><text>Jeremiah 52</text></navLabel><content src="Jeremiah-52.xhtml"/></navPoint>
+      </navPoint>
+      <navPoint playOrder="886" id="toca43"><navLabel><text>Lamentations</text></navLabel><content src="Lamentations-1.xhtml"/>
+        <navPoint playOrder="887" id="toc844"><navLabel><text>Lamentations 1</text></navLabel><content src="Lamentations-1.xhtml"/></navPoint>
+        <navPoint playOrder="888" id="toc845"><navLabel><text>Lamentations 2</text></navLabel><content src="Lamentations-2.xhtml"/></navPoint>
+        <navPoint playOrder="889" id="toc846"><navLabel><text>Lamentations 3</text></navLabel><content src="Lamentations-3.xhtml"/></navPoint>
+        <navPoint playOrder="890" id="toc847"><navLabel><text>Lamentations 4</text></navLabel><content src="Lamentations-4.xhtml"/></navPoint>
+        <navPoint playOrder="891" id="toc848"><navLabel><text>Lamentations 5</text></navLabel><content src="Lamentations-5.xhtml"/></navPoint>
+      </navPoint>
+      <navPoint playOrder="892" id="toca44"><navLabel><text>Ezekiel</text></navLabel><content src="Ezekiel-1.xhtml"/>
+        <navPoint playOrder="893" id="toc849"><navLabel><text>Ezekiel 1</text></navLabel><content src="Ezekiel-1.xhtml"/></navPoint>
+        <navPoint playOrder="894" id="toc850"><navLabel><text>Ezekiel 2</text></navLabel><content src="Ezekiel-2.xhtml"/></navPoint>
+        <navPoint playOrder="895" id="toc851"><navLabel><text>Ezekiel 3</text></navLabel><content src="Ezekiel-3.xhtml"/></navPoint>
+        <navPoint playOrder="896" id="toc852"><navLabel><text>Ezekiel 4</text></navLabel><content src="Ezekiel-4.xhtml"/></navPoint>
+        <navPoint playOrder="897" id="toc853"><navLabel><text>Ezekiel 5</text></navLabel><content src="Ezekiel-5.xhtml"/></navPoint>
+        <navPoint playOrder="898" id="toc854"><navLabel><text>Ezekiel 6</text></navLabel><content src="Ezekiel-6.xhtml"/></navPoint>
+        <navPoint playOrder="899" id="toc855"><navLabel><text>Ezekiel 7</text></navLabel><content src="Ezekiel-7.xhtml"/></navPoint>
+        <navPoint playOrder="900" id="toc856"><navLabel><text>Ezekiel 8</text></navLabel><content src="Ezekiel-8.xhtml"/></navPoint>
+        <navPoint playOrder="901" id="toc857"><navLabel><text>Ezekiel 9</text></navLabel><content src="Ezekiel-9.xhtml"/></navPoint>
+        <navPoint playOrder="902" id="toc858"><navLabel><text>Ezekiel 10</text></navLabel><content src="Ezekiel-10.xhtml"/></navPoint>
+        <navPoint playOrder="903" id="toc859"><navLabel><text>Ezekiel 11</text></navLabel><content src="Ezekiel-11.xhtml"/></navPoint>
+        <navPoint playOrder="904" id="toc860"><navLabel><text>Ezekiel 12</text></navLabel><content src="Ezekiel-12.xhtml"/></navPoint>
+        <navPoint playOrder="905" id="toc861"><navLabel><text>Ezekiel 13</text></navLabel><content src="Ezekiel-13.xhtml"/></navPoint>
+        <navPoint playOrder="906" id="toc862"><navLabel><text>Ezekiel 14</text></navLabel><content src="Ezekiel-14.xhtml"/></navPoint>
+        <navPoint playOrder="907" id="toc863"><navLabel><text>Ezekiel 15</text></navLabel><content src="Ezekiel-15.xhtml"/></navPoint>
+        <navPoint playOrder="908" id="toc864"><navLabel><text>Ezekiel 16</text></navLabel><content src="Ezekiel-16.xhtml"/></navPoint>
+        <navPoint playOrder="909" id="toc865"><navLabel><text>Ezekiel 17</text></navLabel><content src="Ezekiel-17.xhtml"/></navPoint>
+        <navPoint playOrder="910" id="toc866"><navLabel><text>Ezekiel 18</text></navLabel><content src="Ezekiel-18.xhtml"/></navPoint>
+        <navPoint playOrder="911" id="toc867"><navLabel><text>Ezekiel 19</text></navLabel><content src="Ezekiel-19.xhtml"/></navPoint>
+        <navPoint playOrder="912" id="toc868"><navLabel><text>Ezekiel 20</text></navLabel><content src="Ezekiel-20.xhtml"/></navPoint>
+        <navPoint playOrder="913" id="toc869"><navLabel><text>Ezekiel 21</text></navLabel><content src="Ezekiel-21.xhtml"/></navPoint>
+        <navPoint playOrder="914" id="toc870"><navLabel><text>Ezekiel 22</text></navLabel><content src="Ezekiel-22.xhtml"/></navPoint>
+        <navPoint playOrder="915" id="toc871"><navLabel><text>Ezekiel 23</text></navLabel><content src="Ezekiel-23.xhtml"/></navPoint>
+        <navPoint playOrder="916" id="toc872"><navLabel><text>Ezekiel 24</text></navLabel><content src="Ezekiel-24.xhtml"/></navPoint>
+        <navPoint playOrder="917" id="toc873"><navLabel><text>Ezekiel 25</text></navLabel><content src="Ezekiel-25.xhtml"/></navPoint>
+        <navPoint playOrder="918" id="toc874"><navLabel><text>Ezekiel 26</text></navLabel><content src="Ezekiel-26.xhtml"/></navPoint>
+        <navPoint playOrder="919" id="toc875"><navLabel><text>Ezekiel 27</text></navLabel><content src="Ezekiel-27.xhtml"/></navPoint>
+        <navPoint playOrder="920" id="toc876"><navLabel><text>Ezekiel 28</text></navLabel><content src="Ezekiel-28.xhtml"/></navPoint>
+        <navPoint playOrder="921" id="toc877"><navLabel><text>Ezekiel 29</text></navLabel><content src="Ezekiel-29.xhtml"/></navPoint>
+        <navPoint playOrder="922" id="toc878"><navLabel><text>Ezekiel 30</text></navLabel><content src="Ezekiel-30.xhtml"/></navPoint>
+        <navPoint playOrder="923" id="toc879"><navLabel><text>Ezekiel 31</text></navLabel><content src="Ezekiel-31.xhtml"/></navPoint>
+        <navPoint playOrder="924" id="toc880"><navLabel><text>Ezekiel 32</text></navLabel><content src="Ezekiel-32.xhtml"/></navPoint>
+        <navPoint playOrder="925" id="toc881"><navLabel><text>Ezekiel 33</text></navLabel><content src="Ezekiel-33.xhtml"/></navPoint>
+        <navPoint playOrder="926" id="toc882"><navLabel><text>Ezekiel 34</text></navLabel><content src="Ezekiel-34.xhtml"/></navPoint>
+        <navPoint playOrder="927" id="toc883"><navLabel><text>Ezekiel 35</text></navLabel><content src="Ezekiel-35.xhtml"/></navPoint>
+        <navPoint playOrder="928" id="toc884"><navLabel><text>Ezekiel 36</text></navLabel><content src="Ezekiel-36.xhtml"/></navPoint>
+        <navPoint playOrder="929" id="toc885"><navLabel><text>Ezekiel 37</text></navLabel><content src="Ezekiel-37.xhtml"/></navPoint>
+        <navPoint playOrder="930" id="toc886"><navLabel><text>Ezekiel 38</text></navLabel><content src="Ezekiel-38.xhtml"/></navPoint>
+        <navPoint playOrder="931" id="toc887"><navLabel><text>Ezekiel 39</text></navLabel><content src="Ezekiel-39.xhtml"/></navPoint>
+        <navPoint playOrder="932" id="toc888"><navLabel><text>Ezekiel 40</text></navLabel><content src="Ezekiel-40.xhtml"/></navPoint>
+        <navPoint playOrder="933" id="toc889"><navLabel><text>Ezekiel 41</text></navLabel><content src="Ezekiel-41.xhtml"/></navPoint>
+        <navPoint playOrder="934" id="toc890"><navLabel><text>Ezekiel 42</text></navLabel><content src="Ezekiel-42.xhtml"/></navPoint>
+        <navPoint playOrder="935" id="toc891"><navLabel><text>Ezekiel 43</text></navLabel><content src="Ezekiel-43.xhtml"/></navPoint>
+        <navPoint playOrder="936" id="toc892"><navLabel><text>Ezekiel 44</text></navLabel><content src="Ezekiel-44.xhtml"/></navPoint>
+        <navPoint playOrder="937" id="toc893"><navLabel><text>Ezekiel 45</text></navLabel><content src="Ezekiel-45.xhtml"/></navPoint>
+        <navPoint playOrder="938" id="toc894"><navLabel><text>Ezekiel 46</text></navLabel><content src="Ezekiel-46.xhtml"/></navPoint>
+        <navPoint playOrder="939" id="toc895"><navLabel><text>Ezekiel 47</text></navLabel><content src="Ezekiel-47.xhtml"/></navPoint>
+        <navPoint playOrder="940" id="toc896"><navLabel><text>Ezekiel 48</text></navLabel><content src="Ezekiel-48.xhtml"/></navPoint>
+      </navPoint>
+      <navPoint playOrder="941" id="toca45"><navLabel><text>Joel</text></navLabel><content src="Joel-1.xhtml"/>
+        <navPoint playOrder="942" id="toc897"><navLabel><text>Joel 1</text></navLabel><content src="Joel-1.xhtml"/></navPoint>
+        <navPoint playOrder="943" id="toc898"><navLabel><text>Joel 2</text></navLabel><content src="Joel-2.xhtml"/></navPoint>
+        <navPoint playOrder="944" id="toc899"><navLabel><text>Joel 3</text></navLabel><content src="Joel-3.xhtml"/></navPoint>
+      </navPoint>
+      <navPoint playOrder="945" id="toca46"><navLabel><text>Daniel</text></navLabel><content src="Daniel-1.xhtml"/>
+        <navPoint playOrder="946" id="toc900"><navLabel><text>Daniel 1</text></navLabel><content src="Daniel-1.xhtml"/></navPoint>
+        <navPoint playOrder="947" id="toc901"><navLabel><text>Daniel 2</text></navLabel><content src="Daniel-2.xhtml"/></navPoint>
+        <navPoint playOrder="948" id="toc902"><navLabel><text>Daniel 3</text></navLabel><content src="Daniel-3.xhtml"/></navPoint>
+        <navPoint playOrder="949" id="toc903"><navLabel><text>Daniel 4</text></navLabel><content src="Daniel-4.xhtml"/></navPoint>
+        <navPoint playOrder="950" id="toc904"><navLabel><text>Daniel 5</text></navLabel><content src="Daniel-5.xhtml"/></navPoint>
+        <navPoint playOrder="951" id="toc905"><navLabel><text>Daniel 6</text></navLabel><content src="Daniel-6.xhtml"/></navPoint>
+        <navPoint playOrder="952" id="toc906"><navLabel><text>Daniel 7</text></navLabel><content src="Daniel-7.xhtml"/></navPoint>
+        <navPoint playOrder="953" id="toc907"><navLabel><text>Daniel 8</text></navLabel><content src="Daniel-8.xhtml"/></navPoint>
+        <navPoint playOrder="954" id="toc908"><navLabel><text>Daniel 9</text></navLabel><content src="Daniel-9.xhtml"/></navPoint>
+        <navPoint playOrder="955" id="toc909"><navLabel><text>Daniel 10</text></navLabel><content src="Daniel-10.xhtml"/></navPoint>
+        <navPoint playOrder="956" id="toc910"><navLabel><text>Daniel 11</text></navLabel><content src="Daniel-11.xhtml"/></navPoint>
+        <navPoint playOrder="957" id="toc911"><navLabel><text>Daniel 12</text></navLabel><content src="Daniel-12.xhtml"/></navPoint>
+      </navPoint>
+      <navPoint playOrder="958" id="toca47"><navLabel><text>Ezra 1-6</text></navLabel><content src="Ezra-1.xhtml"/>
+        <navPoint playOrder="959" id="toc912"><navLabel><text>Ezra 1</text></navLabel><content src="Ezra-1.xhtml"/></navPoint>
+        <navPoint playOrder="960" id="toc913"><navLabel><text>Ezra 2</text></navLabel><content src="Ezra-2.xhtml"/></navPoint>
+        <navPoint playOrder="961" id="toc914"><navLabel><text>Ezra 3</text></navLabel><content src="Ezra-3.xhtml"/></navPoint>
+        <navPoint playOrder="962" id="toc915"><navLabel><text>Ezra 4</text></navLabel><content src="Ezra-4.xhtml"/></navPoint>
+        <navPoint playOrder="963" id="toc916"><navLabel><text>Ezra 5</text></navLabel><content src="Ezra-5.xhtml"/></navPoint>
+        <navPoint playOrder="964" id="toc917"><navLabel><text>Ezra 6</text></navLabel><content src="Ezra-6.xhtml"/></navPoint>
+      </navPoint>
+      <navPoint playOrder="965" id="toc918"><navLabel><text>Psalms 137</text></navLabel><content src="Psalms-137.xhtml"/></navPoint>
+      <navPoint playOrder="966" id="toca48"><navLabel><text>Haggai</text></navLabel><content src="Haggai-1.xhtml"/>
+        <navPoint playOrder="967" id="toc919"><navLabel><text>Haggai 1</text></navLabel><content src="Haggai-1.xhtml"/></navPoint>
+        <navPoint playOrder="968" id="toc920"><navLabel><text>Haggai 2</text></navLabel><content src="Haggai-2.xhtml"/></navPoint>
+      </navPoint>
+      <navPoint playOrder="969" id="toca49"><navLabel><text>Zechariah</text></navLabel><content src="Zechariah-1.xhtml"/>
+        <navPoint playOrder="970" id="toc921"><navLabel><text>Zechariah 1</text></navLabel><content src="Zechariah-1.xhtml"/></navPoint>
+        <navPoint playOrder="971" id="toc922"><navLabel><text>Zechariah 2</text></navLabel><content src="Zechariah-2.xhtml"/></navPoint>
+        <navPoint playOrder="972" id="toc923"><navLabel><text>Zechariah 3</text></navLabel><content src="Zechariah-3.xhtml"/></navPoint>
+        <navPoint playOrder="973" id="toc924"><navLabel><text>Zechariah 4</text></navLabel><content src="Zechariah-4.xhtml"/></navPoint>
+        <navPoint playOrder="974" id="toc925"><navLabel><text>Zechariah 5</text></navLabel><content src="Zechariah-5.xhtml"/></navPoint>
+        <navPoint playOrder="975" id="toc926"><navLabel><text>Zechariah 6</text></navLabel><content src="Zechariah-6.xhtml"/></navPoint>
+        <navPoint playOrder="976" id="toc927"><navLabel><text>Zechariah 7</text></navLabel><content src="Zechariah-7.xhtml"/></navPoint>
+        <navPoint playOrder="977" id="toc928"><navLabel><text>Zechariah 8</text></navLabel><content src="Zechariah-8.xhtml"/></navPoint>
+        <navPoint playOrder="978" id="toc929"><navLabel><text>Zechariah 9</text></navLabel><content src="Zechariah-9.xhtml"/></navPoint>
+        <navPoint playOrder="979" id="toc930"><navLabel><text>Zechariah 10</text></navLabel><content src="Zechariah-10.xhtml"/></navPoint>
+        <navPoint playOrder="980" id="toc931"><navLabel><text>Zechariah 11</text></navLabel><content src="Zechariah-11.xhtml"/></navPoint>
+        <navPoint playOrder="981" id="toc932"><navLabel><text>Zechariah 12</text></navLabel><content src="Zechariah-12.xhtml"/></navPoint>
+        <navPoint playOrder="982" id="toc933"><navLabel><text>Zechariah 13</text></navLabel><content src="Zechariah-13.xhtml"/></navPoint>
+        <navPoint playOrder="983" id="toc934"><navLabel><text>Zechariah 14</text></navLabel><content src="Zechariah-14.xhtml"/></navPoint>
+      </navPoint>
+      <navPoint playOrder="984" id="toca50"><navLabel><text>Esther</text></navLabel><content src="Esther-1.xhtml"/>
+        <navPoint playOrder="985" id="toc935"><navLabel><text>Esther 1</text></navLabel><content src="Esther-1.xhtml"/></navPoint>
+        <navPoint playOrder="986" id="toc936"><navLabel><text>Esther 2</text></navLabel><content src="Esther-2.xhtml"/></navPoint>
+        <navPoint playOrder="987" id="toc937"><navLabel><text>Esther 3</text></navLabel><content src="Esther-3.xhtml"/></navPoint>
+        <navPoint playOrder="988" id="toc938"><navLabel><text>Esther 4</text></navLabel><content src="Esther-4.xhtml"/></navPoint>
+        <navPoint playOrder="989" id="toc939"><navLabel><text>Esther 5</text></navLabel><content src="Esther-5.xhtml"/></navPoint>
+        <navPoint playOrder="990" id="toc940"><navLabel><text>Esther 6</text></navLabel><content src="Esther-6.xhtml"/></navPoint>
+        <navPoint playOrder="991" id="toc941"><navLabel><text>Esther 7</text></navLabel><content src="Esther-7.xhtml"/></navPoint>
+        <navPoint playOrder="992" id="toc942"><navLabel><text>Esther 8</text></navLabel><content src="Esther-8.xhtml"/></navPoint>
+        <navPoint playOrder="993" id="toc943"><navLabel><text>Esther 9</text></navLabel><content src="Esther-9.xhtml"/></navPoint>
+        <navPoint playOrder="994" id="toc944"><navLabel><text>Esther 10</text></navLabel><content src="Esther-10.xhtml"/></navPoint>
+      </navPoint>
+      <navPoint playOrder="995" id="toca51"><navLabel><text>Ezra 7-10</text></navLabel><content src="Ezra-7.xhtml"/>
+        <navPoint playOrder="0996" id="toc945"><navLabel><text>Ezra 7</text></navLabel><content src="Ezra-7.xhtml"/></navPoint>
+        <navPoint playOrder="0997" id="toc946"><navLabel><text>Ezra 8</text></navLabel><content src="Ezra-8.xhtml"/></navPoint>
+        <navPoint playOrder="0998" id="toc947"><navLabel><text>Ezra 9</text></navLabel><content src="Ezra-9.xhtml"/></navPoint>
+        <navPoint playOrder="0999" id="toc948"><navLabel><text>Ezra 10</text></navLabel><content src="Ezra-10.xhtml"/></navPoint>
+      </navPoint>
+      <navPoint playOrder="1000" id="toca52"><navLabel><text>Nehemiah</text></navLabel><content src="Nehemiah-1.xhtml"/>
+        <navPoint playOrder="1001" id="toc949"><navLabel><text>Nehemiah 1</text></navLabel><content src="Nehemiah-1.xhtml"/></navPoint>
+        <navPoint playOrder="1002" id="toc950"><navLabel><text>Nehemiah 2</text></navLabel><content src="Nehemiah-2.xhtml"/></navPoint>
+        <navPoint playOrder="1003" id="toc951"><navLabel><text>Nehemiah 3</text></navLabel><content src="Nehemiah-3.xhtml"/></navPoint>
+        <navPoint playOrder="1004" id="toc952"><navLabel><text>Nehemiah 4</text></navLabel><content src="Nehemiah-4.xhtml"/></navPoint>
+        <navPoint playOrder="1005" id="toc953"><navLabel><text>Nehemiah 5</text></navLabel><content src="Nehemiah-5.xhtml"/></navPoint>
+        <navPoint playOrder="1006" id="toc954"><navLabel><text>Nehemiah 6</text></navLabel><content src="Nehemiah-6.xhtml"/></navPoint>
+        <navPoint playOrder="1007" id="toc955"><navLabel><text>Nehemiah 7</text></navLabel><content src="Nehemiah-7.xhtml"/></navPoint>
+        <navPoint playOrder="1008" id="toc956"><navLabel><text>Nehemiah 8</text></navLabel><content src="Nehemiah-8.xhtml"/></navPoint>
+        <navPoint playOrder="1009" id="toc957"><navLabel><text>Nehemiah 9</text></navLabel><content src="Nehemiah-9.xhtml"/></navPoint>
+        <navPoint playOrder="1010" id="toc958"><navLabel><text>Nehemiah 10</text></navLabel><content src="Nehemiah-10.xhtml"/></navPoint>
+        <navPoint playOrder="1011" id="toc959"><navLabel><text>Nehemiah 11</text></navLabel><content src="Nehemiah-11.xhtml"/></navPoint>
+        <navPoint playOrder="1012" id="toc960"><navLabel><text>Nehemiah 12</text></navLabel><content src="Nehemiah-12.xhtml"/></navPoint>
+        <navPoint playOrder="1013" id="toc961"><navLabel><text>Nehemiah 13</text></navLabel><content src="Nehemiah-13.xhtml"/></navPoint>
+      </navPoint>
+      <navPoint playOrder="1014" id="toc962"><navLabel><text>Psalms 126</text></navLabel><content src="Psalms-126.xhtml"/></navPoint>
+      <navPoint playOrder="1015" id="toca53"><navLabel><text>Malachi</text></navLabel><content src="Malachi-1.xhtml"/>
+        <navPoint playOrder="1016" id="toc963"><navLabel><text>Malachi 1</text></navLabel><content src="Malachi-1.xhtml"/></navPoint>
+        <navPoint playOrder="1017" id="toc964"><navLabel><text>Malachi 2</text></navLabel><content src="Malachi-2.xhtml"/></navPoint>
+        <navPoint playOrder="1018" id="toc965"><navLabel><text>Malachi 3</text></navLabel><content src="Malachi-3.xhtml"/></navPoint>
+        <navPoint playOrder="1019" id="toc966"><navLabel><text>Malachi 4</text></navLabel><content src="Malachi-4.xhtml"/></navPoint>
+      </navPoint>
+    </navPoint>
+    
+    <navPoint playOrder="1020" id="toca54"><navLabel><text>New Testament</text></navLabel><content src="Luke-1.xhtml"/>
+      <navPoint playOrder="1021" id="toca55"><navLabel><text>Birth and childhood of Jesus</text></navLabel><content src="Luke-1.xhtml"/>
+        <navPoint playOrder="1022" id="toc967"><navLabel><text>Luke 1</text></navLabel><content src="Luke-1.xhtml"/></navPoint>
+        <navPoint playOrder="1023" id="toc968"><navLabel><text>John 1:1-18</text></navLabel><content src="John-1-1-18.xhtml"/></navPoint>
+        <navPoint playOrder="1024" id="toc969"><navLabel><text>Matthew 1</text></navLabel><content src="Matthew-1.xhtml"/></navPoint>
+        <navPoint playOrder="1025" id="toc970"><navLabel><text>Luke 2:1-40</text></navLabel><content src="Luke-2-1-40.xhtml"/></navPoint>
+        <navPoint playOrder="1026" id="toc971"><navLabel><text>Matthew 2</text></navLabel><content src="Matthew-2.xhtml"/></navPoint>
+        <navPoint playOrder="1027" id="toc972"><navLabel><text>Luke 2:41-52</text></navLabel><content src="Luke-2-41-52.xhtml"/></navPoint>
+      </navPoint>
+      <navPoint playOrder="1028" id="toca56"><navLabel><text>Preparation for the beginning of Jesus' ministry</text></navLabel><content src="Matthew-3.xhtml"/>
+        <navPoint playOrder="1029" id="toc973"><navLabel><text>Matthew 3</text></navLabel><content src="Matthew-3.xhtml"/></navPoint>
+        <navPoint playOrder="1030" id="toc974"><navLabel><text>Mark 1</text></navLabel><content src="Mark-1.xhtml"/></navPoint>
+        <navPoint playOrder="1031" id="toc975"><navLabel><text>Luke 3</text></navLabel><content src="Luke-3.xhtml"/></navPoint>
+      </navPoint>
+      <navPoint playOrder="1032" id="toca57"><navLabel><text>The ministry of Jesus is Galilee</text></navLabel><content src="Matthew-4.xhtml"/>
+        <navPoint playOrder="1033" id="toc976"><navLabel><text>Matthew 4</text></navLabel><content src="Matthew-4.xhtml"/></navPoint>
+        <navPoint playOrder="1034" id="toc977"><navLabel><text>Luke 4</text></navLabel><content src="Luke-4.xhtml"/></navPoint>
+        <navPoint playOrder="1035" id="toc978"><navLabel><text>Luke 5</text></navLabel><content src="Luke-5.xhtml"/></navPoint>
+        <navPoint playOrder="1036" id="toc979"><navLabel><text>John 1:19-51</text></navLabel><content src="John-1-19-51.xhtml"/></navPoint>
+        <navPoint playOrder="1037" id="toc980"><navLabel><text>John 2</text></navLabel><content src="John-2.xhtml"/></navPoint>
+        <navPoint playOrder="1038" id="toc981"><navLabel><text>John 3</text></navLabel><content src="John-3.xhtml"/></navPoint>
+        <navPoint playOrder="1039" id="toc982"><navLabel><text>John 4</text></navLabel><content src="John-4.xhtml"/></navPoint>
+        <navPoint playOrder="1040" id="toc983"><navLabel><text>Mark 2</text></navLabel><content src="Mark-2.xhtml"/></navPoint>
+        <navPoint playOrder="1041" id="toc984"><navLabel><text>John 5</text></navLabel><content src="John-5.xhtml"/></navPoint>
+        <navPoint playOrder="1042" id="toc985"><navLabel><text>Matthew 12:1-21</text></navLabel><content src="Matthew-12-1-21.xhtml"/></navPoint>
+        <navPoint playOrder="1043" id="toc986"><navLabel><text>Mark 3</text></navLabel><content src="Mark-3.xhtml"/></navPoint>
+        <navPoint playOrder="1044" id="toc987"><navLabel><text>Luke 6</text></navLabel><content src="Luke-6.xhtml"/></navPoint>
+        <navPoint playOrder="1045" id="toc988"><navLabel><text>Matthew 5</text></navLabel><content src="Matthew-5.xhtml"/></navPoint>
+        <navPoint playOrder="1046" id="toc989"><navLabel><text>Matthew 6</text></navLabel><content src="Matthew-6.xhtml"/></navPoint>
+        <navPoint playOrder="1047" id="toc990"><navLabel><text>Matthew 7</text></navLabel><content src="Matthew-7.xhtml"/></navPoint>
+        <navPoint playOrder="1048" id="toc991"><navLabel><text>Matthew 8:1-13</text></navLabel><content src="Matthew-8-1-13.xhtml"/></navPoint>
+        <navPoint playOrder="1049" id="toc992"><navLabel><text>Luke 7</text></navLabel><content src="Luke-7.xhtml"/></navPoint>
+        <navPoint playOrder="1050" id="toc993"><navLabel><text>Matthew 11</text></navLabel><content src="Matthew-11.xhtml"/></navPoint>
+        <navPoint playOrder="1051" id="toc994"><navLabel><text>Matthew 12:22-50</text></navLabel><content src="Matthew-12-22-50.xhtml"/></navPoint>
+        <navPoint playOrder="1052" id="toc995"><navLabel><text>Matthew 13</text></navLabel><content src="Matthew-13.xhtml"/></navPoint>
+        <navPoint playOrder="1053" id="toc996"><navLabel><text>Luke 8</text></navLabel><content src="Luke-8.xhtml"/></navPoint>
+        <navPoint playOrder="1054" id="toc997"><navLabel><text>Matthew 8:14-34</text></navLabel><content src="Matthew-8-14-34.xhtml"/></navPoint>
+        <navPoint playOrder="1055" id="toc998"><navLabel><text>Mark 4</text></navLabel><content src="Mark-4.xhtml"/></navPoint>
+        <navPoint playOrder="1056" id="toc999"><navLabel><text>Mark 5</text></navLabel><content src="Mark-5.xhtml"/></navPoint>
+        <navPoint playOrder="1057" id="toc1000"><navLabel><text>Matthew 9</text></navLabel><content src="Matthew-9.xhtml"/></navPoint>
+        <navPoint playOrder="1058" id="toc1001"><navLabel><text>Matthew 10</text></navLabel><content src="Matthew-10.xhtml"/></navPoint>
+      </navPoint>
+      <navPoint playOrder="1059" id="toca58"><navLabel><text>The Final Year: Jesus' ministry in Judea and Perea</text></navLabel><content src="Matthew-14.xhtml"/>
+        <navPoint playOrder="1060" id="toc1002"><navLabel><text>Matthew 14</text></navLabel><content src="Matthew-14.xhtml"/></navPoint>
+        <navPoint playOrder="1061" id="toc1003"><navLabel><text>Mark 6</text></navLabel><content src="Mark-6.xhtml"/></navPoint>
+        <navPoint playOrder="1062" id="toc1004"><navLabel><text>Luke 9:1-17</text></navLabel><content src="Luke-9-1-17.xhtml"/></navPoint>
+        <navPoint playOrder="1063" id="toc1005"><navLabel><text>John 6</text></navLabel><content src="John-6.xhtml"/></navPoint>
+        <navPoint playOrder="1064" id="toc1006"><navLabel><text>Matthew 15</text></navLabel><content src="Matthew-15.xhtml"/></navPoint>
+        <navPoint playOrder="1065" id="toc1007"><navLabel><text>Mark 7</text></navLabel><content src="Mark-7.xhtml"/></navPoint>
+        <navPoint playOrder="1066" id="toc1008"><navLabel><text>Matthew 16</text></navLabel><content src="Matthew-16.xhtml"/></navPoint>
+        <navPoint playOrder="1067" id="toc1009"><navLabel><text>Mark 8</text></navLabel><content src="Mark-8.xhtml"/></navPoint>
+        <navPoint playOrder="1068" id="toc1010"><navLabel><text>Luke 9:18-27</text></navLabel><content src="Luke-9-18-27.xhtml"/></navPoint>
+        <navPoint playOrder="1069" id="toc1011"><navLabel><text>Matthew 17</text></navLabel><content src="Matthew-17.xhtml"/></navPoint>
+        <navPoint playOrder="1070" id="toc1012"><navLabel><text>Mark 9</text></navLabel><content src="Mark-9.xhtml"/></navPoint>
+        <navPoint playOrder="1071" id="toc1013"><navLabel><text>Luke 9:28-62</text></navLabel><content src="Luke-9-28-62.xhtml"/></navPoint>
+        <navPoint playOrder="1072" id="toc1014"><navLabel><text>Matthew 18</text></navLabel><content src="Matthew-18.xhtml"/></navPoint>
+        <navPoint playOrder="1073" id="toc1015"><navLabel><text>John 7</text></navLabel><content src="John-7.xhtml"/></navPoint>
+        <navPoint playOrder="1074" id="toc1016"><navLabel><text>John 8</text></navLabel><content src="John-8.xhtml"/></navPoint>
+        <navPoint playOrder="1075" id="toc1017"><navLabel><text>John 9</text></navLabel><content src="John-9.xhtml"/></navPoint>
+        <navPoint playOrder="1076" id="toc1018"><navLabel><text>John 10:1-21</text></navLabel><content src="John-10-1-21.xhtml"/></navPoint>
+        <navPoint playOrder="1077" id="toc1019"><navLabel><text>Luke 10</text></navLabel><content src="Luke-10.xhtml"/></navPoint>
+        <navPoint playOrder="1078" id="toc1020"><navLabel><text>Luke 11</text></navLabel><content src="Luke-11.xhtml"/></navPoint>
+        <navPoint playOrder="1079" id="toc1021"><navLabel><text>John 10:22-42</text></navLabel><content src="John-10-22-42.xhtml"/></navPoint>
+        <navPoint playOrder="1080" id="toc1022"><navLabel><text>Luke 12</text></navLabel><content src="Luke-12.xhtml"/></navPoint>
+        <navPoint playOrder="1081" id="toc1023"><navLabel><text>Luke 13</text></navLabel><content src="Luke-13.xhtml"/></navPoint>
+        <navPoint playOrder="1082" id="toc1024"><navLabel><text>Luke 14</text></navLabel><content src="Luke-14.xhtml"/></navPoint>
+        <navPoint playOrder="1083" id="toc1025"><navLabel><text>Luke 15</text></navLabel><content src="Luke-15.xhtml"/></navPoint>
+        <navPoint playOrder="1084" id="toc1026"><navLabel><text>Luke 16</text></navLabel><content src="Luke-16.xhtml"/></navPoint>
+        <navPoint playOrder="1085" id="toc1027"><navLabel><text>Luke 17:1-10</text></navLabel><content src="Luke-17-1-10.xhtml"/></navPoint>
+        <navPoint playOrder="1086" id="toc1028"><navLabel><text>John 11</text></navLabel><content src="John-11.xhtml"/></navPoint>
+        <navPoint playOrder="1087" id="toc1029"><navLabel><text>Luke 17:11-36</text></navLabel><content src="Luke-17-11-36.xhtml"/></navPoint>
+        <navPoint playOrder="1088" id="toc1030"><navLabel><text>Luke 18:1-14</text></navLabel><content src="Luke-18-1-14.xhtml"/></navPoint>
+        <navPoint playOrder="1089" id="toc1031"><navLabel><text>Matthew 19</text></navLabel><content src="Matthew-19.xhtml"/></navPoint>
+        <navPoint playOrder="1090" id="toc1032"><navLabel><text>Mark 10</text></navLabel><content src="Mark-10.xhtml"/></navPoint>
+        <navPoint playOrder="1091" id="toc1033"><navLabel><text>Matthew 20</text></navLabel><content src="Matthew-20.xhtml"/></navPoint>
+      </navPoint>
+      <navPoint playOrder="1092" id="toca59"><navLabel><text>Jesus' final days in Jerusalem </text></navLabel><content src="Matthew-21.xhtml"/>
+        <navPoint playOrder="1093" id="toc1034"><navLabel><text>Matthew 21</text></navLabel><content src="Matthew-21.xhtml"/></navPoint>
+        <navPoint playOrder="1094" id="toc1035"><navLabel><text>Luke 18:15-43</text></navLabel><content src="Luke-18-15-43.xhtml"/></navPoint>
+        <navPoint playOrder="1095" id="toc1036"><navLabel><text>Luke 19</text></navLabel><content src="Luke-19.xhtml"/></navPoint>
+        <navPoint playOrder="1096" id="toc1037"><navLabel><text>Mark 11</text></navLabel><content src="Mark-11.xhtml"/></navPoint>
+        <navPoint playOrder="1097" id="toc1038"><navLabel><text>John 12</text></navLabel><content src="John-12.xhtml"/></navPoint>
+        <navPoint playOrder="1098" id="toc1039"><navLabel><text>Matthew 22</text></navLabel><content src="Matthew-22.xhtml"/></navPoint>
+        <navPoint playOrder="1099" id="toc1040"><navLabel><text>Mark 12</text></navLabel><content src="Mark-12.xhtml"/></navPoint>
+        <navPoint playOrder="1100" id="toc1041"><navLabel><text>Matthew 23</text></navLabel><content src="Matthew-23.xhtml"/></navPoint>
+        <navPoint playOrder="1101" id="toc1042"><navLabel><text>Luke 20</text></navLabel><content src="Luke-20.xhtml"/></navPoint>
+        <navPoint playOrder="1102" id="toc1043"><navLabel><text>Luke 21</text></navLabel><content src="Luke-21.xhtml"/></navPoint>
+        <navPoint playOrder="1103" id="toc1044"><navLabel><text>Mark 13</text></navLabel><content src="Mark-13.xhtml"/></navPoint>
+        <navPoint playOrder="1104" id="toc1045"><navLabel><text>Matthew 24</text></navLabel><content src="Matthew-24.xhtml"/></navPoint>
+        <navPoint playOrder="1105" id="toc1046"><navLabel><text>Matthew 25</text></navLabel><content src="Matthew-25.xhtml"/></navPoint>
+      </navPoint>
+      <navPoint playOrder="1106" id="toca60"><navLabel><text>Trial and crucifixion</text></navLabel><content src="Matthew-23.xhtml"/>
+        <navPoint playOrder="1107" id="toc1047"><navLabel><text>Matthew 26</text></navLabel><content src="Matthew-26.xhtml"/></navPoint>
+        <navPoint playOrder="1108" id="toc1048"><navLabel><text>Mark 14</text></navLabel><content src="Mark-14.xhtml"/></navPoint>
+        <navPoint playOrder="1109" id="toc1049"><navLabel><text>Luke 22</text></navLabel><content src="Luke-22.xhtml"/></navPoint>
+        <navPoint playOrder="1110" id="toc1050"><navLabel><text>John 13</text></navLabel><content src="John-13.xhtml"/></navPoint>
+        <navPoint playOrder="1111" id="toc1051"><navLabel><text>John 14</text></navLabel><content src="John-14.xhtml"/></navPoint>
+        <navPoint playOrder="1112" id="toc1052"><navLabel><text>John 15</text></navLabel><content src="John-15.xhtml"/></navPoint>
+        <navPoint playOrder="1113" id="toc1053"><navLabel><text>John 16</text></navLabel><content src="John-16.xhtml"/></navPoint>
+        <navPoint playOrder="1114" id="toc1054"><navLabel><text>John 17</text></navLabel><content src="John-17.xhtml"/></navPoint>
+        <navPoint playOrder="1115" id="toc1055"><navLabel><text>Matthew 27</text></navLabel><content src="Matthew-27.xhtml"/></navPoint>
+        <navPoint playOrder="1116" id="toc1056"><navLabel><text>Mark 15</text></navLabel><content src="Mark-15.xhtml"/></navPoint>
+        <navPoint playOrder="1117" id="toc1057"><navLabel><text>Luke 23</text></navLabel><content src="Luke-23.xhtml"/></navPoint>
+        <navPoint playOrder="1118" id="toc1058"><navLabel><text>John 18</text></navLabel><content src="John-18.xhtml"/></navPoint>
+        <navPoint playOrder="1119" id="toc1059"><navLabel><text>John 19</text></navLabel><content src="John-19.xhtml"/></navPoint>
+      </navPoint>
+      <navPoint playOrder="1120" id="toca61"><navLabel><text>Resurrection, Post-Resurrection appearances and ascension</text></navLabel><content src="Matthew-28.xhtml"/>
+        <navPoint playOrder="1121" id="toc1060"><navLabel><text>Matthew 28</text></navLabel><content src="Matthew-28.xhtml"/></navPoint>
+        <navPoint playOrder="1122" id="toc1061"><navLabel><text>Mark 16</text></navLabel><content src="Mark-16.xhtml"/></navPoint>
+        <navPoint playOrder="1123" id="toc1062"><navLabel><text>Luke 24</text></navLabel><content src="Luke-24.xhtml"/></navPoint>
+        <navPoint playOrder="1124" id="toc1063"><navLabel><text>John 20</text></navLabel><content src="John-20.xhtml"/></navPoint>
+        <navPoint playOrder="1125" id="toc1064"><navLabel><text>John 21</text></navLabel><content src="John-21.xhtml"/></navPoint>
+      </navPoint>
+      <navPoint playOrder="1126" id="toca62"><navLabel><text>The church's prepartion and witness in Jerusalem</text></navLabel><content src="Acts-1.xhtml"/>
+        <navPoint playOrder="1127" id="toc1065"><navLabel><text>Acts 1</text></navLabel><content src="Acts-1.xhtml"/></navPoint>
+        <navPoint playOrder="1128" id="toc1066"><navLabel><text>Acts 2</text></navLabel><content src="Acts-2.xhtml"/></navPoint>
+        <navPoint playOrder="1129" id="toc1067"><navLabel><text>Acts 3</text></navLabel><content src="Acts-3.xhtml"/></navPoint>
+        <navPoint playOrder="1130" id="toc1068"><navLabel><text>Acts 4</text></navLabel><content src="Acts-4.xhtml"/></navPoint>
+        <navPoint playOrder="1131" id="toc1069"><navLabel><text>Acts 5</text></navLabel><content src="Acts-5.xhtml"/></navPoint>
+      </navPoint>
+      <navPoint playOrder="1132" id="toca63"><navLabel><text>Witness begins beyond Jerusalem</text></navLabel><content src="Acts-6.xhtml"/>
+        <navPoint playOrder="1133" id="toc1070"><navLabel><text>Acts 6</text></navLabel><content src="Acts-6.xhtml"/></navPoint>
+        <navPoint playOrder="1134" id="toc1071"><navLabel><text>Acts 7</text></navLabel><content src="Acts-7.xhtml"/></navPoint>
+        <navPoint playOrder="1135" id="toc1072"><navLabel><text>Acts 8</text></navLabel><content src="Acts-8.xhtml"/></navPoint>
+        <navPoint playOrder="1136" id="toc1073"><navLabel><text>Acts 9</text></navLabel><content src="Acts-9.xhtml"/></navPoint>
+        <navPoint playOrder="1137" id="toc1074"><navLabel><text>Acts 10</text></navLabel><content src="Acts-10.xhtml"/></navPoint>
+        <navPoint playOrder="1138" id="toc1075"><navLabel><text>Acts 11</text></navLabel><content src="Acts-11.xhtml"/></navPoint>
+        <navPoint playOrder="1139" id="toc1076"><navLabel><text>Acts 12</text></navLabel><content src="Acts-12.xhtml"/></navPoint>
+      </navPoint>
+      <navPoint playOrder="1140" id="toca64"><navLabel><text>Witness in Cyprus and Galatia</text></navLabel><content src="Acts-13.xhtml"/>
+        <navPoint playOrder="1141" id="toc1077"><navLabel><text>Acts 13</text></navLabel><content src="Acts-13.xhtml"/></navPoint>
+        <navPoint playOrder="1142" id="toc1078"><navLabel><text>Acts 14</text></navLabel><content src="Acts-14.xhtml"/></navPoint>
+        <navPoint playOrder="1143" id="toca65"><navLabel><text>The Book of James</text></navLabel><content src="James-1.xhtml"/>
+          <navPoint playOrder="1144" id="toc1079"><navLabel><text>James 1</text></navLabel><content src="James-1.xhtml"/></navPoint>
+          <navPoint playOrder="1145" id="toc1080"><navLabel><text>James 2</text></navLabel><content src="James-2.xhtml"/></navPoint>
+          <navPoint playOrder="1146" id="toc1081"><navLabel><text>James 3</text></navLabel><content src="James-3.xhtml"/></navPoint>
+          <navPoint playOrder="1147" id="toc1082"><navLabel><text>James 4</text></navLabel><content src="James-4.xhtml"/></navPoint>
+          <navPoint playOrder="1148" id="toc1083"><navLabel><text>James 5</text></navLabel><content src="James-5.xhtml"/></navPoint>
+        </navPoint>
+      </navPoint>
+      <navPoint playOrder="1149" id="toc1084"><navLabel><text>Acts 15</text></navLabel><content src="Acts-15.xhtml"/></navPoint>
+      <navPoint playOrder="1150" id="toca66"><navLabel><text>Witness in Greece</text></navLabel><content src="Acts-16.xhtml"/>
+        <navPoint playOrder="1151" id="toc1085"><navLabel><text>Acts 16</text></navLabel><content src="Acts-16.xhtml"/></navPoint>
+        <navPoint playOrder="1152" id="toca67"><navLabel><text>The book of Galatians</text></navLabel><content src="Galatians-1.xhtml"/>
+          <navPoint playOrder="1153" id="toc1086"><navLabel><text>Galatians 1</text></navLabel><content src="Galatians-1.xhtml"/></navPoint>
+          <navPoint playOrder="1154" id="toc1087"><navLabel><text>Galatians 2</text></navLabel><content src="Galatians-2.xhtml"/></navPoint>
+          <navPoint playOrder="1155" id="toc1088"><navLabel><text>Galatians 3</text></navLabel><content src="Galatians-3.xhtml"/></navPoint>
+          <navPoint playOrder="1156" id="toc1089"><navLabel><text>Galatians 4</text></navLabel><content src="Galatians-4.xhtml"/></navPoint>
+          <navPoint playOrder="1157" id="toc1090"><navLabel><text>Galatians 5</text></navLabel><content src="Galatians-5.xhtml"/></navPoint>
+          <navPoint playOrder="1158" id="toc1091"><navLabel><text>Galatians 6</text></navLabel><content src="Galatians-6.xhtml"/></navPoint>
+        </navPoint>
+        <navPoint playOrder="1159" id="toc1092"><navLabel><text>Acts 17</text></navLabel><content src="Acts-17.xhtml"/></navPoint>
+        <navPoint playOrder="1160" id="toc1093"><navLabel><text>Acts 18:1-17</text></navLabel><content src="Acts-18-1-17.xhtml"/></navPoint>
+        <navPoint playOrder="1161" id="toca68"><navLabel><text>1 Thessalonians</text></navLabel><content src="1Thessalonians-1.xhtml"/>
+          <navPoint playOrder="1162" id="toc1094"><navLabel><text>1 Thessalonians 1</text></navLabel><content src="1Thessalonians-1.xhtml"/></navPoint>
+          <navPoint playOrder="1163" id="toc1095"><navLabel><text>1 Thessalonians 2</text></navLabel><content src="1Thessalonians-2.xhtml"/></navPoint>
+          <navPoint playOrder="1164" id="toc1096"><navLabel><text>1 Thessalonians 3</text></navLabel><content src="1Thessalonians-3.xhtml"/></navPoint>
+          <navPoint playOrder="1165" id="toc1097"><navLabel><text>1 Thessalonians 4</text></navLabel><content src="1Thessalonians-4.xhtml"/></navPoint>
+          <navPoint playOrder="1166" id="toc1098"><navLabel><text>1 Thessalonians 5</text></navLabel><content src="1Thessalonians-5.xhtml"/></navPoint>
+          <navPoint playOrder="1167" id="toc1099"><navLabel><text>2 Thessalonians 1</text></navLabel><content src="2Thessalonians-1.xhtml"/></navPoint>
+          <navPoint playOrder="1168" id="toc1100"><navLabel><text>2 Thessalonians 2</text></navLabel><content src="2Thessalonians-2.xhtml"/></navPoint>
+          <navPoint playOrder="1169" id="toc1101"><navLabel><text>2 Thessalonians 3</text></navLabel><content src="2Thessalonians-3.xhtml"/></navPoint>
+        </navPoint>
+      </navPoint>
+      <navPoint playOrder="1170" id="toca69"><navLabel><text>Witness in Ephesus</text></navLabel><content src="Acts-18-18-28.xhtml"/>
+        <navPoint playOrder="1171" id="toc1102"><navLabel><text>Acts 18:18-28</text></navLabel><content src="Acts-18-18-28.xhtml"/></navPoint>
+        <navPoint playOrder="1172" id="toc1103"><navLabel><text>Acts 19</text></navLabel><content src="Acts-19.xhtml"/></navPoint>
+        <navPoint playOrder="1173" id="toca70"><navLabel><text>1 Corinthians</text></navLabel><content src="1Corinthians.xhtml"/>
+          <navPoint playOrder="1174" id="toc1104"><navLabel><text>1 Corinthians 1</text></navLabel><content src="1Corinthians-1.xhtml"/></navPoint>
+          <navPoint playOrder="1175" id="toc1105"><navLabel><text>1 Corinthians 2</text></navLabel><content src="1Corinthians-2.xhtml"/></navPoint>
+          <navPoint playOrder="1176" id="toc1106"><navLabel><text>1 Corinthians 3</text></navLabel><content src="1Corinthians-3.xhtml"/></navPoint>
+          <navPoint playOrder="1177" id="toc1107"><navLabel><text>1 Corinthians 4</text></navLabel><content src="1Corinthians-4.xhtml"/></navPoint>
+          <navPoint playOrder="1178" id="toc1108"><navLabel><text>1 Corinthians 5</text></navLabel><content src="1Corinthians-5.xhtml"/></navPoint>
+          <navPoint playOrder="1179" id="toc1109"><navLabel><text>1 Corinthians 6</text></navLabel><content src="1Corinthians-6.xhtml"/></navPoint>
+          <navPoint playOrder="1180" id="toc1110"><navLabel><text>1 Corinthians 7</text></navLabel><content src="1Corinthians-7.xhtml"/></navPoint>
+          <navPoint playOrder="1181" id="toc1111"><navLabel><text>1 Corinthians 8</text></navLabel><content src="1Corinthians-8.xhtml"/></navPoint>
+          <navPoint playOrder="1182" id="toc1112"><navLabel><text>1 Corinthians 9</text></navLabel><content src="1Corinthians-9.xhtml"/></navPoint>
+          <navPoint playOrder="1183" id="toc1113"><navLabel><text>1 Corinthians 10</text></navLabel><content src="1Corinthians-10.xhtml"/></navPoint>
+          <navPoint playOrder="1184" id="toc1114"><navLabel><text>1 Corinthians 11</text></navLabel><content src="1Corinthians-11.xhtml"/></navPoint>
+          <navPoint playOrder="1185" id="toc1115"><navLabel><text>1 Corinthians 12</text></navLabel><content src="1Corinthians-12.xhtml"/></navPoint>
+          <navPoint playOrder="1186" id="toc1116"><navLabel><text>1 Corinthians 13</text></navLabel><content src="1Corinthians-13.xhtml"/></navPoint>
+          <navPoint playOrder="1187" id="toc1117"><navLabel><text>1 Corinthians 14</text></navLabel><content src="1Corinthians-14.xhtml"/></navPoint>
+          <navPoint playOrder="1188" id="toc1118"><navLabel><text>1 Corinthians 15</text></navLabel><content src="1Corinthians-15.xhtml"/></navPoint>
+          <navPoint playOrder="1189" id="toc1119"><navLabel><text>1 Corinthians 16</text></navLabel><content src="1Corinthians-16.xhtml"/></navPoint>
+        </navPoint>
+        <navPoint playOrder="1190" id="toca71"><navLabel><text>2 Corinthians</text></navLabel><content src="2Corinthians.xhtml"/>
+          <navPoint playOrder="1191" id="toc1120"><navLabel><text>2 Corinthians 1</text></navLabel><content src="2Corinthians-1.xhtml"/></navPoint>
+          <navPoint playOrder="1192" id="toc1121"><navLabel><text>2 Corinthians 2</text></navLabel><content src="2Corinthians-2.xhtml"/></navPoint>
+          <navPoint playOrder="1193" id="toc1122"><navLabel><text>2 Corinthians 3</text></navLabel><content src="2Corinthians-3.xhtml"/></navPoint>
+          <navPoint playOrder="1194" id="toc1123"><navLabel><text>2 Corinthians 4</text></navLabel><content src="2Corinthians-4.xhtml"/></navPoint>
+          <navPoint playOrder="1195" id="toc1124"><navLabel><text>2 Corinthians 5</text></navLabel><content src="2Corinthians-5.xhtml"/></navPoint>
+          <navPoint playOrder="1196" id="toc1125"><navLabel><text>2 Corinthians 6</text></navLabel><content src="2Corinthians-6.xhtml"/></navPoint>
+          <navPoint playOrder="1197" id="toc1126"><navLabel><text>2 Corinthians 7</text></navLabel><content src="2Corinthians-7.xhtml"/></navPoint>
+          <navPoint playOrder="1198" id="toc1127"><navLabel><text>2 Corinthians 8</text></navLabel><content src="2Corinthians-8.xhtml"/></navPoint>
+          <navPoint playOrder="1199" id="toc1128"><navLabel><text>2 Corinthians 9</text></navLabel><content src="2Corinthians-9.xhtml"/></navPoint>
+          <navPoint playOrder="1200" id="toc1129"><navLabel><text>2 Corinthians 10</text></navLabel><content src="2Corinthians-10.xhtml"/></navPoint>
+          <navPoint playOrder="1201" id="toc1130"><navLabel><text>2 Corinthians 11</text></navLabel><content src="2Corinthians-11.xhtml"/></navPoint>
+          <navPoint playOrder="1202" id="toc1131"><navLabel><text>2 Corinthians 12</text></navLabel><content src="2Corinthians-12.xhtml"/></navPoint>
+          <navPoint playOrder="1203" id="toc1132"><navLabel><text>2 Corinthians 13</text></navLabel><content src="2Corinthians-13.xhtml"/></navPoint>
+        </navPoint>
+        <navPoint playOrder="1204" id="toc1133"><navLabel><text>Acts 20:1-3</text></navLabel><content src="Acts-20-1-3.xhtml"/></navPoint>
+        <navPoint playOrder="1205" id="toca72"><navLabel><text>The book of Romans</text></navLabel><content src="Romans-1.xhtml"/>
+          <navPoint playOrder="1206" id="toc1134"><navLabel><text>Romans 1</text></navLabel><content src="Romans-1.xhtml"/></navPoint>
+          <navPoint playOrder="1207" id="toc1135"><navLabel><text>Romans 2</text></navLabel><content src="Romans-2.xhtml"/></navPoint>
+          <navPoint playOrder="1208" id="toc1136"><navLabel><text>Romans 3</text></navLabel><content src="Romans-3.xhtml"/></navPoint>
+          <navPoint playOrder="1209" id="toc1137"><navLabel><text>Romans 4</text></navLabel><content src="Romans-4.xhtml"/></navPoint>
+          <navPoint playOrder="1210" id="toc1138"><navLabel><text>Romans 5</text></navLabel><content src="Romans-5.xhtml"/></navPoint>
+          <navPoint playOrder="1211" id="toc1139"><navLabel><text>Romans 6</text></navLabel><content src="Romans-6.xhtml"/></navPoint>
+          <navPoint playOrder="1212" id="toc1140"><navLabel><text>Romans 7</text></navLabel><content src="Romans-7.xhtml"/></navPoint>
+          <navPoint playOrder="1213" id="toc1141"><navLabel><text>Romans 8</text></navLabel><content src="Romans-8.xhtml"/></navPoint>
+          <navPoint playOrder="1214" id="toc1142"><navLabel><text>Romans 9</text></navLabel><content src="Romans-9.xhtml"/></navPoint>
+          <navPoint playOrder="1215" id="toc1143"><navLabel><text>Romans 10</text></navLabel><content src="Romans-10.xhtml"/></navPoint>
+          <navPoint playOrder="1216" id="toc1144"><navLabel><text>Romans 11</text></navLabel><content src="Romans-11.xhtml"/></navPoint>
+          <navPoint playOrder="1217" id="toc1145"><navLabel><text>Romans 12</text></navLabel><content src="Romans-12.xhtml"/></navPoint>
+          <navPoint playOrder="1218" id="toc1146"><navLabel><text>Romans 13</text></navLabel><content src="Romans-13.xhtml"/></navPoint>
+          <navPoint playOrder="1219" id="toc1147"><navLabel><text>Romans 14</text></navLabel><content src="Romans-14.xhtml"/></navPoint>
+          <navPoint playOrder="1220" id="toc1148"><navLabel><text>Romans 15</text></navLabel><content src="Romans-15.xhtml"/></navPoint>
+          <navPoint playOrder="1221" id="toc1149"><navLabel><text>Romans 16</text></navLabel><content src="Romans-16.xhtml"/></navPoint>
+        </navPoint>
+        <navPoint playOrder="1222" id="toc1150"><navLabel><text>Acts 20:3-38</text></navLabel><content src="Acts-20-3-38.xhtml"/></navPoint>
+        <navPoint playOrder="1223" id="toc1151"><navLabel><text>Acts 21</text></navLabel><content src="Acts-21.xhtml"/></navPoint>
+      </navPoint>
+      <navPoint playOrder="1224" id="toca73"><navLabel><text>Arrest in Jerusalem</text></navLabel><content src="Acts-22.xhtml"/>
+        <navPoint playOrder="1225" id="toc1152"><navLabel><text>Acts 22</text></navLabel><content src="Acts-22.xhtml"/></navPoint>
+        <navPoint playOrder="1226" id="toc1153"><navLabel><text>Acts 23</text></navLabel><content src="Acts-23.xhtml"/></navPoint>
+      </navPoint>
+      <navPoint playOrder="1227" id="toca74"><navLabel><text>Witness in Caesarea</text></navLabel><content src="Acts-24.xhtml"/>
+        <navPoint playOrder="1228" id="toc1154"><navLabel><text>Acts 24</text></navLabel><content src="Acts-24.xhtml"/></navPoint>
+        <navPoint playOrder="1229" id="toc1155"><navLabel><text>Acts 25</text></navLabel><content src="Acts-25.xhtml"/></navPoint>
+        <navPoint playOrder="1230" id="toc1156"><navLabel><text>Acts 26</text></navLabel><content src="Acts-26.xhtml"/></navPoint>
+      </navPoint>
+      <navPoint playOrder="1231" id="toca75"><navLabel><text>Witness in Rome</text></navLabel><content src="Acts-27.xhtml"/>
+        <navPoint playOrder="1232" id="toc1157"><navLabel><text>Acts 27</text></navLabel><content src="Acts-27.xhtml"/></navPoint>
+        <navPoint playOrder="1233" id="toc1158"><navLabel><text>Acts 28</text></navLabel><content src="Acts-28.xhtml"/></navPoint>
+      </navPoint>
+      <navPoint playOrder="1234" id="toca76"><navLabel><text>The book of Colossians</text></navLabel><content src="Colossians-1.xhtml"/>
+          <navPoint playOrder="1235" id="toc1159"><navLabel><text>Colossians 1</text></navLabel><content src="Colossians-1.xhtml"/></navPoint>
+          <navPoint playOrder="1236" id="toc1160"><navLabel><text>Colossians 2</text></navLabel><content src="Colossians-2.xhtml"/></navPoint>
+          <navPoint playOrder="1237" id="toc1161"><navLabel><text>Colossians 3</text></navLabel><content src="Colossians-3.xhtml"/></navPoint>
+          <navPoint playOrder="1238" id="toc1162"><navLabel><text>Colossians 4</text></navLabel><content src="Colossians-4.xhtml"/></navPoint>
+        </navPoint>
+      <navPoint playOrder="1239" id="toc1163"><navLabel><text>The book of Philemon</text></navLabel><content src="Philemon-1.xhtml"/></navPoint>
+      <navPoint playOrder="1240" id="toca77"><navLabel><text>The book of Ephesians</text></navLabel><content src="Ephesians-1.xhtml"/>
+        <navPoint playOrder="1241" id="toc1164"><navLabel><text>Ephesians 1</text></navLabel><content src="Ephesians-1.xhtml"/></navPoint>
+        <navPoint playOrder="1242" id="toc1165"><navLabel><text>Ephesians 2</text></navLabel><content src="Ephesians-2.xhtml"/></navPoint>
+        <navPoint playOrder="1243" id="toc1166"><navLabel><text>Ephesians 3</text></navLabel><content src="Ephesians-3.xhtml"/></navPoint>
+        <navPoint playOrder="1244" id="toc1167"><navLabel><text>Ephesians 4</text></navLabel><content src="Ephesians-4.xhtml"/></navPoint>
+        <navPoint playOrder="1245" id="toc1168"><navLabel><text>Ephesians 5</text></navLabel><content src="Ephesians-5.xhtml"/></navPoint>
+        <navPoint playOrder="1246" id="toc1169"><navLabel><text>Ephesians 6</text></navLabel><content src="Ephesians-6.xhtml"/></navPoint>
+      </navPoint>
+      <navPoint playOrder="1247" id="toca78"><navLabel><text>The book of Philippians</text></navLabel><content src="Philippians-1.xhtml"/>
+        <navPoint playOrder="1248" id="toc1170"><navLabel><text>Philippians 1</text></navLabel><content src="Philippians-1.xhtml"/></navPoint>
+        <navPoint playOrder="1249" id="toc1171"><navLabel><text>Philippians 2</text></navLabel><content src="Philippians-2.xhtml"/></navPoint>
+        <navPoint playOrder="1250" id="toc1172"><navLabel><text>Philippians 3</text></navLabel><content src="Philippians-3.xhtml"/></navPoint>
+        <navPoint playOrder="1251" id="toc1173"><navLabel><text>Philippians 4</text></navLabel><content src="Philippians-4.xhtml"/></navPoint>
+      </navPoint>
+      <navPoint playOrder="1252" id="toca79"><navLabel><text>1 Timothy</text></navLabel><content src="1Timothy-1.xhtml"/>
+        <navPoint playOrder="1253" id="toc1174"><navLabel><text>1 Timothy 1</text></navLabel><content src="1Timothy-1.xhtml"/></navPoint>
+        <navPoint playOrder="1254" id="toc1175"><navLabel><text>1 Timothy 2</text></navLabel><content src="1Timothy-2.xhtml"/></navPoint>
+        <navPoint playOrder="1255" id="toc1176"><navLabel><text>1 Timothy 3</text></navLabel><content src="1Timothy-3.xhtml"/></navPoint>
+        <navPoint playOrder="1256" id="toc1177"><navLabel><text>1 Timothy 4</text></navLabel><content src="1Timothy-4.xhtml"/></navPoint>
+        <navPoint playOrder="1257" id="toc1178"><navLabel><text>1 Timothy 5</text></navLabel><content src="1Timothy-5.xhtml"/></navPoint>
+        <navPoint playOrder="1258" id="toc1179"><navLabel><text>1 Timothy 6</text></navLabel><content src="1Timothy-6.xhtml"/></navPoint>
+      </navPoint>
+      <navPoint playOrder="1259" id="toca80"><navLabel><text>Titus</text></navLabel><content src="Titus-1.xhtml"/>
+        <navPoint playOrder="1260" id="toc1180"><navLabel><text>Titus 1</text></navLabel><content src="Titus-1.xhtml"/></navPoint>
+        <navPoint playOrder="1261" id="toc1181"><navLabel><text>Titus 2</text></navLabel><content src="Titus-2.xhtml"/></navPoint>
+        <navPoint playOrder="1262" id="toc1182"><navLabel><text>Titus 3</text></navLabel><content src="Titus-3.xhtml"/></navPoint>
+        </navPoint>
+      <navPoint playOrder="1263" id="toca81"><navLabel><text>1 Peter</text></navLabel><content src="1Peter-1.xhtml"/>
+        <navPoint playOrder="1264" id="toc1183"><navLabel><text>1 Peter 1</text></navLabel><content src="1Peter-1.xhtml"/></navPoint>
+        <navPoint playOrder="1265" id="toc1184"><navLabel><text>1 Peter 2</text></navLabel><content src="1Peter-2.xhtml"/></navPoint>
+        <navPoint playOrder="1266" id="toc1185"><navLabel><text>1 Peter 3</text></navLabel><content src="1Peter-3.xhtml"/></navPoint>
+        <navPoint playOrder="1267" id="toc1186"><navLabel><text>1 Peter 4</text></navLabel><content src="1Peter-4.xhtml"/></navPoint>
+        <navPoint playOrder="1268" id="toc1187"><navLabel><text>1 Peter 5</text></navLabel><content src="1Peter-5.xhtml"/></navPoint>
+      </navPoint>
+      <navPoint playOrder="1269" id="toca82"><navLabel><text>Hebrews</text></navLabel><content src="Hebrews-1.xhtml"/>
+        <navPoint playOrder="1270" id="toc1188"><navLabel><text>Hebrews 1</text></navLabel><content src="Hebrews-1.xhtml"/></navPoint>
+        <navPoint playOrder="1271" id="toc1189"><navLabel><text>Hebrews 2</text></navLabel><content src="Hebrews-2.xhtml"/></navPoint>
+        <navPoint playOrder="1272" id="toc1190"><navLabel><text>Hebrews 3</text></navLabel><content src="Hebrews-3.xhtml"/></navPoint>
+        <navPoint playOrder="1273" id="toc1191"><navLabel><text>Hebrews 4</text></navLabel><content src="Hebrews-4.xhtml"/></navPoint>
+        <navPoint playOrder="1274" id="toc1192"><navLabel><text>Hebrews 5</text></navLabel><content src="Hebrews-5.xhtml"/></navPoint>
+        <navPoint playOrder="1275" id="toc1193"><navLabel><text>Hebrews 6</text></navLabel><content src="Hebrews-6.xhtml"/></navPoint>
+        <navPoint playOrder="1276" id="toc1194"><navLabel><text>Hebrews 7</text></navLabel><content src="Hebrews-7.xhtml"/></navPoint>
+        <navPoint playOrder="1277" id="toc1195"><navLabel><text>Hebrews 8</text></navLabel><content src="Hebrews-8.xhtml"/></navPoint>
+        <navPoint playOrder="1278" id="toc1196"><navLabel><text>Hebrews 9</text></navLabel><content src="Hebrews-9.xhtml"/></navPoint>
+        <navPoint playOrder="1279" id="toc1197"><navLabel><text>Hebrews 10</text></navLabel><content src="Hebrews-10.xhtml"/></navPoint>
+        <navPoint playOrder="1280" id="toc1198"><navLabel><text>Hebrews 11</text></navLabel><content src="Hebrews-11.xhtml"/></navPoint>
+        <navPoint playOrder="1281" id="toc1199"><navLabel><text>Hebrews 12</text></navLabel><content src="Hebrews-12.xhtml"/></navPoint>
+        <navPoint playOrder="1282" id="toc1200"><navLabel><text>Hebrews 13</text></navLabel><content src="Hebrews-13.xhtml"/></navPoint>
+      </navPoint>
+      <navPoint playOrder="1283" id="toca83"><navLabel><text>2 Timothy</text></navLabel><content src="2Timothy-1.xhtml"/>
+        <navPoint playOrder="1284" id="toc1201"><navLabel><text>2 Timothy 1</text></navLabel><content src="2Timothy-1.xhtml"/></navPoint>
+        <navPoint playOrder="1285" id="toc1202"><navLabel><text>2 Timothy 2</text></navLabel><content src="2Timothy-2.xhtml"/></navPoint>
+        <navPoint playOrder="1286" id="toc1203"><navLabel><text>2 Timothy 3</text></navLabel><content src="2Timothy-3.xhtml"/></navPoint>
+        <navPoint playOrder="1287" id="toc1204"><navLabel><text>2 Timothy 4</text></navLabel><content src="2Timothy-4.xhtml"/></navPoint>
+      </navPoint>
+      <navPoint playOrder="1288" id="toca84"><navLabel><text>2 Peter</text></navLabel><content src="2Peter-1.xhtml"/>
+        <navPoint playOrder="1289" id="toc1205"><navLabel><text>2 Peter 1</text></navLabel><content src="2Peter-1.xhtml"/></navPoint>
+        <navPoint playOrder="1290" id="toc1206"><navLabel><text>2 Peter 2</text></navLabel><content src="2Peter-2.xhtml"/></navPoint>
+        <navPoint playOrder="1291" id="toc1207"><navLabel><text>2 Peter 3</text></navLabel><content src="2Peter-3.xhtml"/></navPoint>
+      </navPoint>
+      <navPoint playOrder="1292" id="toc1208"><navLabel><text>Jude</text></navLabel><content src="Jude-1.xhtml"/></navPoint>
+      <navPoint playOrder="1293" id="toca85"><navLabel><text>1 John</text></navLabel><content src="1John-1.xhtml"/>
+        <navPoint playOrder="1294" id="toc1209"><navLabel><text>1 John 1</text></navLabel><content src="1John-1.xhtml"/></navPoint>
+        <navPoint playOrder="1295" id="toc1210"><navLabel><text>1 John 2</text></navLabel><content src="1John-2.xhtml"/></navPoint>
+        <navPoint playOrder="1296" id="toc1211"><navLabel><text>1 John 3</text></navLabel><content src="1John-3.xhtml"/></navPoint>
+        <navPoint playOrder="1297" id="toc1212"><navLabel><text>1 John 4</text></navLabel><content src="1John-4.xhtml"/></navPoint>
+        <navPoint playOrder="1298" id="toc1213"><navLabel><text>1 John 5</text></navLabel><content src="1John-5.xhtml"/></navPoint>
+      </navPoint>
+      <navPoint playOrder="1299" id="toc1214"><navLabel><text>2 John</text></navLabel><content src="2John-1.xhtml"/></navPoint>
+      <navPoint playOrder="1300" id="toc1215"><navLabel><text>3 John</text></navLabel><content src="3John-1.xhtml"/></navPoint>
+      <navPoint playOrder="1301" id="toca86"><navLabel><text>Revelation</text></navLabel><content src="Revelation-1.xhtml"/>
+        <navPoint playOrder="1302" id="toc1216"><navLabel><text>Revelation 1</text></navLabel><content src="Revelation-1.xhtml"/></navPoint>
+        <navPoint playOrder="1303" id="toc1217"><navLabel><text>Revelation 2</text></navLabel><content src="Revelation-2.xhtml"/></navPoint>
+        <navPoint playOrder="1304" id="toc1218"><navLabel><text>Revelation 3</text></navLabel><content src="Revelation-3.xhtml"/></navPoint>
+        <navPoint playOrder="1305" id="toc1219"><navLabel><text>Revelation 4</text></navLabel><content src="Revelation-4.xhtml"/></navPoint>
+        <navPoint playOrder="1306" id="toc1220"><navLabel><text>Revelation 5</text></navLabel><content src="Revelation-5.xhtml"/></navPoint>
+        <navPoint playOrder="1307" id="toc1221"><navLabel><text>Revelation 6</text></navLabel><content src="Revelation-6.xhtml"/></navPoint>
+        <navPoint playOrder="1308" id="toc1222"><navLabel><text>Revelation 7</text></navLabel><content src="Revelation-7.xhtml"/></navPoint>
+        <navPoint playOrder="1309" id="toc1223"><navLabel><text>Revelation 8</text></navLabel><content src="Revelation-8.xhtml"/></navPoint>
+        <navPoint playOrder="1310" id="toc1224"><navLabel><text>Revelation 9</text></navLabel><content src="Revelation-9.xhtml"/></navPoint>
+        <navPoint playOrder="1311" id="toc1225"><navLabel><text>Revelation 10</text></navLabel><content src="Revelation-10.xhtml"/></navPoint>
+        <navPoint playOrder="1312" id="toc1226"><navLabel><text>Revelation 11</text></navLabel><content src="Revelation-11.xhtml"/></navPoint>
+        <navPoint playOrder="1313" id="toc1227"><navLabel><text>Revelation 12</text></navLabel><content src="Revelation-12.xhtml"/></navPoint>
+        <navPoint playOrder="1314" id="toc1228"><navLabel><text>Revelation 13</text></navLabel><content src="Revelation-13.xhtml"/></navPoint>
+        <navPoint playOrder="1315" id="toc1229"><navLabel><text>Revelation 14</text></navLabel><content src="Revelation-14.xhtml"/></navPoint>
+        <navPoint playOrder="1316" id="toc1230"><navLabel><text>Revelation 15</text></navLabel><content src="Revelation-15.xhtml"/></navPoint>
+        <navPoint playOrder="1317" id="toc1231"><navLabel><text>Revelation 16</text></navLabel><content src="Revelation-16.xhtml"/></navPoint>
+        <navPoint playOrder="1318" id="toc1232"><navLabel><text>Revelation 17</text></navLabel><content src="Revelation-17.xhtml"/></navPoint>
+        <navPoint playOrder="1319" id="toc1233"><navLabel><text>Revelation 18</text></navLabel><content src="Revelation-18.xhtml"/></navPoint>
+        <navPoint playOrder="1320" id="toc1234"><navLabel><text>Revelation 19</text></navLabel><content src="Revelation-19.xhtml"/></navPoint>
+        <navPoint playOrder="1321" id="toc1235"><navLabel><text>Revelation 20</text></navLabel><content src="Revelation-20.xhtml"/></navPoint>
+        <navPoint playOrder="1322" id="toc1236"><navLabel><text>Revelation 21</text></navLabel><content src="Revelation-21.xhtml"/></navPoint>
+        <navPoint playOrder="1323" id="toc1237"><navLabel><text>Revelation 22</text></navLabel><content src="Revelation-22.xhtml"/></navPoint>
+  </navMap>
+</ncx>
